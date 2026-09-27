@@ -1,0 +1,3001 @@
+maintenance_id,machine_id,maintenance_type,maintenance_date,technician_name,maintenance_cost,status
+1,65,Inspection,2025-04-05,Suresh,8090.28,Pending
+2,65,Emergency Repair,2025-06-23,Suresh,16501.04,Completed
+3,66,Inspection,2025-04-11,Suresh,7343.45,Pending
+4,49,Emergency Repair,2025-10-14,Karthik,1517.68,Pending
+5,28,Inspection,2025-01-04,Ravi,8848.99,Completed
+6,37,Corrective Maintenance,2025-03-21,Manoj,18356.2,Completed
+7,39,Corrective Maintenance,2025-02-22,Manoj,667.32,Completed
+8,22,Emergency Repair,2025-02-28,Manoj,2708.91,Completed
+9,48,Inspection,2025-11-13,Manoj,13241.46,Completed
+10,42,Preventive Maintenance,2025-09-07,Suresh,18762.45,Pending
+11,23,Corrective Maintenance,2025-02-28,Ravi,12834.46,Completed
+12,15,Preventive Maintenance,2025-03-07,Manoj,7014.56,Completed
+13,5,Emergency Repair,2025-11-01,Arun,14085.3,Completed
+14,51,Corrective Maintenance,2025-07-23,Ravi,18632.21,Pending
+15,24,Emergency Repair,2025-01-08,Suresh,13227.51,Pending
+16,50,Emergency Repair,2025-09-06,Ravi,7080.41,Completed
+17,54,Inspection,2025-03-12,Suresh,5011.98,Pending
+18,23,Emergency Repair,2025-10-21,Manoj,6939.92,Pending
+19,4,Corrective Maintenance,2025-09-04,Manoj,2281.99,Pending
+20,35,Inspection,2025-04-02,Karthik,13966.84,Pending
+21,15,Emergency Repair,2025-01-15,Karthik,5747.56,Pending
+22,49,Inspection,2025-06-10,Suresh,17608.81,Completed
+23,57,Emergency Repair,2025-04-09,Arun,8902.63,Pending
+24,35,Corrective Maintenance,2025-07-18,Manoj,10507.65,Completed
+25,41,Preventive Maintenance,2025-08-13,Suresh,3501.57,Completed
+26,48,Preventive Maintenance,2025-08-11,Arun,12052.56,Completed
+27,46,Corrective Maintenance,2025-05-17,Suresh,18674.81,Pending
+28,46,Preventive Maintenance,2025-05-13,Arun,17526.65,Pending
+29,4,Emergency Repair,2025-05-25,Manoj,10079.66,Pending
+30,15,Inspection,2025-01-28,Karthik,11892.88,Completed
+31,35,Corrective Maintenance,2025-06-17,Suresh,18296.41,Completed
+32,45,Corrective Maintenance,2025-05-13,Arun,5198.6,Completed
+33,71,Corrective Maintenance,2025-01-17,Manoj,4567.82,Completed
+34,51,Corrective Maintenance,2025-05-20,Ravi,3248.09,Pending
+35,72,Inspection,2025-01-05,Ravi,624.04,Completed
+36,11,Preventive Maintenance,2025-05-22,Ravi,12677.03,Completed
+37,7,Inspection,2025-09-17,Ravi,19657.27,Completed
+38,71,Emergency Repair,2025-06-17,Manoj,18139.35,Pending
+39,45,Preventive Maintenance,2025-08-25,Suresh,8422.55,Pending
+40,7,Inspection,2025-02-12,Manoj,5205.11,Completed
+41,73,Inspection,2025-07-20,Suresh,18321.94,Pending
+42,24,Inspection,2025-10-17,Karthik,2560.86,Pending
+43,31,Emergency Repair,2025-05-09,Arun,17495.8,Completed
+44,52,Corrective Maintenance,2025-07-23,Manoj,1163.45,Completed
+45,75,Emergency Repair,2025-05-27,Arun,2818.91,Completed
+46,68,Inspection,2025-12-08,Ravi,13997.29,Completed
+47,74,Inspection,2025-08-25,Ravi,14273.26,Completed
+48,22,Corrective Maintenance,2025-09-04,Arun,12230.55,Completed
+49,21,Emergency Repair,2025-02-06,Arun,13894.06,Completed
+50,61,Inspection,2025-02-04,Arun,12157.97,Completed
+51,68,Inspection,2025-01-21,Karthik,7828.23,Completed
+52,21,Emergency Repair,2025-02-21,Suresh,10983.44,Completed
+53,3,Emergency Repair,2025-07-12,Ravi,6616.12,Completed
+54,4,Emergency Repair,2025-10-27,Manoj,8778.6,Completed
+55,42,Corrective Maintenance,2025-09-05,Suresh,18136.6,Completed
+56,48,Corrective Maintenance,2025-01-27,Ravi,17355.84,Completed
+57,66,Emergency Repair,2025-01-17,Ravi,18166.69,Completed
+58,20,Preventive Maintenance,2025-12-11,Suresh,13619.44,Completed
+59,64,Corrective Maintenance,2025-08-05,Karthik,12047.73,Pending
+60,59,Corrective Maintenance,2025-09-04,Suresh,18853.18,Pending
+61,56,Preventive Maintenance,2025-11-17,Ravi,14644.61,Pending
+62,12,Emergency Repair,2025-07-21,Karthik,3521.17,Completed
+63,72,Inspection,2025-12-14,Ravi,1537.86,Completed
+64,66,Emergency Repair,2025-03-15,Suresh,7626.24,Completed
+65,46,Corrective Maintenance,2025-11-28,Suresh,2960.02,Completed
+66,36,Emergency Repair,2025-10-26,Manoj,705.28,Completed
+67,39,Preventive Maintenance,2025-12-22,Arun,9225.76,Pending
+68,73,Corrective Maintenance,2025-05-24,Suresh,14661.98,Completed
+69,59,Preventive Maintenance,2025-11-14,Ravi,4850.0,Completed
+70,46,Emergency Repair,2025-10-05,Manoj,12993.93,Completed
+71,67,Preventive Maintenance,2025-07-28,Manoj,8579.84,Completed
+72,39,Preventive Maintenance,2025-07-26,Ravi,19630.19,Completed
+73,54,Preventive Maintenance,2025-07-22,Arun,14770.47,Completed
+74,49,Preventive Maintenance,2025-02-07,Ravi,5074.98,Completed
+75,40,Emergency Repair,2025-11-02,Ravi,9149.91,Pending
+76,11,Inspection,2025-10-31,Ravi,10031.08,Completed
+77,25,Corrective Maintenance,2025-02-14,Arun,2517.72,Completed
+78,73,Preventive Maintenance,2025-03-19,Ravi,6440.13,Completed
+79,55,Emergency Repair,2025-08-10,Arun,15018.47,Pending
+80,32,Emergency Repair,2025-10-08,Manoj,2881.15,Completed
+81,34,Inspection,2025-06-09,Karthik,2405.61,Pending
+82,10,Emergency Repair,2025-11-21,Manoj,15374.51,Pending
+83,20,Emergency Repair,2025-04-28,Karthik,9121.32,Completed
+84,25,Emergency Repair,2025-11-24,Suresh,6599.05,Pending
+85,29,Emergency Repair,2025-08-09,Manoj,6688.66,Completed
+86,39,Preventive Maintenance,2025-01-10,Suresh,1370.24,Completed
+87,47,Emergency Repair,2025-06-06,Ravi,12896.0,Pending
+88,61,Preventive Maintenance,2025-09-23,Arun,8029.71,Pending
+89,15,Inspection,2025-02-16,Suresh,12717.6,Completed
+90,16,Corrective Maintenance,2025-07-29,Arun,16595.99,Completed
+91,61,Inspection,2025-05-23,Karthik,2452.84,Completed
+92,13,Preventive Maintenance,2025-10-26,Suresh,3968.27,Pending
+93,17,Preventive Maintenance,2025-01-07,Manoj,6116.54,Completed
+94,7,Corrective Maintenance,2025-03-09,Arun,12441.43,Pending
+95,50,Corrective Maintenance,2025-06-10,Karthik,5766.59,Completed
+96,12,Corrective Maintenance,2025-04-16,Karthik,16791.67,Pending
+97,43,Emergency Repair,2025-10-15,Manoj,4255.95,Completed
+98,64,Corrective Maintenance,2025-10-15,Arun,8586.21,Completed
+99,52,Corrective Maintenance,2025-10-29,Suresh,3007.62,Pending
+100,61,Inspection,2025-12-12,Manoj,4089.07,Pending
+101,11,Emergency Repair,2025-11-30,Karthik,13643.78,Completed
+102,16,Inspection,2025-05-30,Ravi,2489.37,Pending
+103,15,Corrective Maintenance,2025-12-27,Suresh,14555.09,Completed
+104,72,Preventive Maintenance,2025-03-08,Karthik,4870.49,Pending
+105,5,Inspection,2025-05-14,Suresh,12802.51,Completed
+106,49,Emergency Repair,2025-03-12,Manoj,4264.55,Pending
+107,49,Preventive Maintenance,2025-07-09,Suresh,15598.67,Completed
+108,56,Corrective Maintenance,2025-05-17,Karthik,14562.16,Completed
+109,1,Inspection,2025-07-13,Ravi,11684.8,Completed
+110,75,Preventive Maintenance,2025-11-20,Karthik,15261.67,Completed
+111,55,Preventive Maintenance,2025-11-25,Suresh,1188.95,Completed
+112,39,Corrective Maintenance,2025-04-21,Manoj,2943.74,Completed
+113,55,Corrective Maintenance,2025-07-21,Ravi,12870.09,Completed
+114,12,Emergency Repair,2025-07-15,Arun,17417.1,Completed
+115,36,Inspection,2025-08-11,Ravi,11079.15,Completed
+116,63,Preventive Maintenance,2025-05-12,Suresh,13008.92,Completed
+117,42,Inspection,2025-04-24,Karthik,14913.88,Pending
+118,2,Emergency Repair,2025-01-23,Ravi,18348.77,Completed
+119,27,Preventive Maintenance,2025-08-28,Arun,1304.25,Pending
+120,33,Corrective Maintenance,2025-07-02,Arun,11436.05,Completed
+121,41,Preventive Maintenance,2025-03-19,Ravi,7997.32,Completed
+122,30,Corrective Maintenance,2025-12-15,Manoj,3227.08,Pending
+123,5,Corrective Maintenance,2025-10-31,Ravi,8504.88,Completed
+124,18,Emergency Repair,2025-10-01,Ravi,3560.65,Pending
+125,36,Emergency Repair,2025-10-19,Arun,5427.46,Completed
+126,54,Preventive Maintenance,2025-03-17,Ravi,15463.55,Pending
+127,74,Emergency Repair,2025-10-17,Manoj,3715.43,Completed
+128,48,Preventive Maintenance,2025-06-03,Manoj,3113.44,Completed
+129,63,Emergency Repair,2025-10-31,Manoj,10508.59,Completed
+130,4,Preventive Maintenance,2025-11-22,Manoj,2191.83,Completed
+131,32,Emergency Repair,2025-09-01,Karthik,15715.23,Pending
+132,64,Corrective Maintenance,2025-07-26,Arun,6953.22,Pending
+133,9,Inspection,2025-04-26,Arun,10209.86,Completed
+134,21,Corrective Maintenance,2025-09-24,Manoj,1913.04,Completed
+135,8,Emergency Repair,2025-11-05,Ravi,3012.9,Pending
+136,67,Preventive Maintenance,2025-03-23,Manoj,10281.4,Completed
+137,19,Emergency Repair,2025-06-24,Manoj,2686.04,Pending
+138,74,Preventive Maintenance,2025-09-30,Karthik,3192.49,Completed
+139,56,Preventive Maintenance,2025-07-08,Ravi,12853.08,Pending
+140,67,Inspection,2025-05-27,Karthik,10608.01,Completed
+141,55,Emergency Repair,2025-07-11,Arun,6520.26,Completed
+142,5,Inspection,2025-09-22,Manoj,10769.94,Completed
+143,36,Emergency Repair,2025-10-22,Manoj,6932.72,Completed
+144,47,Corrective Maintenance,2025-07-23,Manoj,10818.9,Completed
+145,13,Inspection,2025-12-17,Arun,8647.94,Completed
+146,56,Emergency Repair,2025-04-09,Karthik,665.82,Pending
+147,21,Inspection,2025-10-13,Karthik,15941.55,Completed
+148,17,Corrective Maintenance,2025-10-04,Karthik,15755.93,Completed
+149,2,Preventive Maintenance,2025-02-06,Suresh,3665.71,Completed
+150,54,Preventive Maintenance,2025-01-20,Manoj,17660.09,Completed
+151,63,Emergency Repair,2025-05-17,Arun,11282.24,Pending
+152,60,Inspection,2025-11-04,Ravi,15091.34,Completed
+153,67,Preventive Maintenance,2025-09-24,Ravi,1934.09,Completed
+154,60,Corrective Maintenance,2025-08-17,Ravi,3310.29,Completed
+155,66,Inspection,2025-02-09,Arun,8542.37,Completed
+156,56,Preventive Maintenance,2025-02-08,Manoj,17750.73,Pending
+157,57,Corrective Maintenance,2025-08-21,Manoj,7260.87,Completed
+158,68,Corrective Maintenance,2025-06-01,Arun,685.67,Completed
+159,51,Emergency Repair,2025-01-04,Suresh,8455.65,Pending
+160,58,Inspection,2025-12-19,Karthik,6857.17,Completed
+161,12,Corrective Maintenance,2025-03-01,Arun,1250.33,Pending
+162,69,Preventive Maintenance,2025-10-12,Arun,15901.95,Completed
+163,64,Inspection,2025-12-14,Arun,4143.72,Completed
+164,40,Inspection,2025-05-26,Suresh,3314.67,Pending
+165,49,Preventive Maintenance,2025-05-12,Karthik,15717.32,Completed
+166,36,Emergency Repair,2025-08-29,Ravi,6333.89,Completed
+167,55,Corrective Maintenance,2025-08-24,Karthik,10129.33,Completed
+168,35,Preventive Maintenance,2025-11-02,Arun,12753.82,Completed
+169,7,Emergency Repair,2025-12-27,Arun,10174.23,Pending
+170,53,Corrective Maintenance,2025-01-16,Karthik,11032.24,Pending
+171,42,Preventive Maintenance,2025-05-18,Karthik,16923.6,Pending
+172,21,Inspection,2025-03-25,Karthik,11459.6,Completed
+173,52,Preventive Maintenance,2025-10-31,Ravi,11851.82,Completed
+174,56,Preventive Maintenance,2025-08-12,Manoj,10955.22,Completed
+175,64,Emergency Repair,2025-09-10,Arun,19416.23,Pending
+176,40,Inspection,2025-03-24,Karthik,10217.59,Completed
+177,37,Inspection,2025-01-21,Karthik,8656.62,Completed
+178,10,Inspection,2025-03-30,Arun,10545.66,Completed
+179,70,Preventive Maintenance,2025-05-20,Arun,13485.12,Completed
+180,7,Preventive Maintenance,2025-05-09,Suresh,14311.29,Completed
+181,11,Emergency Repair,2025-08-01,Ravi,3171.08,Completed
+182,56,Inspection,2025-02-27,Manoj,7169.28,Completed
+183,16,Corrective Maintenance,2025-10-30,Manoj,2994.16,Completed
+184,25,Inspection,2025-08-29,Manoj,14968.06,Pending
+185,19,Corrective Maintenance,2025-11-21,Suresh,6735.7,Completed
+186,61,Corrective Maintenance,2025-01-02,Suresh,5211.46,Completed
+187,29,Corrective Maintenance,2025-11-25,Suresh,2862.53,Pending
+188,10,Emergency Repair,2025-09-21,Ravi,18880.96,Completed
+189,22,Emergency Repair,2025-05-21,Manoj,15742.65,Completed
+190,38,Emergency Repair,2025-04-25,Ravi,2366.55,Completed
+191,42,Corrective Maintenance,2025-10-18,Suresh,10514.98,Completed
+192,45,Preventive Maintenance,2025-07-03,Ravi,4943.62,Completed
+193,67,Corrective Maintenance,2025-01-01,Ravi,6023.15,Pending
+194,65,Preventive Maintenance,2025-08-18,Ravi,12889.31,Pending
+195,12,Inspection,2025-05-06,Suresh,5549.8,Completed
+196,55,Inspection,2025-09-24,Karthik,2202.26,Pending
+197,33,Emergency Repair,2025-10-11,Ravi,17102.19,Pending
+198,18,Corrective Maintenance,2025-07-20,Arun,8628.52,Completed
+199,37,Preventive Maintenance,2025-02-26,Ravi,19555.72,Pending
+200,53,Emergency Repair,2025-10-26,Arun,19943.14,Pending
+201,28,Corrective Maintenance,2025-12-06,Suresh,2560.72,Completed
+202,19,Inspection,2025-10-06,Ravi,15174.87,Completed
+203,37,Preventive Maintenance,2025-01-12,Manoj,18914.4,Completed
+204,13,Corrective Maintenance,2025-07-13,Ravi,4659.3,Completed
+205,5,Emergency Repair,2025-08-25,Arun,16991.56,Pending
+206,17,Corrective Maintenance,2025-01-07,Suresh,5405.56,Completed
+207,51,Inspection,2025-03-14,Manoj,4074.98,Completed
+208,54,Corrective Maintenance,2025-03-08,Arun,15721.65,Pending
+209,50,Emergency Repair,2025-03-30,Suresh,18709.74,Pending
+210,55,Preventive Maintenance,2025-11-02,Suresh,6763.21,Completed
+211,41,Emergency Repair,2025-06-15,Suresh,7204.74,Pending
+212,40,Preventive Maintenance,2025-04-19,Karthik,5752.21,Completed
+213,61,Preventive Maintenance,2025-09-14,Arun,2189.72,Completed
+214,16,Emergency Repair,2025-03-08,Karthik,7354.89,Pending
+215,5,Corrective Maintenance,2025-02-01,Karthik,12282.84,Completed
+216,11,Inspection,2025-04-21,Manoj,5849.09,Completed
+217,36,Emergency Repair,2025-04-15,Ravi,19905.76,Completed
+218,70,Corrective Maintenance,2025-10-12,Ravi,4035.2,Pending
+219,14,Preventive Maintenance,2025-01-28,Suresh,1760.03,Completed
+220,46,Corrective Maintenance,2025-06-22,Manoj,14716.47,Completed
+221,72,Inspection,2025-12-11,Ravi,2340.91,Completed
+222,1,Corrective Maintenance,2025-04-13,Karthik,8722.06,Pending
+223,6,Preventive Maintenance,2025-03-26,Manoj,5056.31,Completed
+224,15,Inspection,2025-08-25,Arun,16967.22,Completed
+225,10,Preventive Maintenance,2025-07-22,Ravi,3037.02,Completed
+226,9,Inspection,2025-12-22,Arun,3992.62,Completed
+227,6,Inspection,2025-11-04,Suresh,540.98,Completed
+228,43,Inspection,2025-11-02,Arun,7075.67,Completed
+229,15,Preventive Maintenance,2025-12-05,Arun,17051.36,Completed
+230,66,Inspection,2025-08-15,Ravi,3226.15,Completed
+231,70,Corrective Maintenance,2025-10-04,Manoj,2870.72,Completed
+232,64,Preventive Maintenance,2025-01-14,Karthik,857.82,Completed
+233,73,Corrective Maintenance,2025-10-27,Ravi,5918.92,Completed
+234,23,Preventive Maintenance,2025-01-27,Manoj,11291.36,Completed
+235,17,Corrective Maintenance,2025-12-31,Ravi,14564.34,Pending
+236,40,Inspection,2025-05-07,Suresh,16789.66,Pending
+237,20,Corrective Maintenance,2025-08-20,Manoj,18259.21,Pending
+238,54,Corrective Maintenance,2025-11-19,Manoj,9175.96,Completed
+239,4,Emergency Repair,2025-08-22,Ravi,12857.02,Completed
+240,54,Corrective Maintenance,2025-12-29,Ravi,3360.07,Completed
+241,9,Emergency Repair,2025-01-11,Arun,12548.39,Completed
+242,47,Corrective Maintenance,2025-02-24,Suresh,17675.24,Pending
+243,47,Preventive Maintenance,2025-11-07,Suresh,7982.71,Completed
+244,51,Corrective Maintenance,2025-08-08,Manoj,11671.65,Completed
+245,41,Preventive Maintenance,2025-06-20,Ravi,2429.99,Completed
+246,68,Corrective Maintenance,2025-09-22,Ravi,4597.19,Pending
+247,57,Preventive Maintenance,2025-04-27,Arun,15182.85,Completed
+248,58,Corrective Maintenance,2025-12-05,Karthik,18740.0,Completed
+249,16,Emergency Repair,2025-10-12,Arun,11060.02,Completed
+250,61,Corrective Maintenance,2025-05-03,Ravi,4088.34,Completed
+251,20,Corrective Maintenance,2025-06-07,Suresh,19381.32,Completed
+252,38,Preventive Maintenance,2025-11-03,Arun,18525.61,Completed
+253,42,Emergency Repair,2025-07-02,Manoj,19461.42,Pending
+254,15,Emergency Repair,2025-07-25,Ravi,3197.33,Completed
+255,68,Inspection,2025-03-17,Manoj,14546.98,Pending
+256,72,Preventive Maintenance,2025-09-12,Arun,9041.59,Completed
+257,16,Corrective Maintenance,2025-03-04,Karthik,2590.03,Completed
+258,44,Corrective Maintenance,2025-07-17,Suresh,1127.59,Completed
+259,66,Inspection,2025-07-06,Suresh,7360.75,Completed
+260,33,Preventive Maintenance,2025-12-10,Ravi,5773.96,Completed
+261,54,Inspection,2025-01-06,Manoj,3855.43,Completed
+262,60,Preventive Maintenance,2025-12-03,Karthik,17785.06,Pending
+263,72,Emergency Repair,2025-08-10,Manoj,15642.23,Pending
+264,72,Corrective Maintenance,2025-09-11,Karthik,16501.14,Completed
+265,13,Emergency Repair,2025-07-29,Manoj,12962.32,Completed
+266,5,Inspection,2025-02-28,Arun,7925.96,Completed
+267,1,Preventive Maintenance,2025-04-05,Karthik,5895.04,Pending
+268,3,Preventive Maintenance,2025-02-27,Manoj,17872.37,Completed
+269,31,Inspection,2025-04-22,Arun,15418.82,Pending
+270,20,Preventive Maintenance,2025-03-11,Manoj,6799.42,Completed
+271,73,Inspection,2025-07-23,Manoj,1857.65,Pending
+272,65,Preventive Maintenance,2025-12-12,Manoj,6905.74,Completed
+273,39,Emergency Repair,2025-01-09,Manoj,6462.35,Pending
+274,60,Corrective Maintenance,2025-09-29,Manoj,12940.05,Completed
+275,35,Preventive Maintenance,2025-12-07,Suresh,16331.59,Completed
+276,49,Inspection,2025-07-03,Arun,12318.12,Completed
+277,41,Corrective Maintenance,2025-04-06,Karthik,12049.95,Completed
+278,50,Inspection,2025-11-20,Arun,2995.39,Completed
+279,34,Emergency Repair,2025-06-14,Arun,9950.16,Completed
+280,52,Inspection,2025-09-29,Suresh,17343.1,Completed
+281,71,Inspection,2025-10-17,Suresh,11314.05,Completed
+282,73,Inspection,2025-10-10,Arun,19176.56,Pending
+283,8,Preventive Maintenance,2025-05-22,Ravi,5807.96,Completed
+284,7,Corrective Maintenance,2025-12-26,Ravi,13303.51,Completed
+285,49,Emergency Repair,2025-02-19,Ravi,4789.56,Completed
+286,26,Emergency Repair,2025-10-13,Suresh,12134.02,Completed
+287,57,Preventive Maintenance,2025-05-30,Ravi,11614.89,Pending
+288,47,Emergency Repair,2025-03-24,Suresh,18720.53,Completed
+289,31,Emergency Repair,2025-01-05,Suresh,19466.31,Completed
+290,28,Emergency Repair,2025-11-22,Karthik,920.03,Completed
+291,60,Preventive Maintenance,2025-03-21,Karthik,16275.45,Pending
+292,28,Inspection,2025-03-04,Suresh,13460.02,Completed
+293,35,Corrective Maintenance,2025-05-11,Manoj,18723.45,Pending
+294,12,Corrective Maintenance,2025-12-15,Ravi,12969.99,Completed
+295,42,Corrective Maintenance,2025-06-01,Manoj,15348.69,Completed
+296,22,Emergency Repair,2025-11-27,Arun,19160.39,Completed
+297,60,Inspection,2025-03-21,Manoj,11252.59,Completed
+298,75,Corrective Maintenance,2025-12-06,Arun,9212.21,Completed
+299,21,Corrective Maintenance,2025-06-04,Suresh,2872.6,Completed
+300,23,Inspection,2025-02-22,Arun,10222.99,Completed
+301,71,Emergency Repair,2025-06-10,Ravi,9448.66,Completed
+302,30,Inspection,2025-04-23,Manoj,19788.68,Completed
+303,63,Emergency Repair,2025-07-05,Arun,14646.26,Pending
+304,32,Preventive Maintenance,2025-02-07,Ravi,7306.05,Pending
+305,32,Preventive Maintenance,2025-05-26,Manoj,5304.43,Completed
+306,20,Corrective Maintenance,2025-09-11,Suresh,3256.27,Pending
+307,15,Corrective Maintenance,2025-01-27,Manoj,6217.92,Completed
+308,10,Corrective Maintenance,2025-03-09,Manoj,9480.49,Completed
+309,52,Corrective Maintenance,2025-02-07,Arun,18825.56,Pending
+310,60,Corrective Maintenance,2025-08-06,Manoj,2367.8,Completed
+311,47,Inspection,2025-05-26,Karthik,8591.43,Pending
+312,11,Corrective Maintenance,2025-02-21,Ravi,5474.65,Completed
+313,7,Preventive Maintenance,2025-10-25,Suresh,4272.18,Pending
+314,59,Emergency Repair,2025-05-27,Suresh,6195.48,Pending
+315,66,Corrective Maintenance,2025-06-08,Karthik,13151.64,Completed
+316,23,Emergency Repair,2025-09-09,Ravi,7614.41,Pending
+317,8,Emergency Repair,2025-10-17,Ravi,12895.09,Completed
+318,62,Emergency Repair,2025-04-14,Manoj,8441.75,Completed
+319,45,Corrective Maintenance,2025-04-19,Karthik,5171.87,Completed
+320,57,Emergency Repair,2025-01-19,Suresh,13493.36,Completed
+321,68,Corrective Maintenance,2025-05-01,Karthik,13653.19,Completed
+322,29,Emergency Repair,2025-02-12,Karthik,14383.15,Pending
+323,21,Corrective Maintenance,2025-09-28,Arun,14782.08,Pending
+324,60,Preventive Maintenance,2025-06-02,Ravi,12806.91,Completed
+325,32,Corrective Maintenance,2025-03-27,Manoj,12646.78,Pending
+326,33,Emergency Repair,2025-01-01,Ravi,8039.31,Pending
+327,24,Inspection,2025-07-27,Suresh,15931.56,Completed
+328,64,Corrective Maintenance,2025-04-09,Ravi,3120.62,Completed
+329,7,Corrective Maintenance,2025-08-09,Karthik,15072.53,Completed
+330,60,Corrective Maintenance,2025-12-31,Karthik,13628.9,Completed
+331,53,Emergency Repair,2025-09-09,Manoj,4315.92,Pending
+332,68,Emergency Repair,2025-01-20,Ravi,6503.55,Pending
+333,42,Inspection,2025-08-18,Karthik,6342.38,Pending
+334,18,Emergency Repair,2025-07-20,Karthik,2388.96,Pending
+335,72,Corrective Maintenance,2025-06-22,Manoj,12556.59,Pending
+336,9,Inspection,2025-11-17,Manoj,9093.5,Pending
+337,26,Corrective Maintenance,2025-11-17,Ravi,14014.77,Pending
+338,45,Corrective Maintenance,2025-07-01,Karthik,19393.81,Completed
+339,70,Inspection,2025-07-12,Suresh,17278.33,Pending
+340,55,Preventive Maintenance,2025-11-16,Karthik,5546.13,Pending
+341,23,Preventive Maintenance,2025-03-03,Karthik,4266.42,Pending
+342,56,Inspection,2025-02-01,Karthik,10829.89,Completed
+343,19,Emergency Repair,2025-04-30,Suresh,16203.01,Pending
+344,3,Inspection,2025-09-13,Manoj,17119.1,Completed
+345,20,Inspection,2025-01-21,Ravi,19732.24,Completed
+346,58,Preventive Maintenance,2025-10-04,Arun,10527.63,Completed
+347,53,Inspection,2025-06-12,Arun,13544.57,Completed
+348,34,Inspection,2025-04-14,Arun,19058.88,Completed
+349,60,Corrective Maintenance,2025-02-06,Karthik,12652.47,Completed
+350,52,Inspection,2025-05-24,Suresh,7690.93,Completed
+351,75,Preventive Maintenance,2025-01-23,Arun,12853.58,Completed
+352,50,Emergency Repair,2025-06-24,Suresh,8119.1,Completed
+353,4,Inspection,2025-06-01,Ravi,8028.27,Pending
+354,37,Preventive Maintenance,2025-07-25,Manoj,2625.73,Completed
+355,26,Emergency Repair,2025-04-28,Ravi,2874.66,Completed
+356,45,Preventive Maintenance,2025-06-27,Manoj,12233.65,Pending
+357,58,Emergency Repair,2025-06-03,Ravi,9210.82,Completed
+358,16,Preventive Maintenance,2025-10-19,Karthik,17566.82,Completed
+359,70,Corrective Maintenance,2025-11-05,Arun,16876.48,Completed
+360,8,Emergency Repair,2025-12-01,Arun,13845.44,Pending
+361,11,Preventive Maintenance,2025-09-13,Manoj,10033.16,Pending
+362,54,Inspection,2025-05-05,Ravi,11503.47,Completed
+363,39,Preventive Maintenance,2025-06-18,Suresh,14259.1,Completed
+364,67,Preventive Maintenance,2025-01-24,Ravi,5362.92,Completed
+365,58,Emergency Repair,2025-09-03,Karthik,1972.52,Completed
+366,56,Corrective Maintenance,2025-11-24,Arun,1526.4,Pending
+367,60,Preventive Maintenance,2025-04-30,Manoj,5068.09,Pending
+368,68,Preventive Maintenance,2025-09-23,Karthik,5056.29,Completed
+369,20,Corrective Maintenance,2025-05-17,Arun,18436.6,Completed
+370,34,Corrective Maintenance,2025-09-15,Manoj,16705.82,Pending
+371,71,Preventive Maintenance,2025-09-10,Manoj,1271.52,Completed
+372,33,Inspection,2025-12-20,Manoj,8928.19,Pending
+373,16,Preventive Maintenance,2025-02-02,Ravi,6458.12,Completed
+374,51,Inspection,2025-08-30,Suresh,4359.48,Completed
+375,12,Preventive Maintenance,2025-04-06,Arun,10928.4,Pending
+376,2,Inspection,2025-05-26,Manoj,6988.9,Pending
+377,22,Corrective Maintenance,2025-05-05,Suresh,3062.93,Completed
+378,44,Corrective Maintenance,2025-04-20,Arun,17080.85,Pending
+379,36,Corrective Maintenance,2025-01-04,Arun,16083.27,Completed
+380,66,Preventive Maintenance,2025-06-22,Ravi,16902.18,Pending
+381,36,Inspection,2025-05-26,Arun,12629.55,Completed
+382,74,Corrective Maintenance,2025-10-12,Arun,4698.37,Completed
+383,4,Emergency Repair,2025-02-13,Arun,14840.2,Pending
+384,75,Inspection,2025-11-23,Arun,5320.4,Completed
+385,26,Emergency Repair,2025-07-10,Karthik,9328.35,Pending
+386,42,Emergency Repair,2025-01-29,Manoj,18988.83,Completed
+387,47,Preventive Maintenance,2025-06-06,Suresh,15439.63,Pending
+388,54,Preventive Maintenance,2025-11-03,Karthik,7532.28,Pending
+389,70,Inspection,2025-02-05,Arun,19147.54,Completed
+390,17,Emergency Repair,2025-03-16,Manoj,11443.71,Pending
+391,9,Emergency Repair,2025-07-05,Karthik,18026.41,Completed
+392,38,Emergency Repair,2025-03-08,Arun,7399.66,Pending
+393,2,Preventive Maintenance,2025-11-14,Suresh,11808.48,Completed
+394,47,Corrective Maintenance,2025-11-29,Ravi,19562.33,Pending
+395,39,Inspection,2025-11-23,Manoj,2658.61,Completed
+396,42,Inspection,2025-07-04,Manoj,9499.19,Completed
+397,25,Inspection,2025-01-16,Ravi,19905.72,Completed
+398,49,Emergency Repair,2025-10-26,Karthik,515.39,Pending
+399,61,Corrective Maintenance,2025-07-22,Suresh,17544.7,Completed
+400,55,Corrective Maintenance,2025-06-28,Manoj,5403.1,Pending
+401,42,Corrective Maintenance,2025-11-26,Arun,5930.51,Completed
+402,23,Corrective Maintenance,2025-07-12,Manoj,13690.67,Completed
+403,30,Preventive Maintenance,2025-08-28,Manoj,12108.28,Pending
+404,67,Inspection,2025-05-26,Manoj,10714.01,Completed
+405,5,Emergency Repair,2025-04-07,Arun,6813.29,Completed
+406,49,Corrective Maintenance,2025-01-02,Manoj,12269.95,Completed
+407,43,Emergency Repair,2025-07-03,Karthik,11505.78,Completed
+408,6,Corrective Maintenance,2025-08-04,Manoj,19133.06,Completed
+409,31,Emergency Repair,2025-05-21,Arun,1293.82,Completed
+410,64,Inspection,2025-03-09,Ravi,8431.22,Completed
+411,48,Inspection,2025-09-03,Arun,19328.39,Pending
+412,55,Inspection,2025-01-29,Manoj,3221.74,Pending
+413,52,Inspection,2025-06-26,Karthik,17700.2,Pending
+414,46,Preventive Maintenance,2025-11-12,Arun,9648.47,Completed
+415,16,Corrective Maintenance,2025-01-21,Manoj,17685.39,Completed
+416,55,Preventive Maintenance,2025-04-21,Karthik,1824.93,Pending
+417,4,Corrective Maintenance,2025-01-12,Arun,11040.86,Completed
+418,36,Emergency Repair,2025-07-22,Arun,2313.22,Pending
+419,67,Inspection,2025-12-17,Ravi,13616.4,Completed
+420,73,Emergency Repair,2025-08-06,Ravi,1711.75,Completed
+421,26,Inspection,2025-11-28,Arun,6708.21,Pending
+422,27,Corrective Maintenance,2025-01-05,Karthik,1051.81,Completed
+423,23,Inspection,2025-08-30,Suresh,17285.5,Completed
+424,33,Inspection,2025-10-07,Suresh,13155.51,Completed
+425,1,Inspection,2025-05-10,Manoj,9960.17,Completed
+426,16,Inspection,2025-02-09,Manoj,6451.54,Completed
+427,31,Inspection,2025-01-16,Karthik,3679.68,Completed
+428,40,Emergency Repair,2025-07-02,Manoj,15966.56,Completed
+429,2,Preventive Maintenance,2025-08-13,Suresh,4811.37,Completed
+430,56,Emergency Repair,2025-12-04,Ravi,9123.13,Completed
+431,35,Preventive Maintenance,2025-02-22,Manoj,9141.16,Completed
+432,17,Inspection,2025-02-09,Karthik,14756.63,Pending
+433,29,Preventive Maintenance,2025-06-11,Manoj,19705.89,Completed
+434,27,Preventive Maintenance,2025-10-26,Karthik,4355.66,Completed
+435,2,Corrective Maintenance,2025-08-25,Karthik,19128.98,Completed
+436,75,Inspection,2025-01-04,Arun,18661.08,Completed
+437,46,Inspection,2025-02-24,Ravi,2846.35,Completed
+438,44,Preventive Maintenance,2025-10-21,Ravi,11892.24,Completed
+439,1,Inspection,2025-03-18,Suresh,3327.25,Pending
+440,73,Corrective Maintenance,2025-08-08,Arun,14344.47,Completed
+441,8,Emergency Repair,2025-07-07,Suresh,13080.49,Completed
+442,21,Emergency Repair,2025-10-16,Suresh,11049.06,Pending
+443,51,Inspection,2025-12-14,Suresh,11414.09,Completed
+444,59,Corrective Maintenance,2025-01-26,Ravi,14029.76,Completed
+445,67,Inspection,2025-08-21,Ravi,14588.17,Pending
+446,11,Corrective Maintenance,2025-08-31,Arun,9520.58,Completed
+447,65,Inspection,2025-06-23,Arun,19993.79,Completed
+448,49,Preventive Maintenance,2025-09-10,Manoj,4259.63,Completed
+449,12,Preventive Maintenance,2025-08-24,Karthik,13083.68,Completed
+450,69,Corrective Maintenance,2025-02-22,Ravi,9833.07,Pending
+451,4,Preventive Maintenance,2025-04-21,Manoj,7782.97,Completed
+452,62,Emergency Repair,2025-01-04,Karthik,16880.43,Completed
+453,23,Inspection,2025-12-19,Arun,5308.79,Completed
+454,17,Preventive Maintenance,2025-07-11,Karthik,9233.36,Completed
+455,65,Inspection,2025-01-22,Arun,17634.16,Completed
+456,21,Preventive Maintenance,2025-01-07,Ravi,12368.02,Completed
+457,75,Emergency Repair,2025-06-07,Karthik,11765.41,Completed
+458,43,Corrective Maintenance,2025-04-09,Ravi,13701.99,Pending
+459,47,Emergency Repair,2025-05-04,Karthik,2943.42,Pending
+460,47,Preventive Maintenance,2025-09-04,Karthik,4436.98,Completed
+461,52,Emergency Repair,2025-04-13,Suresh,12469.72,Completed
+462,50,Preventive Maintenance,2025-06-27,Suresh,5594.06,Completed
+463,73,Emergency Repair,2025-03-18,Arun,5309.95,Completed
+464,10,Preventive Maintenance,2025-12-30,Ravi,17992.03,Completed
+465,73,Emergency Repair,2025-03-05,Karthik,8043.04,Completed
+466,53,Inspection,2025-11-21,Arun,8723.52,Completed
+467,23,Inspection,2025-08-12,Manoj,1861.51,Completed
+468,48,Preventive Maintenance,2025-02-11,Ravi,1417.39,Completed
+469,34,Emergency Repair,2025-10-21,Karthik,4168.86,Completed
+470,54,Preventive Maintenance,2025-05-09,Karthik,9035.47,Completed
+471,48,Preventive Maintenance,2025-02-02,Karthik,16817.07,Pending
+472,75,Emergency Repair,2025-01-16,Suresh,5564.17,Completed
+473,19,Corrective Maintenance,2025-05-26,Arun,16297.1,Pending
+474,55,Emergency Repair,2025-01-10,Ravi,7859.37,Completed
+475,41,Inspection,2025-11-18,Arun,6851.77,Pending
+476,68,Corrective Maintenance,2025-03-24,Suresh,15901.56,Completed
+477,52,Inspection,2025-11-22,Karthik,15303.26,Completed
+478,51,Emergency Repair,2025-05-11,Arun,13640.67,Completed
+479,71,Corrective Maintenance,2025-07-18,Manoj,7020.97,Completed
+480,16,Emergency Repair,2025-09-25,Suresh,6292.35,Completed
+481,4,Inspection,2025-02-02,Suresh,9188.2,Completed
+482,64,Corrective Maintenance,2025-09-24,Suresh,8812.88,Completed
+483,44,Inspection,2025-09-11,Manoj,4484.96,Completed
+484,65,Corrective Maintenance,2025-08-12,Manoj,2453.42,Completed
+485,22,Corrective Maintenance,2025-08-17,Manoj,12379.1,Completed
+486,42,Inspection,2025-06-05,Karthik,19082.6,Pending
+487,31,Corrective Maintenance,2025-09-03,Ravi,4634.96,Completed
+488,41,Corrective Maintenance,2025-03-01,Karthik,19824.35,Completed
+489,75,Corrective Maintenance,2025-06-07,Suresh,12260.94,Pending
+490,10,Emergency Repair,2025-08-04,Arun,16233.53,Completed
+491,41,Preventive Maintenance,2025-12-19,Arun,6525.78,Completed
+492,26,Preventive Maintenance,2025-09-01,Manoj,6082.97,Completed
+493,24,Emergency Repair,2025-03-25,Ravi,4556.27,Pending
+494,74,Emergency Repair,2025-07-31,Arun,11430.32,Pending
+495,71,Preventive Maintenance,2025-02-02,Manoj,15980.65,Completed
+496,16,Inspection,2025-02-12,Karthik,17031.06,Pending
+497,68,Inspection,2025-10-10,Manoj,7073.75,Completed
+498,30,Inspection,2025-12-12,Arun,12275.05,Completed
+499,60,Preventive Maintenance,2025-02-28,Suresh,6065.6,Pending
+500,42,Emergency Repair,2025-10-30,Manoj,13983.75,Completed
+501,46,Preventive Maintenance,2025-07-26,Suresh,19847.24,Pending
+502,62,Emergency Repair,2025-01-27,Karthik,3938.17,Completed
+503,55,Emergency Repair,2025-12-05,Arun,9496.87,Completed
+504,69,Emergency Repair,2025-08-15,Manoj,17761.56,Completed
+505,35,Preventive Maintenance,2025-12-08,Suresh,14169.34,Pending
+506,24,Corrective Maintenance,2025-02-09,Ravi,6578.23,Completed
+507,1,Inspection,2025-03-01,Karthik,3529.9,Pending
+508,42,Inspection,2025-07-20,Karthik,7423.43,Completed
+509,55,Emergency Repair,2025-09-09,Arun,16124.45,Completed
+510,43,Corrective Maintenance,2025-11-20,Suresh,3271.33,Completed
+511,1,Emergency Repair,2025-08-23,Suresh,12496.6,Completed
+512,34,Inspection,2025-01-10,Arun,8551.33,Pending
+513,40,Emergency Repair,2025-09-11,Suresh,11427.22,Pending
+514,9,Inspection,2025-12-21,Karthik,8400.81,Pending
+515,43,Emergency Repair,2025-11-07,Suresh,19742.41,Pending
+516,63,Emergency Repair,2025-09-02,Suresh,12146.11,Completed
+517,6,Emergency Repair,2025-08-11,Karthik,5092.91,Completed
+518,17,Preventive Maintenance,2025-10-08,Karthik,1311.9,Completed
+519,72,Preventive Maintenance,2025-09-24,Arun,17090.73,Completed
+520,21,Emergency Repair,2025-08-31,Ravi,4152.83,Pending
+521,39,Inspection,2025-04-11,Arun,4036.73,Pending
+522,55,Preventive Maintenance,2025-10-23,Karthik,14607.06,Completed
+523,51,Emergency Repair,2025-10-15,Suresh,19985.27,Completed
+524,73,Preventive Maintenance,2025-09-01,Suresh,8307.69,Completed
+525,74,Emergency Repair,2025-11-23,Arun,11542.2,Completed
+526,58,Emergency Repair,2025-04-24,Suresh,2115.23,Completed
+527,16,Preventive Maintenance,2025-08-10,Karthik,9985.22,Completed
+528,16,Inspection,2025-10-04,Suresh,5987.1,Completed
+529,40,Emergency Repair,2025-04-03,Arun,18356.57,Completed
+530,53,Inspection,2025-03-06,Arun,11148.55,Pending
+531,37,Inspection,2025-11-09,Suresh,1184.32,Pending
+532,40,Emergency Repair,2025-04-03,Suresh,10832.52,Pending
+533,52,Inspection,2025-06-29,Karthik,1369.67,Pending
+534,70,Preventive Maintenance,2025-10-01,Manoj,11171.88,Completed
+535,28,Emergency Repair,2025-07-25,Suresh,3827.51,Pending
+536,36,Inspection,2025-07-19,Arun,8612.08,Completed
+537,15,Emergency Repair,2025-08-14,Ravi,11437.51,Completed
+538,18,Preventive Maintenance,2025-06-05,Karthik,16061.63,Completed
+539,1,Emergency Repair,2025-11-07,Suresh,879.41,Completed
+540,22,Corrective Maintenance,2025-09-26,Karthik,810.39,Completed
+541,13,Emergency Repair,2025-02-23,Arun,5481.94,Completed
+542,47,Emergency Repair,2025-09-09,Arun,1472.8,Completed
+543,4,Inspection,2025-11-21,Manoj,11254.73,Completed
+544,71,Preventive Maintenance,2025-02-21,Suresh,6070.62,Pending
+545,7,Emergency Repair,2025-12-28,Karthik,8302.82,Pending
+546,65,Corrective Maintenance,2025-12-15,Karthik,17639.07,Pending
+547,69,Inspection,2025-03-03,Manoj,17895.1,Pending
+548,38,Preventive Maintenance,2025-05-17,Arun,17416.31,Pending
+549,28,Inspection,2025-08-16,Arun,15441.28,Completed
+550,44,Inspection,2025-08-28,Manoj,9465.83,Pending
+551,16,Preventive Maintenance,2025-06-26,Suresh,7384.72,Pending
+552,7,Inspection,2025-11-11,Karthik,17003.61,Pending
+553,18,Emergency Repair,2025-01-03,Ravi,7333.8,Completed
+554,51,Emergency Repair,2025-09-18,Ravi,6420.41,Completed
+555,13,Corrective Maintenance,2025-05-30,Manoj,16991.82,Completed
+556,61,Emergency Repair,2025-03-26,Karthik,7879.75,Pending
+557,7,Corrective Maintenance,2025-02-10,Ravi,6144.16,Completed
+558,9,Emergency Repair,2025-04-15,Karthik,9725.76,Pending
+559,18,Inspection,2025-01-27,Arun,4999.72,Pending
+560,61,Preventive Maintenance,2025-02-14,Arun,6404.16,Completed
+561,57,Preventive Maintenance,2025-11-28,Manoj,11614.48,Completed
+562,11,Emergency Repair,2025-08-23,Arun,13982.14,Pending
+563,72,Inspection,2025-11-02,Arun,3541.15,Completed
+564,14,Inspection,2025-05-22,Suresh,3113.43,Completed
+565,7,Preventive Maintenance,2025-06-11,Karthik,6708.03,Completed
+566,29,Inspection,2025-10-08,Ravi,11229.26,Pending
+567,5,Corrective Maintenance,2025-05-07,Karthik,5458.18,Completed
+568,28,Preventive Maintenance,2025-04-04,Karthik,18306.23,Completed
+569,64,Preventive Maintenance,2025-11-05,Suresh,6129.18,Pending
+570,41,Preventive Maintenance,2025-03-08,Ravi,2993.71,Completed
+571,48,Preventive Maintenance,2025-08-04,Suresh,1631.42,Pending
+572,73,Corrective Maintenance,2025-04-07,Ravi,8479.81,Completed
+573,47,Preventive Maintenance,2025-12-01,Arun,10863.23,Completed
+574,43,Inspection,2025-02-25,Karthik,13474.43,Pending
+575,14,Preventive Maintenance,2025-09-10,Suresh,3785.78,Completed
+576,63,Emergency Repair,2025-09-25,Manoj,4962.69,Pending
+577,13,Emergency Repair,2025-03-15,Ravi,560.68,Pending
+578,41,Inspection,2025-01-24,Karthik,15423.39,Completed
+579,54,Emergency Repair,2025-11-23,Suresh,7581.91,Completed
+580,50,Emergency Repair,2025-01-26,Manoj,506.88,Pending
+581,22,Emergency Repair,2025-09-10,Arun,9522.7,Pending
+582,11,Preventive Maintenance,2025-04-01,Ravi,3581.26,Completed
+583,4,Inspection,2025-01-29,Karthik,2237.86,Pending
+584,13,Inspection,2025-07-01,Karthik,9730.57,Pending
+585,37,Emergency Repair,2025-06-25,Arun,7147.79,Completed
+586,7,Inspection,2025-07-31,Ravi,16018.25,Completed
+587,64,Inspection,2025-02-22,Manoj,14861.11,Pending
+588,19,Emergency Repair,2025-09-30,Arun,11038.8,Completed
+589,47,Inspection,2025-12-05,Arun,9910.1,Completed
+590,24,Corrective Maintenance,2025-10-19,Manoj,2982.55,Completed
+591,24,Emergency Repair,2025-07-01,Manoj,7960.43,Completed
+592,28,Corrective Maintenance,2025-05-16,Karthik,17892.12,Completed
+593,36,Corrective Maintenance,2025-12-06,Karthik,3588.02,Completed
+594,21,Preventive Maintenance,2025-03-02,Karthik,9973.9,Pending
+595,5,Corrective Maintenance,2025-04-14,Arun,15658.74,Completed
+596,46,Corrective Maintenance,2025-10-25,Suresh,14081.82,Completed
+597,45,Corrective Maintenance,2025-01-06,Manoj,1879.57,Completed
+598,40,Emergency Repair,2025-08-04,Suresh,7390.33,Completed
+599,65,Corrective Maintenance,2025-02-23,Karthik,15030.66,Completed
+600,24,Preventive Maintenance,2026-01-01,Ravi,12699.72,Pending
+601,72,Emergency Repair,2025-02-02,Karthik,9388.73,Pending
+602,19,Emergency Repair,2025-05-24,Karthik,8574.63,Completed
+603,8,Preventive Maintenance,2025-07-14,Ravi,16280.08,Completed
+604,63,Preventive Maintenance,2025-01-01,Manoj,15934.58,Pending
+605,3,Emergency Repair,2025-05-13,Ravi,2351.57,Completed
+606,42,Inspection,2025-03-14,Ravi,9407.48,Completed
+607,24,Corrective Maintenance,2025-09-25,Manoj,1429.7,Pending
+608,29,Preventive Maintenance,2025-06-08,Ravi,19948.11,Completed
+609,6,Emergency Repair,2025-09-19,Ravi,10019.83,Pending
+610,31,Preventive Maintenance,2025-10-04,Karthik,6964.62,Pending
+611,65,Corrective Maintenance,2025-09-20,Arun,2702.02,Completed
+612,9,Corrective Maintenance,2025-12-22,Suresh,4525.71,Completed
+613,41,Emergency Repair,2025-02-20,Suresh,15538.98,Completed
+614,53,Preventive Maintenance,2025-12-29,Ravi,13835.63,Pending
+615,22,Preventive Maintenance,2025-09-01,Manoj,17508.35,Completed
+616,31,Emergency Repair,2025-04-21,Karthik,17551.34,Pending
+617,7,Inspection,2025-04-22,Ravi,15440.39,Completed
+618,53,Preventive Maintenance,2025-08-31,Arun,10188.65,Pending
+619,55,Corrective Maintenance,2025-01-25,Karthik,11248.03,Completed
+620,68,Preventive Maintenance,2025-04-25,Suresh,18485.03,Completed
+621,45,Preventive Maintenance,2025-02-23,Karthik,15178.07,Pending
+622,32,Corrective Maintenance,2025-03-18,Karthik,9109.2,Completed
+623,14,Preventive Maintenance,2025-08-13,Karthik,14566.12,Completed
+624,18,Inspection,2025-09-25,Ravi,4602.44,Completed
+625,69,Inspection,2025-04-23,Manoj,12453.08,Completed
+626,65,Inspection,2025-08-27,Arun,18959.08,Completed
+627,68,Emergency Repair,2025-09-21,Manoj,9641.43,Pending
+628,63,Emergency Repair,2025-06-26,Karthik,11158.15,Pending
+629,66,Inspection,2025-04-01,Manoj,16047.45,Completed
+630,11,Preventive Maintenance,2025-10-11,Arun,8731.73,Completed
+631,30,Preventive Maintenance,2025-03-24,Arun,985.35,Completed
+632,55,Emergency Repair,2025-12-07,Arun,5308.79,Pending
+633,54,Emergency Repair,2025-01-13,Suresh,2477.69,Completed
+634,6,Corrective Maintenance,2025-02-02,Karthik,11221.86,Completed
+635,42,Emergency Repair,2025-04-12,Ravi,15739.78,Pending
+636,40,Emergency Repair,2025-04-25,Ravi,15335.13,Pending
+637,43,Corrective Maintenance,2025-06-28,Karthik,13675.85,Completed
+638,61,Emergency Repair,2025-10-02,Suresh,19497.34,Completed
+639,7,Inspection,2025-01-02,Suresh,9881.34,Completed
+640,52,Emergency Repair,2025-04-19,Karthik,19447.67,Pending
+641,27,Emergency Repair,2025-06-18,Ravi,18354.15,Completed
+642,60,Corrective Maintenance,2025-05-08,Ravi,12387.44,Completed
+643,44,Corrective Maintenance,2025-11-05,Ravi,1643.92,Pending
+644,64,Emergency Repair,2025-03-20,Manoj,2501.56,Completed
+645,62,Emergency Repair,2025-06-12,Suresh,6731.4,Completed
+646,27,Corrective Maintenance,2025-09-08,Karthik,17609.69,Completed
+647,12,Preventive Maintenance,2025-03-17,Manoj,19263.53,Completed
+648,65,Preventive Maintenance,2025-09-17,Arun,16169.51,Completed
+649,13,Emergency Repair,2025-10-02,Arun,17949.36,Completed
+650,67,Inspection,2025-03-27,Ravi,6836.73,Completed
+651,55,Inspection,2025-04-08,Suresh,13357.6,Completed
+652,68,Emergency Repair,2025-02-07,Arun,3043.66,Completed
+653,71,Emergency Repair,2025-09-27,Arun,7894.69,Completed
+654,29,Inspection,2025-10-19,Ravi,19398.49,Completed
+655,40,Emergency Repair,2025-04-15,Suresh,14201.3,Pending
+656,17,Inspection,2025-02-12,Arun,17378.49,Pending
+657,50,Corrective Maintenance,2025-07-29,Arun,11129.78,Completed
+658,13,Corrective Maintenance,2025-01-28,Manoj,6058.48,Completed
+659,69,Emergency Repair,2025-08-20,Ravi,4685.26,Pending
+660,9,Emergency Repair,2025-01-27,Karthik,9321.28,Completed
+661,50,Preventive Maintenance,2025-02-11,Karthik,9796.43,Completed
+662,18,Corrective Maintenance,2025-03-17,Suresh,8281.58,Completed
+663,45,Emergency Repair,2025-10-01,Ravi,16111.93,Completed
+664,31,Inspection,2025-04-18,Karthik,778.2,Pending
+665,62,Preventive Maintenance,2025-11-05,Ravi,19239.26,Completed
+666,54,Emergency Repair,2025-01-18,Arun,9190.23,Completed
+667,44,Corrective Maintenance,2025-06-27,Arun,3102.87,Completed
+668,62,Inspection,2025-01-02,Manoj,776.17,Completed
+669,72,Emergency Repair,2025-07-11,Karthik,1938.05,Completed
+670,58,Inspection,2025-03-11,Manoj,2288.95,Completed
+671,24,Preventive Maintenance,2025-09-10,Karthik,5310.35,Pending
+672,39,Emergency Repair,2025-04-04,Ravi,5990.46,Completed
+673,40,Emergency Repair,2025-06-09,Suresh,7145.79,Completed
+674,10,Inspection,2025-08-01,Manoj,9894.45,Completed
+675,45,Emergency Repair,2025-07-07,Arun,8940.25,Completed
+676,38,Inspection,2025-10-11,Suresh,17785.68,Completed
+677,69,Corrective Maintenance,2025-04-05,Manoj,1248.85,Completed
+678,26,Corrective Maintenance,2025-09-15,Arun,16941.81,Completed
+679,34,Corrective Maintenance,2025-06-07,Arun,761.54,Completed
+680,12,Emergency Repair,2025-04-08,Karthik,9450.93,Completed
+681,50,Preventive Maintenance,2025-08-19,Arun,16792.91,Completed
+682,62,Corrective Maintenance,2025-01-13,Arun,10315.33,Completed
+683,44,Preventive Maintenance,2025-02-24,Karthik,4646.29,Pending
+684,20,Preventive Maintenance,2025-04-29,Suresh,3504.35,Completed
+685,41,Corrective Maintenance,2025-07-06,Manoj,525.67,Completed
+686,70,Preventive Maintenance,2025-01-21,Suresh,4056.96,Completed
+687,62,Corrective Maintenance,2025-09-16,Suresh,7104.96,Completed
+688,13,Emergency Repair,2025-12-30,Manoj,6548.57,Completed
+689,16,Preventive Maintenance,2025-12-11,Karthik,4485.62,Completed
+690,24,Emergency Repair,2025-04-28,Manoj,12643.67,Pending
+691,60,Emergency Repair,2025-02-22,Ravi,14207.57,Completed
+692,30,Corrective Maintenance,2025-05-09,Karthik,8971.44,Completed
+693,72,Emergency Repair,2025-03-24,Manoj,5695.14,Completed
+694,3,Inspection,2025-07-17,Arun,9663.81,Completed
+695,2,Preventive Maintenance,2025-01-10,Suresh,12240.19,Completed
+696,51,Inspection,2025-06-05,Suresh,15582.0,Completed
+697,34,Corrective Maintenance,2025-05-06,Karthik,19915.2,Pending
+698,18,Corrective Maintenance,2025-08-27,Karthik,2001.46,Completed
+699,13,Preventive Maintenance,2025-12-07,Suresh,14926.17,Completed
+700,48,Inspection,2025-04-09,Karthik,15101.43,Completed
+701,11,Inspection,2025-02-17,Karthik,9935.25,Completed
+702,23,Corrective Maintenance,2025-06-10,Ravi,4864.87,Completed
+703,2,Inspection,2025-12-25,Manoj,3924.91,Completed
+704,19,Corrective Maintenance,2025-11-07,Arun,10562.19,Pending
+705,55,Corrective Maintenance,2025-02-05,Ravi,19713.75,Completed
+706,60,Inspection,2025-01-20,Arun,6763.68,Completed
+707,29,Preventive Maintenance,2025-07-22,Karthik,8089.87,Completed
+708,68,Emergency Repair,2025-03-03,Manoj,808.44,Completed
+709,27,Inspection,2025-11-27,Arun,14603.01,Pending
+710,43,Preventive Maintenance,2025-12-13,Manoj,12397.57,Pending
+711,1,Emergency Repair,2025-11-17,Ravi,19091.05,Pending
+712,24,Inspection,2025-11-27,Karthik,3199.34,Completed
+713,48,Preventive Maintenance,2025-01-13,Karthik,16515.18,Pending
+714,23,Emergency Repair,2025-08-23,Arun,14342.2,Pending
+715,69,Preventive Maintenance,2025-09-04,Manoj,13970.54,Pending
+716,35,Emergency Repair,2025-07-18,Arun,13734.39,Pending
+717,74,Corrective Maintenance,2025-06-11,Arun,4943.29,Completed
+718,48,Inspection,2025-09-10,Suresh,12293.04,Completed
+719,1,Emergency Repair,2025-05-31,Manoj,8953.06,Completed
+720,34,Emergency Repair,2025-04-07,Manoj,15832.4,Pending
+721,43,Preventive Maintenance,2025-03-13,Karthik,15994.9,Completed
+722,59,Preventive Maintenance,2025-09-19,Arun,11208.45,Pending
+723,54,Corrective Maintenance,2025-07-17,Arun,2073.04,Completed
+724,53,Preventive Maintenance,2025-04-05,Karthik,11263.14,Pending
+725,55,Corrective Maintenance,2025-07-17,Ravi,16609.48,Completed
+726,17,Preventive Maintenance,2025-06-08,Manoj,15103.76,Completed
+727,58,Emergency Repair,2025-12-05,Ravi,4717.37,Pending
+728,73,Preventive Maintenance,2025-08-02,Manoj,12490.19,Pending
+729,71,Emergency Repair,2025-02-05,Suresh,11949.8,Completed
+730,36,Inspection,2025-05-15,Karthik,1724.1,Completed
+731,1,Emergency Repair,2025-02-09,Manoj,17274.54,Completed
+732,73,Inspection,2025-05-23,Ravi,2563.93,Pending
+733,33,Corrective Maintenance,2025-12-21,Arun,14428.13,Completed
+734,22,Corrective Maintenance,2025-01-31,Manoj,14735.43,Completed
+735,4,Inspection,2025-10-04,Ravi,12192.64,Completed
+736,70,Inspection,2025-04-25,Suresh,8553.47,Completed
+737,26,Emergency Repair,2025-11-17,Ravi,16162.68,Pending
+738,41,Inspection,2025-07-17,Karthik,6266.66,Completed
+739,43,Preventive Maintenance,2025-05-03,Suresh,9775.71,Completed
+740,13,Preventive Maintenance,2025-07-12,Suresh,12275.99,Completed
+741,69,Inspection,2025-07-23,Arun,4943.28,Completed
+742,34,Emergency Repair,2025-07-04,Ravi,13302.96,Completed
+743,22,Emergency Repair,2025-03-07,Arun,14394.19,Pending
+744,47,Preventive Maintenance,2025-06-26,Karthik,4680.28,Completed
+745,36,Preventive Maintenance,2025-03-17,Manoj,3544.56,Completed
+746,57,Preventive Maintenance,2025-06-01,Manoj,9947.27,Pending
+747,19,Inspection,2025-02-01,Arun,16374.72,Pending
+748,22,Preventive Maintenance,2025-12-20,Manoj,4740.23,Completed
+749,1,Preventive Maintenance,2025-09-12,Manoj,1791.67,Completed
+750,73,Inspection,2025-05-08,Suresh,5546.57,Completed
+751,3,Preventive Maintenance,2025-10-16,Suresh,14396.83,Completed
+752,65,Emergency Repair,2025-12-23,Arun,17017.94,Pending
+753,33,Corrective Maintenance,2025-10-30,Karthik,5519.28,Completed
+754,2,Preventive Maintenance,2025-01-15,Arun,7307.18,Completed
+755,29,Inspection,2025-10-30,Ravi,14636.09,Pending
+756,24,Emergency Repair,2025-03-24,Suresh,8955.91,Pending
+757,56,Inspection,2025-03-20,Arun,13637.47,Completed
+758,49,Inspection,2025-12-05,Manoj,18876.34,Completed
+759,10,Preventive Maintenance,2025-05-26,Manoj,10789.54,Pending
+760,71,Emergency Repair,2025-01-18,Karthik,2378.5,Completed
+761,11,Inspection,2025-11-12,Suresh,4560.28,Completed
+762,11,Emergency Repair,2025-02-07,Karthik,18876.65,Completed
+763,40,Emergency Repair,2025-03-27,Suresh,7855.64,Pending
+764,57,Preventive Maintenance,2025-06-19,Suresh,1235.59,Completed
+765,70,Emergency Repair,2025-10-18,Suresh,17532.46,Completed
+766,31,Emergency Repair,2025-02-19,Ravi,17203.05,Pending
+767,32,Preventive Maintenance,2025-09-20,Ravi,12711.53,Pending
+768,51,Corrective Maintenance,2025-11-27,Ravi,18890.81,Completed
+769,3,Corrective Maintenance,2025-01-16,Suresh,6597.27,Completed
+770,7,Preventive Maintenance,2025-01-25,Ravi,16798.24,Completed
+771,20,Inspection,2025-09-08,Manoj,8192.5,Completed
+772,53,Corrective Maintenance,2025-02-16,Karthik,3894.89,Completed
+773,67,Emergency Repair,2025-01-21,Karthik,10207.22,Completed
+774,27,Corrective Maintenance,2025-06-22,Karthik,8884.27,Completed
+775,38,Emergency Repair,2025-10-20,Manoj,13008.94,Pending
+776,63,Emergency Repair,2025-06-21,Arun,15804.38,Pending
+777,67,Preventive Maintenance,2025-09-19,Ravi,16472.38,Completed
+778,52,Corrective Maintenance,2025-03-31,Ravi,2695.88,Completed
+779,65,Emergency Repair,2025-06-02,Ravi,5724.63,Completed
+780,30,Inspection,2025-07-22,Arun,13294.89,Completed
+781,50,Corrective Maintenance,2025-11-28,Arun,17342.28,Completed
+782,53,Corrective Maintenance,2025-07-28,Ravi,6293.64,Completed
+783,15,Emergency Repair,2025-08-15,Arun,12194.32,Completed
+784,8,Emergency Repair,2025-05-27,Manoj,15393.26,Completed
+785,28,Inspection,2025-11-25,Manoj,1156.34,Completed
+786,13,Inspection,2025-12-01,Arun,15282.88,Completed
+787,65,Preventive Maintenance,2025-06-03,Ravi,6912.11,Completed
+788,59,Inspection,2025-11-05,Karthik,7730.82,Completed
+789,64,Corrective Maintenance,2025-01-05,Manoj,1622.79,Completed
+790,8,Corrective Maintenance,2025-09-21,Suresh,11411.66,Completed
+791,1,Preventive Maintenance,2025-06-05,Ravi,19556.22,Completed
+792,19,Preventive Maintenance,2025-03-01,Arun,4480.59,Pending
+793,30,Preventive Maintenance,2025-05-06,Suresh,14652.86,Completed
+794,60,Preventive Maintenance,2025-04-20,Karthik,16122.33,Completed
+795,41,Corrective Maintenance,2025-03-08,Arun,13685.34,Pending
+796,75,Preventive Maintenance,2025-08-16,Manoj,3402.84,Completed
+797,31,Corrective Maintenance,2025-12-06,Ravi,1171.49,Pending
+798,75,Preventive Maintenance,2025-05-22,Manoj,1941.21,Completed
+799,67,Corrective Maintenance,2025-06-16,Arun,13013.75,Completed
+800,58,Preventive Maintenance,2025-08-14,Karthik,12751.43,Completed
+801,10,Emergency Repair,2025-01-02,Arun,13217.81,Completed
+802,8,Preventive Maintenance,2025-02-27,Arun,8066.85,Completed
+803,9,Inspection,2025-04-25,Ravi,8518.22,Completed
+804,68,Corrective Maintenance,2025-05-26,Manoj,6756.12,Completed
+805,22,Inspection,2025-03-04,Manoj,3870.4,Pending
+806,65,Emergency Repair,2025-05-03,Karthik,3876.23,Completed
+807,60,Emergency Repair,2025-12-19,Arun,5842.14,Pending
+808,27,Preventive Maintenance,2025-04-26,Manoj,1813.94,Completed
+809,74,Inspection,2025-06-29,Manoj,10170.09,Completed
+810,17,Preventive Maintenance,2025-07-26,Ravi,10564.03,Completed
+811,37,Inspection,2025-10-06,Ravi,12535.27,Completed
+812,12,Emergency Repair,2025-06-29,Manoj,2395.15,Completed
+813,15,Corrective Maintenance,2025-02-26,Karthik,19970.85,Completed
+814,57,Corrective Maintenance,2025-03-02,Suresh,18122.2,Completed
+815,30,Corrective Maintenance,2025-04-27,Suresh,17243.0,Completed
+816,42,Preventive Maintenance,2025-08-27,Ravi,15090.49,Completed
+817,36,Inspection,2025-05-31,Arun,12605.45,Pending
+818,64,Corrective Maintenance,2025-05-17,Karthik,2633.6,Completed
+819,38,Preventive Maintenance,2025-06-03,Arun,10694.49,Completed
+820,1,Inspection,2025-09-05,Manoj,9394.75,Pending
+821,35,Preventive Maintenance,2025-08-10,Manoj,6650.65,Completed
+822,15,Corrective Maintenance,2025-07-12,Ravi,1301.62,Completed
+823,64,Inspection,2025-02-16,Suresh,8556.25,Completed
+824,13,Preventive Maintenance,2025-04-29,Suresh,13595.41,Completed
+825,12,Corrective Maintenance,2025-11-09,Karthik,4898.86,Pending
+826,37,Preventive Maintenance,2025-04-20,Arun,17846.85,Completed
+827,26,Preventive Maintenance,2025-06-26,Arun,17211.7,Completed
+828,72,Preventive Maintenance,2025-05-08,Karthik,2783.5,Pending
+829,50,Preventive Maintenance,2025-01-22,Manoj,5841.71,Completed
+830,16,Corrective Maintenance,2025-09-23,Karthik,6847.51,Completed
+831,34,Emergency Repair,2025-12-10,Arun,11560.71,Completed
+832,35,Preventive Maintenance,2025-07-17,Karthik,17820.75,Completed
+833,58,Corrective Maintenance,2025-10-22,Ravi,12737.48,Pending
+834,75,Emergency Repair,2025-04-18,Arun,1392.25,Completed
+835,46,Inspection,2025-04-29,Karthik,16172.07,Pending
+836,70,Preventive Maintenance,2025-08-19,Ravi,6010.48,Pending
+837,52,Preventive Maintenance,2025-03-09,Karthik,18269.88,Pending
+838,16,Corrective Maintenance,2025-11-03,Suresh,15361.3,Completed
+839,54,Preventive Maintenance,2025-10-20,Arun,19127.61,Pending
+840,1,Corrective Maintenance,2025-04-22,Karthik,2781.08,Pending
+841,57,Emergency Repair,2025-06-05,Arun,14760.49,Completed
+842,56,Corrective Maintenance,2025-10-08,Karthik,13603.61,Pending
+843,73,Emergency Repair,2025-07-04,Suresh,12445.92,Completed
+844,24,Inspection,2025-10-19,Suresh,12573.87,Completed
+845,3,Inspection,2025-04-04,Ravi,16887.3,Completed
+846,6,Emergency Repair,2025-12-17,Ravi,1662.42,Completed
+847,66,Corrective Maintenance,2025-11-18,Ravi,7317.75,Pending
+848,68,Preventive Maintenance,2025-04-22,Suresh,17664.09,Completed
+849,41,Preventive Maintenance,2025-05-16,Arun,8476.8,Completed
+850,13,Corrective Maintenance,2025-04-01,Arun,16971.94,Completed
+851,27,Inspection,2025-04-23,Suresh,7957.54,Completed
+852,63,Preventive Maintenance,2025-08-15,Ravi,17427.31,Pending
+853,49,Preventive Maintenance,2025-03-09,Suresh,8503.51,Pending
+854,24,Emergency Repair,2025-05-02,Ravi,5714.0,Pending
+855,11,Inspection,2025-04-25,Manoj,4113.5,Pending
+856,24,Emergency Repair,2025-10-08,Arun,3236.68,Completed
+857,58,Preventive Maintenance,2025-03-12,Suresh,4823.73,Completed
+858,56,Emergency Repair,2025-08-03,Ravi,2876.39,Pending
+859,74,Emergency Repair,2025-04-16,Arun,9462.12,Completed
+860,22,Emergency Repair,2025-12-07,Karthik,8068.96,Pending
+861,49,Preventive Maintenance,2025-06-11,Ravi,7919.58,Pending
+862,45,Emergency Repair,2025-10-18,Ravi,14704.25,Completed
+863,26,Corrective Maintenance,2025-10-01,Suresh,12165.13,Completed
+864,28,Corrective Maintenance,2025-10-12,Suresh,16353.31,Completed
+865,12,Corrective Maintenance,2025-03-04,Arun,15940.41,Completed
+866,24,Corrective Maintenance,2025-11-03,Arun,19089.99,Completed
+867,63,Inspection,2025-09-11,Ravi,2514.4,Pending
+868,58,Corrective Maintenance,2025-03-08,Manoj,17721.92,Completed
+869,3,Emergency Repair,2025-10-11,Karthik,19220.86,Pending
+870,60,Corrective Maintenance,2025-06-29,Arun,1190.34,Completed
+871,42,Preventive Maintenance,2025-01-28,Arun,6853.97,Completed
+872,52,Preventive Maintenance,2025-12-18,Suresh,6724.39,Pending
+873,11,Emergency Repair,2025-09-28,Manoj,14420.61,Pending
+874,47,Emergency Repair,2025-04-08,Manoj,15491.67,Completed
+875,20,Corrective Maintenance,2025-03-25,Arun,7394.2,Pending
+876,67,Inspection,2025-08-05,Arun,12131.78,Completed
+877,60,Corrective Maintenance,2025-10-02,Karthik,17251.69,Pending
+878,44,Preventive Maintenance,2025-10-30,Arun,11863.41,Completed
+879,41,Preventive Maintenance,2025-10-10,Ravi,17209.59,Pending
+880,15,Inspection,2025-06-17,Karthik,7593.35,Completed
+881,35,Inspection,2025-10-16,Suresh,9850.89,Completed
+882,74,Corrective Maintenance,2025-09-19,Suresh,4560.89,Completed
+883,16,Inspection,2025-02-28,Arun,18482.06,Pending
+884,31,Inspection,2025-04-30,Karthik,16192.09,Pending
+885,42,Emergency Repair,2025-06-23,Ravi,18348.98,Completed
+886,14,Corrective Maintenance,2025-07-31,Karthik,15887.59,Completed
+887,35,Preventive Maintenance,2025-10-25,Karthik,13477.92,Pending
+888,42,Inspection,2025-09-11,Suresh,1071.12,Completed
+889,27,Preventive Maintenance,2025-09-07,Manoj,8606.67,Pending
+890,55,Corrective Maintenance,2025-12-25,Arun,3787.84,Completed
+891,73,Preventive Maintenance,2025-11-16,Arun,19202.54,Pending
+892,50,Inspection,2025-11-12,Ravi,19930.2,Pending
+893,48,Corrective Maintenance,2025-09-19,Ravi,2322.81,Completed
+894,36,Emergency Repair,2025-01-14,Manoj,4807.62,Pending
+895,66,Inspection,2025-03-14,Suresh,13735.09,Completed
+896,13,Inspection,2025-09-05,Suresh,8723.77,Completed
+897,36,Emergency Repair,2025-12-09,Suresh,15715.35,Completed
+898,26,Corrective Maintenance,2025-02-24,Arun,14836.18,Completed
+899,59,Corrective Maintenance,2025-01-28,Karthik,1199.25,Completed
+900,63,Emergency Repair,2025-12-27,Suresh,18912.67,Completed
+901,52,Preventive Maintenance,2025-08-15,Suresh,18382.2,Completed
+902,67,Emergency Repair,2025-11-20,Arun,2588.08,Pending
+903,13,Corrective Maintenance,2025-06-18,Arun,16409.59,Completed
+904,33,Preventive Maintenance,2025-07-11,Ravi,5426.57,Completed
+905,53,Preventive Maintenance,2025-12-12,Suresh,15788.37,Completed
+906,75,Emergency Repair,2025-02-04,Suresh,856.86,Completed
+907,50,Inspection,2025-07-07,Karthik,6773.33,Completed
+908,56,Preventive Maintenance,2025-08-03,Manoj,16049.43,Pending
+909,44,Inspection,2025-07-23,Suresh,9614.73,Completed
+910,56,Corrective Maintenance,2025-01-18,Manoj,7979.42,Pending
+911,48,Inspection,2025-01-08,Ravi,7797.98,Pending
+912,40,Preventive Maintenance,2025-06-23,Arun,2047.54,Completed
+913,5,Corrective Maintenance,2025-05-27,Karthik,16880.38,Completed
+914,27,Preventive Maintenance,2025-02-14,Suresh,1053.28,Completed
+915,21,Emergency Repair,2025-07-25,Arun,16376.56,Completed
+916,57,Emergency Repair,2025-02-25,Manoj,13453.82,Completed
+917,31,Inspection,2025-06-10,Suresh,6383.23,Completed
+918,23,Corrective Maintenance,2025-12-23,Karthik,15771.07,Pending
+919,42,Preventive Maintenance,2025-10-25,Manoj,13676.66,Completed
+920,4,Emergency Repair,2025-01-06,Ravi,10555.72,Pending
+921,73,Inspection,2025-01-19,Arun,7009.8,Completed
+922,6,Inspection,2025-08-24,Manoj,2476.32,Completed
+923,63,Preventive Maintenance,2025-09-11,Karthik,2189.92,Pending
+924,73,Inspection,2025-01-18,Ravi,19737.54,Completed
+925,40,Corrective Maintenance,2025-08-17,Manoj,8042.05,Completed
+926,3,Corrective Maintenance,2025-01-02,Karthik,1937.33,Completed
+927,39,Inspection,2025-01-14,Manoj,8122.85,Completed
+928,41,Inspection,2025-07-21,Arun,6706.86,Pending
+929,4,Inspection,2025-08-19,Manoj,4223.87,Pending
+930,13,Preventive Maintenance,2025-09-01,Arun,15438.88,Completed
+931,44,Emergency Repair,2025-11-17,Ravi,4257.85,Completed
+932,29,Inspection,2025-04-07,Arun,7573.07,Completed
+933,35,Emergency Repair,2025-02-19,Karthik,8437.05,Completed
+934,28,Inspection,2025-12-08,Arun,12477.24,Completed
+935,48,Preventive Maintenance,2025-05-29,Manoj,13614.33,Completed
+936,41,Emergency Repair,2025-11-16,Manoj,7157.69,Completed
+937,12,Preventive Maintenance,2025-06-22,Karthik,3091.58,Pending
+938,29,Inspection,2025-11-20,Karthik,8113.87,Completed
+939,63,Emergency Repair,2025-05-06,Ravi,2035.82,Pending
+940,9,Preventive Maintenance,2025-06-26,Suresh,18237.14,Completed
+941,64,Emergency Repair,2025-10-23,Ravi,9788.22,Completed
+942,5,Corrective Maintenance,2025-04-28,Suresh,7217.9,Completed
+943,39,Inspection,2025-01-19,Ravi,3334.77,Completed
+944,68,Inspection,2025-02-05,Ravi,6255.54,Completed
+945,32,Preventive Maintenance,2025-05-22,Manoj,15406.21,Pending
+946,54,Emergency Repair,2025-04-10,Manoj,19297.37,Completed
+947,18,Preventive Maintenance,2025-04-15,Karthik,16798.46,Completed
+948,44,Corrective Maintenance,2025-03-06,Ravi,16433.98,Completed
+949,66,Corrective Maintenance,2025-02-18,Karthik,3957.26,Completed
+950,65,Corrective Maintenance,2025-01-28,Ravi,17183.43,Completed
+951,40,Preventive Maintenance,2025-02-26,Karthik,15827.96,Pending
+952,58,Preventive Maintenance,2025-01-25,Suresh,15777.67,Pending
+953,58,Corrective Maintenance,2025-11-30,Suresh,7385.24,Completed
+954,13,Preventive Maintenance,2025-09-03,Karthik,17520.12,Completed
+955,58,Preventive Maintenance,2025-10-23,Ravi,11370.25,Completed
+956,64,Preventive Maintenance,2025-10-18,Manoj,7038.01,Pending
+957,57,Emergency Repair,2025-11-14,Ravi,12417.84,Pending
+958,71,Corrective Maintenance,2025-06-05,Suresh,9132.76,Pending
+959,72,Emergency Repair,2025-06-06,Arun,2234.14,Pending
+960,43,Preventive Maintenance,2025-03-08,Suresh,16458.89,Completed
+961,15,Emergency Repair,2025-08-31,Ravi,7848.33,Completed
+962,11,Inspection,2025-08-12,Ravi,19650.16,Pending
+963,69,Preventive Maintenance,2025-01-25,Manoj,15349.89,Completed
+964,44,Corrective Maintenance,2025-12-12,Arun,4038.1,Pending
+965,56,Corrective Maintenance,2025-11-21,Karthik,3672.15,Completed
+966,10,Inspection,2025-12-17,Karthik,17445.04,Completed
+967,52,Corrective Maintenance,2025-11-12,Arun,15722.95,Completed
+968,63,Preventive Maintenance,2025-01-03,Karthik,16738.27,Completed
+969,11,Preventive Maintenance,2025-09-14,Arun,3001.61,Completed
+970,30,Preventive Maintenance,2025-05-10,Karthik,8312.69,Completed
+971,17,Emergency Repair,2025-06-21,Manoj,11538.63,Completed
+972,31,Emergency Repair,2025-06-02,Karthik,10916.92,Completed
+973,9,Preventive Maintenance,2025-10-23,Karthik,9677.08,Completed
+974,39,Inspection,2025-10-16,Suresh,16604.63,Pending
+975,7,Corrective Maintenance,2025-05-29,Karthik,2337.85,Pending
+976,74,Inspection,2025-06-01,Ravi,18327.64,Pending
+977,68,Emergency Repair,2025-02-19,Ravi,15515.1,Completed
+978,28,Inspection,2025-07-02,Arun,14786.9,Pending
+979,63,Emergency Repair,2025-11-17,Ravi,16890.1,Pending
+980,6,Inspection,2025-06-09,Ravi,7033.21,Completed
+981,68,Emergency Repair,2025-11-15,Karthik,6700.71,Completed
+982,59,Corrective Maintenance,2025-03-01,Arun,8492.29,Pending
+983,25,Preventive Maintenance,2025-06-28,Manoj,15333.03,Completed
+984,8,Inspection,2025-01-24,Arun,6971.38,Completed
+985,19,Inspection,2025-12-07,Manoj,17987.0,Pending
+986,17,Emergency Repair,2025-05-29,Karthik,1088.15,Completed
+987,18,Emergency Repair,2025-11-27,Manoj,17657.91,Completed
+988,11,Preventive Maintenance,2025-07-22,Ravi,651.74,Pending
+989,58,Preventive Maintenance,2025-01-31,Manoj,5839.56,Completed
+990,66,Preventive Maintenance,2025-06-23,Arun,12976.42,Pending
+991,70,Inspection,2025-08-05,Ravi,18501.7,Completed
+992,39,Inspection,2025-11-10,Suresh,3270.49,Pending
+993,13,Corrective Maintenance,2025-12-23,Arun,3774.74,Pending
+994,56,Preventive Maintenance,2025-12-09,Manoj,15067.85,Pending
+995,54,Inspection,2025-08-05,Arun,18716.29,Completed
+996,68,Preventive Maintenance,2025-04-24,Arun,4972.8,Completed
+997,64,Emergency Repair,2025-08-31,Suresh,2336.27,Completed
+998,3,Preventive Maintenance,2025-03-08,Karthik,5432.12,Completed
+999,72,Emergency Repair,2025-11-30,Manoj,1157.06,Pending
+1000,43,Emergency Repair,2025-12-11,Ravi,19354.24,Completed
+1001,59,Preventive Maintenance,2025-02-19,Ravi,15810.19,Completed
+1002,37,Corrective Maintenance,2025-05-09,Suresh,6217.42,Completed
+1003,22,Inspection,2025-08-24,Ravi,5172.02,Completed
+1004,24,Inspection,2025-05-20,Manoj,5359.89,Completed
+1005,67,Emergency Repair,2025-10-29,Ravi,3367.53,Pending
+1006,11,Inspection,2025-05-05,Karthik,2101.04,Completed
+1007,64,Emergency Repair,2025-12-19,Manoj,3023.13,Completed
+1008,66,Inspection,2025-02-22,Manoj,3921.21,Pending
+1009,72,Preventive Maintenance,2025-06-09,Manoj,17255.27,Completed
+1010,75,Emergency Repair,2025-06-22,Suresh,14141.5,Completed
+1011,70,Corrective Maintenance,2025-10-01,Manoj,18567.9,Completed
+1012,61,Emergency Repair,2025-02-21,Manoj,10832.22,Completed
+1013,37,Preventive Maintenance,2025-04-16,Ravi,10763.27,Pending
+1014,33,Emergency Repair,2025-02-07,Karthik,13187.17,Pending
+1015,40,Emergency Repair,2025-09-06,Ravi,12111.83,Completed
+1016,22,Emergency Repair,2025-04-17,Suresh,17282.5,Pending
+1017,73,Emergency Repair,2025-02-26,Manoj,17617.77,Pending
+1018,6,Corrective Maintenance,2025-04-26,Arun,19715.47,Completed
+1019,50,Inspection,2025-11-07,Arun,780.13,Pending
+1020,25,Inspection,2025-11-19,Karthik,19145.9,Completed
+1021,9,Emergency Repair,2025-10-25,Karthik,10914.83,Completed
+1022,58,Preventive Maintenance,2025-01-15,Karthik,10478.62,Completed
+1023,56,Preventive Maintenance,2025-10-05,Arun,8812.79,Completed
+1024,2,Preventive Maintenance,2025-07-04,Karthik,8559.12,Completed
+1025,8,Preventive Maintenance,2025-05-27,Ravi,14186.02,Completed
+1026,21,Corrective Maintenance,2025-10-30,Karthik,5006.21,Completed
+1027,42,Inspection,2025-01-16,Ravi,19859.15,Completed
+1028,12,Preventive Maintenance,2025-10-21,Arun,12300.96,Completed
+1029,1,Preventive Maintenance,2025-08-22,Karthik,14634.19,Completed
+1030,44,Inspection,2025-03-04,Suresh,15989.0,Completed
+1031,45,Emergency Repair,2025-07-07,Manoj,17700.99,Completed
+1032,74,Inspection,2025-07-24,Arun,6420.02,Completed
+1033,8,Emergency Repair,2025-12-09,Ravi,5505.58,Completed
+1034,47,Preventive Maintenance,2025-11-04,Arun,10705.52,Completed
+1035,11,Inspection,2025-05-11,Ravi,15975.96,Completed
+1036,54,Corrective Maintenance,2025-05-17,Suresh,8954.16,Completed
+1037,64,Preventive Maintenance,2025-01-27,Ravi,15565.65,Completed
+1038,4,Preventive Maintenance,2025-10-16,Suresh,6614.03,Completed
+1039,33,Preventive Maintenance,2025-07-09,Ravi,4791.61,Pending
+1040,11,Corrective Maintenance,2025-07-16,Arun,10761.2,Completed
+1041,26,Preventive Maintenance,2025-10-02,Suresh,15972.39,Completed
+1042,65,Inspection,2025-12-02,Arun,9127.73,Pending
+1043,73,Corrective Maintenance,2025-04-07,Arun,14132.39,Completed
+1044,5,Emergency Repair,2025-01-01,Ravi,1886.86,Completed
+1045,9,Preventive Maintenance,2025-02-21,Arun,7959.53,Completed
+1046,64,Emergency Repair,2025-01-24,Suresh,12758.39,Completed
+1047,48,Preventive Maintenance,2025-10-17,Karthik,14272.82,Completed
+1048,7,Corrective Maintenance,2025-07-28,Ravi,14637.59,Completed
+1049,24,Corrective Maintenance,2025-08-21,Arun,16459.26,Completed
+1050,24,Corrective Maintenance,2025-06-17,Manoj,6412.94,Completed
+1051,37,Corrective Maintenance,2025-06-04,Ravi,15479.83,Pending
+1052,63,Inspection,2025-10-24,Ravi,1352.81,Completed
+1053,71,Preventive Maintenance,2025-01-29,Ravi,12110.11,Completed
+1054,75,Corrective Maintenance,2025-04-09,Suresh,7683.66,Pending
+1055,38,Preventive Maintenance,2025-08-22,Suresh,18265.83,Completed
+1056,18,Emergency Repair,2025-11-27,Manoj,18679.35,Pending
+1057,46,Emergency Repair,2025-10-27,Manoj,14678.33,Completed
+1058,56,Preventive Maintenance,2025-12-27,Ravi,1262.99,Pending
+1059,20,Preventive Maintenance,2025-12-29,Ravi,9315.66,Pending
+1060,12,Corrective Maintenance,2025-05-10,Ravi,10091.11,Completed
+1061,43,Corrective Maintenance,2025-05-31,Ravi,16616.81,Completed
+1062,29,Corrective Maintenance,2025-09-01,Suresh,16077.22,Pending
+1063,26,Inspection,2025-04-12,Karthik,11250.1,Pending
+1064,15,Preventive Maintenance,2025-01-11,Suresh,9865.03,Completed
+1065,24,Inspection,2025-10-02,Karthik,11874.59,Completed
+1066,4,Corrective Maintenance,2025-12-10,Karthik,18353.3,Completed
+1067,59,Inspection,2025-11-16,Ravi,1206.69,Completed
+1068,42,Emergency Repair,2025-06-30,Ravi,19088.9,Completed
+1069,38,Corrective Maintenance,2025-07-18,Ravi,1736.13,Completed
+1070,11,Preventive Maintenance,2025-07-02,Arun,12361.36,Completed
+1071,34,Inspection,2025-05-29,Karthik,2330.75,Completed
+1072,4,Emergency Repair,2025-05-05,Arun,18567.86,Completed
+1073,68,Preventive Maintenance,2025-12-23,Karthik,7329.89,Completed
+1074,13,Corrective Maintenance,2025-12-21,Ravi,3261.39,Pending
+1075,7,Emergency Repair,2025-02-04,Ravi,18260.44,Completed
+1076,70,Emergency Repair,2025-02-17,Suresh,8550.34,Completed
+1077,19,Inspection,2025-08-29,Suresh,549.46,Completed
+1078,3,Corrective Maintenance,2025-11-21,Suresh,12212.16,Pending
+1079,46,Emergency Repair,2025-03-24,Arun,10579.51,Completed
+1080,6,Corrective Maintenance,2025-04-01,Suresh,16395.8,Pending
+1081,1,Emergency Repair,2025-10-11,Ravi,19878.04,Pending
+1082,56,Inspection,2025-11-05,Arun,5168.53,Completed
+1083,40,Inspection,2025-12-12,Arun,13043.29,Completed
+1084,64,Emergency Repair,2025-06-28,Suresh,10548.78,Completed
+1085,29,Corrective Maintenance,2025-06-09,Arun,14464.67,Completed
+1086,10,Emergency Repair,2025-11-16,Manoj,9533.73,Completed
+1087,10,Corrective Maintenance,2025-12-28,Ravi,7423.08,Completed
+1088,40,Corrective Maintenance,2025-09-10,Ravi,6104.66,Pending
+1089,2,Emergency Repair,2025-10-05,Karthik,1642.36,Pending
+1090,59,Preventive Maintenance,2025-05-13,Karthik,5533.45,Pending
+1091,63,Preventive Maintenance,2025-07-28,Arun,13703.65,Completed
+1092,1,Preventive Maintenance,2025-08-23,Karthik,17178.57,Completed
+1093,50,Emergency Repair,2025-10-28,Karthik,16757.35,Pending
+1094,8,Corrective Maintenance,2025-03-21,Suresh,12625.65,Completed
+1095,22,Preventive Maintenance,2025-12-18,Karthik,15839.35,Completed
+1096,4,Preventive Maintenance,2025-05-01,Karthik,4334.44,Pending
+1097,3,Inspection,2025-08-01,Arun,1373.96,Pending
+1098,9,Preventive Maintenance,2025-10-22,Ravi,3126.37,Pending
+1099,62,Emergency Repair,2025-12-18,Manoj,2425.44,Completed
+1100,47,Corrective Maintenance,2025-04-20,Manoj,11890.97,Pending
+1101,40,Emergency Repair,2025-01-18,Karthik,9397.03,Completed
+1102,28,Emergency Repair,2025-05-17,Ravi,10059.71,Pending
+1103,50,Corrective Maintenance,2025-07-18,Manoj,11724.41,Completed
+1104,5,Emergency Repair,2025-04-10,Karthik,10365.99,Completed
+1105,18,Preventive Maintenance,2025-07-27,Arun,5144.24,Completed
+1106,41,Inspection,2025-11-15,Karthik,10849.7,Completed
+1107,71,Preventive Maintenance,2025-02-20,Suresh,14029.67,Completed
+1108,27,Emergency Repair,2025-03-09,Suresh,18587.27,Completed
+1109,14,Preventive Maintenance,2025-05-26,Ravi,3858.93,Completed
+1110,29,Corrective Maintenance,2025-09-29,Karthik,16264.57,Pending
+1111,74,Corrective Maintenance,2025-12-27,Ravi,7344.2,Completed
+1112,54,Preventive Maintenance,2025-02-06,Arun,13806.01,Pending
+1113,50,Inspection,2025-03-25,Manoj,8710.84,Completed
+1114,10,Corrective Maintenance,2025-08-04,Suresh,16190.03,Completed
+1115,33,Preventive Maintenance,2025-02-19,Suresh,8813.58,Completed
+1116,21,Emergency Repair,2025-01-28,Manoj,8831.64,Pending
+1117,67,Corrective Maintenance,2025-08-23,Suresh,17006.99,Completed
+1118,61,Preventive Maintenance,2025-02-08,Karthik,579.83,Pending
+1119,42,Emergency Repair,2025-01-15,Karthik,10431.9,Completed
+1120,25,Preventive Maintenance,2025-07-30,Karthik,8633.36,Completed
+1121,28,Inspection,2025-11-22,Manoj,11665.34,Pending
+1122,2,Emergency Repair,2025-02-14,Suresh,4885.55,Pending
+1123,56,Emergency Repair,2025-10-15,Suresh,3179.81,Completed
+1124,20,Preventive Maintenance,2025-08-19,Karthik,12782.59,Pending
+1125,23,Inspection,2025-11-22,Ravi,18895.06,Completed
+1126,22,Inspection,2025-03-24,Karthik,19428.0,Pending
+1127,57,Inspection,2025-04-28,Suresh,7097.36,Completed
+1128,4,Emergency Repair,2025-04-06,Arun,620.14,Completed
+1129,24,Inspection,2025-02-22,Arun,14570.31,Pending
+1130,54,Inspection,2025-12-17,Karthik,7379.72,Completed
+1131,57,Corrective Maintenance,2025-08-29,Karthik,7628.16,Completed
+1132,52,Corrective Maintenance,2025-09-03,Suresh,18229.39,Completed
+1133,21,Preventive Maintenance,2025-09-13,Manoj,11454.62,Completed
+1134,53,Inspection,2025-12-20,Arun,825.31,Completed
+1135,73,Emergency Repair,2025-09-08,Ravi,6605.76,Completed
+1136,8,Preventive Maintenance,2025-07-11,Ravi,3797.29,Pending
+1137,71,Preventive Maintenance,2025-05-02,Ravi,1854.75,Completed
+1138,69,Inspection,2025-06-11,Suresh,5895.19,Completed
+1139,26,Preventive Maintenance,2025-11-21,Manoj,5904.61,Pending
+1140,13,Corrective Maintenance,2025-11-08,Arun,14626.66,Completed
+1141,26,Emergency Repair,2025-09-04,Arun,14360.07,Pending
+1142,44,Inspection,2025-12-30,Manoj,9535.36,Completed
+1143,11,Preventive Maintenance,2025-09-01,Suresh,3003.13,Completed
+1144,53,Preventive Maintenance,2025-10-21,Ravi,2058.33,Completed
+1145,30,Preventive Maintenance,2025-01-24,Ravi,11307.88,Completed
+1146,53,Preventive Maintenance,2025-01-17,Arun,19257.1,Completed
+1147,43,Emergency Repair,2025-09-21,Suresh,13606.14,Completed
+1148,15,Preventive Maintenance,2025-05-18,Arun,7510.96,Completed
+1149,57,Inspection,2025-08-09,Suresh,2776.02,Pending
+1150,31,Preventive Maintenance,2025-12-10,Karthik,13038.46,Pending
+1151,74,Emergency Repair,2025-01-16,Suresh,1288.47,Pending
+1152,72,Preventive Maintenance,2025-01-04,Manoj,6456.57,Pending
+1153,36,Inspection,2025-07-14,Arun,12453.25,Completed
+1154,33,Emergency Repair,2025-11-02,Suresh,18161.43,Completed
+1155,5,Inspection,2025-03-08,Ravi,11072.22,Pending
+1156,68,Inspection,2025-10-30,Manoj,812.57,Completed
+1157,5,Inspection,2025-09-14,Manoj,19047.35,Completed
+1158,57,Corrective Maintenance,2025-11-25,Arun,8100.47,Completed
+1159,19,Preventive Maintenance,2025-10-30,Manoj,18415.14,Completed
+1160,11,Inspection,2025-11-20,Manoj,12529.21,Pending
+1161,74,Preventive Maintenance,2025-01-01,Karthik,1351.23,Completed
+1162,22,Corrective Maintenance,2025-07-26,Manoj,13431.35,Pending
+1163,8,Emergency Repair,2025-04-20,Manoj,12790.34,Completed
+1164,18,Corrective Maintenance,2025-09-09,Suresh,10373.89,Completed
+1165,32,Corrective Maintenance,2025-11-06,Manoj,12492.98,Completed
+1166,46,Preventive Maintenance,2025-01-31,Arun,11445.95,Completed
+1167,44,Preventive Maintenance,2025-05-31,Karthik,15408.15,Completed
+1168,18,Inspection,2025-03-20,Manoj,11853.41,Pending
+1169,70,Corrective Maintenance,2025-01-19,Manoj,5479.46,Pending
+1170,54,Emergency Repair,2025-09-19,Ravi,11191.46,Completed
+1171,53,Inspection,2025-12-19,Karthik,1100.71,Completed
+1172,32,Emergency Repair,2025-05-28,Suresh,2167.44,Completed
+1173,33,Emergency Repair,2025-02-01,Ravi,13900.02,Completed
+1174,49,Corrective Maintenance,2025-06-28,Arun,11336.4,Completed
+1175,72,Inspection,2025-01-21,Ravi,5053.18,Completed
+1176,28,Preventive Maintenance,2025-10-09,Karthik,4199.32,Completed
+1177,8,Preventive Maintenance,2025-11-21,Arun,6723.38,Pending
+1178,1,Preventive Maintenance,2025-09-06,Arun,5285.02,Pending
+1179,40,Corrective Maintenance,2025-06-13,Ravi,15097.08,Completed
+1180,38,Preventive Maintenance,2025-01-22,Arun,14796.33,Pending
+1181,40,Corrective Maintenance,2025-03-24,Arun,14517.0,Pending
+1182,28,Preventive Maintenance,2025-06-22,Suresh,13913.65,Completed
+1183,18,Corrective Maintenance,2025-08-09,Karthik,11674.18,Completed
+1184,31,Preventive Maintenance,2025-03-28,Manoj,10753.52,Completed
+1185,70,Preventive Maintenance,2025-06-22,Manoj,10951.11,Pending
+1186,45,Emergency Repair,2025-06-03,Suresh,5115.15,Completed
+1187,10,Preventive Maintenance,2025-09-17,Suresh,17736.03,Pending
+1188,67,Corrective Maintenance,2025-04-02,Karthik,4073.0,Completed
+1189,58,Emergency Repair,2025-02-20,Karthik,2527.41,Pending
+1190,18,Emergency Repair,2025-06-09,Suresh,17237.2,Completed
+1191,43,Inspection,2025-10-26,Manoj,1135.51,Pending
+1192,64,Preventive Maintenance,2025-10-04,Manoj,18348.28,Completed
+1193,29,Corrective Maintenance,2025-02-23,Ravi,12387.91,Pending
+1194,1,Emergency Repair,2025-09-28,Arun,13025.35,Pending
+1195,67,Inspection,2025-11-06,Karthik,3035.55,Pending
+1196,40,Corrective Maintenance,2025-12-07,Arun,15162.58,Completed
+1197,3,Corrective Maintenance,2025-07-01,Karthik,3115.67,Pending
+1198,53,Preventive Maintenance,2025-04-21,Arun,10796.29,Completed
+1199,15,Inspection,2025-01-12,Suresh,13806.32,Completed
+1200,63,Preventive Maintenance,2025-08-25,Suresh,4679.79,Completed
+1201,10,Preventive Maintenance,2025-10-20,Suresh,7963.55,Completed
+1202,73,Emergency Repair,2025-02-03,Manoj,12974.99,Completed
+1203,70,Inspection,2025-01-30,Manoj,9699.56,Completed
+1204,21,Emergency Repair,2025-12-25,Arun,723.95,Completed
+1205,32,Preventive Maintenance,2025-06-20,Karthik,7336.76,Completed
+1206,52,Emergency Repair,2025-11-04,Karthik,11216.95,Completed
+1207,42,Emergency Repair,2025-05-21,Arun,5941.51,Completed
+1208,25,Emergency Repair,2025-03-17,Ravi,8433.33,Completed
+1209,21,Inspection,2025-01-06,Ravi,10999.3,Pending
+1210,5,Emergency Repair,2025-09-12,Suresh,13156.07,Completed
+1211,41,Preventive Maintenance,2025-12-07,Ravi,7195.44,Completed
+1212,52,Emergency Repair,2025-12-17,Ravi,8880.38,Pending
+1213,54,Emergency Repair,2025-01-09,Suresh,15769.26,Completed
+1214,17,Corrective Maintenance,2025-04-11,Ravi,14987.31,Completed
+1215,43,Corrective Maintenance,2025-02-25,Arun,5278.78,Completed
+1216,17,Preventive Maintenance,2025-03-16,Suresh,15070.6,Completed
+1217,34,Preventive Maintenance,2025-11-16,Arun,3665.67,Completed
+1218,2,Preventive Maintenance,2025-02-25,Ravi,863.8,Completed
+1219,64,Emergency Repair,2025-10-02,Suresh,11763.04,Completed
+1220,15,Inspection,2025-03-11,Karthik,7167.92,Pending
+1221,1,Preventive Maintenance,2025-08-17,Arun,5385.54,Pending
+1222,39,Emergency Repair,2025-01-09,Suresh,9366.51,Pending
+1223,1,Corrective Maintenance,2025-04-16,Suresh,6516.99,Completed
+1224,49,Preventive Maintenance,2025-05-22,Suresh,6567.38,Pending
+1225,31,Corrective Maintenance,2025-11-07,Karthik,2030.17,Completed
+1226,9,Corrective Maintenance,2025-06-17,Ravi,14784.3,Completed
+1227,9,Inspection,2025-02-01,Suresh,13145.47,Completed
+1228,14,Emergency Repair,2025-10-31,Arun,7998.8,Completed
+1229,20,Inspection,2025-12-17,Suresh,19165.84,Completed
+1230,22,Emergency Repair,2025-12-09,Suresh,10824.73,Completed
+1231,75,Corrective Maintenance,2025-10-06,Suresh,6563.56,Completed
+1232,7,Corrective Maintenance,2025-12-07,Suresh,3005.88,Pending
+1233,15,Inspection,2025-06-24,Suresh,8660.33,Completed
+1234,75,Inspection,2025-11-21,Karthik,19850.06,Pending
+1235,53,Preventive Maintenance,2025-04-25,Manoj,7626.59,Pending
+1236,20,Inspection,2025-07-09,Suresh,16282.19,Completed
+1237,26,Inspection,2025-05-17,Karthik,14396.32,Pending
+1238,34,Emergency Repair,2025-03-07,Ravi,586.37,Pending
+1239,25,Corrective Maintenance,2025-10-21,Karthik,19002.7,Pending
+1240,54,Inspection,2025-05-06,Ravi,11276.76,Completed
+1241,54,Preventive Maintenance,2025-02-11,Ravi,3214.95,Pending
+1242,70,Corrective Maintenance,2025-01-09,Suresh,7295.11,Completed
+1243,6,Emergency Repair,2025-08-28,Karthik,1961.23,Completed
+1244,23,Emergency Repair,2025-02-13,Manoj,11827.52,Pending
+1245,54,Corrective Maintenance,2025-09-08,Manoj,19052.24,Pending
+1246,5,Inspection,2025-07-27,Manoj,4310.29,Pending
+1247,27,Corrective Maintenance,2025-09-29,Suresh,19996.58,Pending
+1248,32,Inspection,2025-07-21,Karthik,3527.58,Completed
+1249,70,Emergency Repair,2025-12-30,Karthik,13969.32,Completed
+1250,63,Preventive Maintenance,2025-06-03,Manoj,6858.18,Pending
+1251,17,Inspection,2025-01-10,Karthik,8574.87,Completed
+1252,9,Corrective Maintenance,2025-09-24,Manoj,13626.26,Pending
+1253,50,Inspection,2025-12-13,Manoj,13531.8,Completed
+1254,39,Emergency Repair,2025-10-04,Suresh,8613.8,Completed
+1255,65,Preventive Maintenance,2025-06-19,Manoj,5495.89,Completed
+1256,69,Preventive Maintenance,2025-10-26,Suresh,19970.16,Pending
+1257,9,Preventive Maintenance,2025-01-31,Manoj,14018.02,Completed
+1258,64,Emergency Repair,2025-04-23,Suresh,19513.65,Completed
+1259,19,Inspection,2025-11-19,Ravi,17168.49,Completed
+1260,73,Inspection,2025-03-09,Karthik,18065.82,Pending
+1261,59,Preventive Maintenance,2025-08-19,Arun,14666.94,Completed
+1262,48,Emergency Repair,2025-06-17,Arun,3308.04,Completed
+1263,47,Inspection,2025-02-20,Karthik,1781.56,Completed
+1264,14,Emergency Repair,2025-08-03,Manoj,10972.99,Completed
+1265,19,Emergency Repair,2025-08-31,Arun,5007.77,Completed
+1266,9,Emergency Repair,2025-06-08,Ravi,12590.27,Completed
+1267,19,Preventive Maintenance,2025-06-30,Arun,9620.03,Completed
+1268,49,Preventive Maintenance,2025-04-27,Manoj,16155.98,Pending
+1269,35,Corrective Maintenance,2025-07-15,Ravi,9081.08,Completed
+1270,26,Preventive Maintenance,2025-03-01,Suresh,4966.1,Pending
+1271,2,Corrective Maintenance,2025-10-02,Karthik,10696.02,Completed
+1272,72,Emergency Repair,2025-12-17,Ravi,11604.15,Completed
+1273,63,Preventive Maintenance,2025-04-14,Manoj,8807.67,Pending
+1274,21,Emergency Repair,2025-04-23,Suresh,9939.36,Pending
+1275,21,Inspection,2025-12-02,Arun,15330.69,Completed
+1276,42,Corrective Maintenance,2025-06-13,Manoj,3937.46,Completed
+1277,73,Emergency Repair,2025-05-18,Arun,19213.71,Completed
+1278,46,Preventive Maintenance,2025-03-03,Karthik,14463.59,Pending
+1279,58,Emergency Repair,2025-10-24,Ravi,5714.95,Completed
+1280,71,Preventive Maintenance,2025-11-04,Suresh,2230.06,Completed
+1281,58,Preventive Maintenance,2025-12-04,Manoj,3064.92,Completed
+1282,4,Emergency Repair,2025-05-16,Ravi,13237.94,Completed
+1283,47,Inspection,2025-06-14,Manoj,7086.76,Completed
+1284,63,Inspection,2025-09-19,Ravi,14339.53,Pending
+1285,41,Preventive Maintenance,2025-02-28,Karthik,1686.38,Completed
+1286,27,Emergency Repair,2025-03-17,Karthik,7116.04,Completed
+1287,1,Inspection,2025-10-15,Arun,18627.39,Completed
+1288,47,Emergency Repair,2025-04-22,Karthik,11991.22,Pending
+1289,28,Corrective Maintenance,2025-08-14,Ravi,11846.69,Pending
+1290,10,Preventive Maintenance,2025-04-13,Manoj,2012.3,Completed
+1291,7,Preventive Maintenance,2025-12-19,Karthik,19894.34,Completed
+1292,44,Inspection,2025-12-19,Karthik,15847.54,Completed
+1293,61,Emergency Repair,2025-05-03,Manoj,5713.18,Completed
+1294,24,Emergency Repair,2025-04-22,Arun,19749.25,Pending
+1295,19,Emergency Repair,2025-10-30,Ravi,2158.4,Completed
+1296,10,Preventive Maintenance,2025-01-29,Suresh,11721.02,Completed
+1297,6,Corrective Maintenance,2025-08-04,Karthik,5112.91,Completed
+1298,39,Inspection,2025-08-19,Suresh,2522.76,Completed
+1299,57,Corrective Maintenance,2025-06-21,Suresh,10138.58,Pending
+1300,32,Inspection,2025-09-03,Karthik,18011.68,Completed
+1301,31,Preventive Maintenance,2025-06-30,Karthik,14621.6,Completed
+1302,54,Preventive Maintenance,2025-12-18,Karthik,8171.03,Completed
+1303,16,Inspection,2025-02-14,Ravi,15576.83,Completed
+1304,71,Corrective Maintenance,2025-12-28,Ravi,9317.56,Completed
+1305,23,Corrective Maintenance,2025-06-05,Suresh,1161.16,Completed
+1306,34,Inspection,2025-02-23,Karthik,8931.25,Completed
+1307,18,Inspection,2025-04-02,Karthik,8556.61,Completed
+1308,34,Preventive Maintenance,2025-10-29,Suresh,5695.71,Pending
+1309,36,Preventive Maintenance,2025-07-12,Manoj,6277.74,Completed
+1310,7,Emergency Repair,2025-03-20,Manoj,8012.46,Pending
+1311,10,Corrective Maintenance,2025-05-01,Karthik,761.35,Completed
+1312,70,Emergency Repair,2025-12-01,Suresh,2556.27,Completed
+1313,42,Corrective Maintenance,2025-12-02,Suresh,1093.4,Completed
+1314,71,Preventive Maintenance,2025-08-26,Manoj,11899.54,Completed
+1315,32,Corrective Maintenance,2025-10-31,Suresh,18455.42,Completed
+1316,40,Emergency Repair,2025-09-10,Suresh,12109.78,Completed
+1317,58,Corrective Maintenance,2025-09-18,Karthik,9803.8,Pending
+1318,13,Inspection,2025-05-20,Karthik,5152.35,Pending
+1319,24,Inspection,2025-04-17,Manoj,1490.97,Completed
+1320,58,Emergency Repair,2025-11-29,Suresh,19499.41,Pending
+1321,57,Inspection,2025-11-13,Ravi,8622.6,Completed
+1322,59,Preventive Maintenance,2025-03-27,Manoj,4458.8,Pending
+1323,56,Corrective Maintenance,2025-05-18,Manoj,6937.29,Pending
+1324,38,Preventive Maintenance,2025-07-09,Manoj,6506.91,Completed
+1325,1,Inspection,2025-11-12,Ravi,13351.85,Completed
+1326,59,Preventive Maintenance,2025-02-08,Ravi,19941.28,Pending
+1327,30,Emergency Repair,2025-02-24,Manoj,13968.5,Pending
+1328,40,Corrective Maintenance,2025-04-14,Manoj,11069.68,Completed
+1329,24,Emergency Repair,2025-02-18,Suresh,10719.1,Completed
+1330,69,Corrective Maintenance,2025-08-22,Suresh,12947.03,Completed
+1331,62,Preventive Maintenance,2025-06-07,Manoj,6824.37,Completed
+1332,46,Emergency Repair,2025-07-13,Arun,15483.67,Completed
+1333,59,Corrective Maintenance,2025-02-08,Arun,9976.39,Pending
+1334,40,Preventive Maintenance,2025-06-24,Manoj,2264.09,Completed
+1335,8,Corrective Maintenance,2025-07-03,Ravi,2105.96,Completed
+1336,52,Corrective Maintenance,2025-01-22,Manoj,8854.59,Completed
+1337,39,Inspection,2025-07-28,Suresh,15197.72,Completed
+1338,35,Preventive Maintenance,2025-03-17,Karthik,1538.85,Pending
+1339,64,Preventive Maintenance,2025-11-14,Suresh,15027.85,Pending
+1340,6,Corrective Maintenance,2025-04-27,Karthik,18073.9,Completed
+1341,57,Corrective Maintenance,2025-02-24,Manoj,11588.88,Completed
+1342,46,Emergency Repair,2025-06-26,Arun,2846.88,Completed
+1343,4,Preventive Maintenance,2025-11-09,Manoj,10091.08,Completed
+1344,2,Inspection,2025-01-18,Ravi,10943.16,Pending
+1345,73,Emergency Repair,2025-03-23,Suresh,7863.58,Completed
+1346,40,Emergency Repair,2025-09-05,Arun,13162.98,Pending
+1347,68,Inspection,2025-05-12,Suresh,5617.35,Pending
+1348,49,Corrective Maintenance,2025-12-07,Arun,5634.54,Completed
+1349,57,Corrective Maintenance,2025-07-16,Karthik,7301.34,Completed
+1350,5,Preventive Maintenance,2025-12-30,Ravi,9559.68,Completed
+1351,13,Corrective Maintenance,2025-03-10,Karthik,19876.54,Completed
+1352,54,Corrective Maintenance,2025-04-04,Ravi,9165.57,Completed
+1353,71,Emergency Repair,2025-09-16,Ravi,4002.43,Completed
+1354,59,Inspection,2025-07-17,Arun,11047.7,Completed
+1355,31,Emergency Repair,2025-10-25,Karthik,18525.34,Completed
+1356,23,Inspection,2025-11-03,Arun,3720.46,Completed
+1357,54,Emergency Repair,2025-12-10,Suresh,14336.76,Completed
+1358,11,Inspection,2025-06-07,Karthik,19074.72,Completed
+1359,18,Emergency Repair,2025-01-11,Karthik,3335.69,Completed
+1360,70,Emergency Repair,2025-01-29,Ravi,16526.15,Completed
+1361,13,Inspection,2025-10-17,Karthik,2677.57,Pending
+1362,44,Corrective Maintenance,2025-01-24,Ravi,13270.86,Completed
+1363,53,Corrective Maintenance,2025-07-28,Suresh,9514.63,Completed
+1364,72,Inspection,2025-06-11,Arun,692.31,Completed
+1365,67,Inspection,2025-11-04,Arun,12466.25,Pending
+1366,54,Emergency Repair,2025-09-07,Ravi,5352.17,Completed
+1367,74,Preventive Maintenance,2025-10-27,Manoj,8091.02,Pending
+1368,2,Corrective Maintenance,2025-01-25,Karthik,19669.71,Completed
+1369,1,Emergency Repair,2025-01-11,Karthik,10291.15,Completed
+1370,71,Inspection,2025-12-15,Ravi,15211.32,Completed
+1371,36,Inspection,2025-07-16,Suresh,19231.81,Completed
+1372,35,Preventive Maintenance,2025-08-15,Manoj,8537.61,Pending
+1373,56,Inspection,2025-03-18,Karthik,15286.81,Pending
+1374,8,Emergency Repair,2025-01-14,Arun,10739.38,Pending
+1375,71,Inspection,2025-03-15,Ravi,2763.85,Pending
+1376,7,Emergency Repair,2025-08-10,Suresh,1947.61,Pending
+1377,66,Inspection,2025-10-30,Suresh,5387.16,Pending
+1378,29,Corrective Maintenance,2025-03-01,Arun,17181.42,Completed
+1379,16,Preventive Maintenance,2025-12-16,Ravi,18204.98,Completed
+1380,27,Inspection,2025-08-23,Ravi,7659.65,Completed
+1381,71,Corrective Maintenance,2025-01-18,Suresh,12974.95,Completed
+1382,56,Preventive Maintenance,2025-10-21,Manoj,8639.39,Completed
+1383,46,Emergency Repair,2025-05-31,Suresh,10876.29,Completed
+1384,27,Inspection,2025-03-30,Manoj,523.15,Completed
+1385,63,Emergency Repair,2025-04-03,Arun,10729.19,Completed
+1386,35,Corrective Maintenance,2025-01-05,Manoj,1464.1,Completed
+1387,19,Emergency Repair,2025-07-15,Suresh,1529.96,Completed
+1388,59,Preventive Maintenance,2025-03-07,Manoj,13843.98,Pending
+1389,7,Inspection,2025-06-15,Ravi,2286.22,Completed
+1390,5,Corrective Maintenance,2025-09-07,Ravi,4492.42,Completed
+1391,24,Preventive Maintenance,2025-07-15,Suresh,10488.82,Pending
+1392,49,Inspection,2025-06-29,Karthik,13101.87,Completed
+1393,25,Corrective Maintenance,2025-02-21,Karthik,18162.71,Completed
+1394,42,Inspection,2025-01-25,Karthik,8913.73,Pending
+1395,71,Inspection,2025-03-31,Suresh,18169.15,Pending
+1396,31,Preventive Maintenance,2025-04-16,Manoj,12308.75,Pending
+1397,27,Inspection,2025-12-05,Manoj,1508.47,Completed
+1398,55,Preventive Maintenance,2025-01-14,Ravi,18300.92,Completed
+1399,56,Corrective Maintenance,2025-02-01,Ravi,8412.53,Pending
+1400,70,Preventive Maintenance,2025-03-25,Suresh,4985.99,Completed
+1401,40,Inspection,2025-10-14,Ravi,18749.39,Pending
+1402,9,Preventive Maintenance,2025-03-02,Karthik,16141.6,Pending
+1403,57,Inspection,2025-09-24,Karthik,2953.15,Completed
+1404,52,Corrective Maintenance,2025-09-29,Ravi,11572.15,Pending
+1405,61,Corrective Maintenance,2025-09-24,Ravi,2204.8,Pending
+1406,58,Corrective Maintenance,2025-10-24,Ravi,19880.55,Completed
+1407,65,Emergency Repair,2025-04-27,Suresh,12155.59,Completed
+1408,44,Inspection,2025-10-25,Ravi,19738.9,Pending
+1409,9,Corrective Maintenance,2025-07-04,Ravi,11894.85,Completed
+1410,51,Preventive Maintenance,2025-10-31,Arun,10528.15,Completed
+1411,5,Corrective Maintenance,2025-01-21,Karthik,13084.74,Completed
+1412,42,Inspection,2025-12-22,Suresh,19222.53,Pending
+1413,46,Inspection,2025-03-13,Ravi,11737.15,Pending
+1414,48,Corrective Maintenance,2025-08-12,Manoj,8051.42,Pending
+1415,4,Corrective Maintenance,2025-12-16,Ravi,17198.1,Pending
+1416,45,Corrective Maintenance,2025-12-06,Karthik,5803.87,Completed
+1417,62,Preventive Maintenance,2025-07-07,Arun,14294.65,Completed
+1418,70,Preventive Maintenance,2025-05-25,Arun,14954.7,Pending
+1419,75,Corrective Maintenance,2025-01-10,Karthik,9720.78,Completed
+1420,32,Inspection,2025-11-08,Suresh,9508.74,Completed
+1421,44,Corrective Maintenance,2025-08-07,Karthik,13182.85,Pending
+1422,42,Inspection,2025-11-27,Suresh,7055.09,Pending
+1423,26,Inspection,2025-05-03,Suresh,6355.65,Completed
+1424,3,Preventive Maintenance,2025-07-05,Karthik,5768.68,Pending
+1425,35,Inspection,2025-06-17,Suresh,9222.82,Completed
+1426,19,Inspection,2025-09-01,Arun,9434.9,Completed
+1427,10,Preventive Maintenance,2025-09-20,Karthik,12568.67,Pending
+1428,9,Preventive Maintenance,2025-03-07,Suresh,1229.86,Completed
+1429,68,Preventive Maintenance,2025-06-20,Arun,3262.05,Completed
+1430,58,Preventive Maintenance,2025-03-03,Karthik,5184.86,Pending
+1431,74,Inspection,2025-05-17,Ravi,3395.6,Completed
+1432,16,Emergency Repair,2025-05-11,Ravi,1729.79,Completed
+1433,22,Preventive Maintenance,2025-03-01,Ravi,11445.02,Pending
+1434,3,Emergency Repair,2025-02-22,Karthik,10563.33,Completed
+1435,30,Inspection,2025-05-14,Ravi,16228.93,Pending
+1436,51,Preventive Maintenance,2025-01-12,Karthik,8313.57,Completed
+1437,48,Preventive Maintenance,2025-05-09,Manoj,4054.45,Pending
+1438,9,Preventive Maintenance,2025-05-10,Karthik,3216.72,Completed
+1439,39,Corrective Maintenance,2025-10-25,Arun,9948.69,Completed
+1440,68,Corrective Maintenance,2025-12-26,Manoj,18334.76,Completed
+1441,23,Corrective Maintenance,2025-06-02,Manoj,15480.75,Completed
+1442,64,Corrective Maintenance,2025-10-10,Karthik,7493.4,Completed
+1443,61,Emergency Repair,2025-05-29,Ravi,14432.48,Completed
+1444,71,Preventive Maintenance,2025-10-31,Arun,889.9,Pending
+1445,15,Corrective Maintenance,2025-09-05,Arun,13106.55,Pending
+1446,44,Inspection,2025-12-11,Manoj,15482.04,Pending
+1447,63,Inspection,2025-03-08,Manoj,18172.74,Completed
+1448,72,Preventive Maintenance,2025-11-10,Ravi,842.45,Completed
+1449,73,Emergency Repair,2025-12-30,Arun,14425.14,Completed
+1450,36,Inspection,2025-12-23,Karthik,1309.74,Completed
+1451,18,Inspection,2025-01-27,Karthik,18488.84,Completed
+1452,47,Preventive Maintenance,2025-09-16,Ravi,16217.78,Completed
+1453,38,Corrective Maintenance,2025-01-21,Arun,8892.17,Pending
+1454,52,Inspection,2025-07-30,Karthik,9096.39,Completed
+1455,32,Preventive Maintenance,2025-10-10,Manoj,14086.94,Completed
+1456,10,Corrective Maintenance,2025-04-25,Suresh,8840.63,Pending
+1457,54,Emergency Repair,2025-10-02,Manoj,11860.25,Pending
+1458,41,Emergency Repair,2025-08-17,Karthik,7356.12,Pending
+1459,38,Inspection,2025-04-04,Karthik,9343.57,Completed
+1460,3,Emergency Repair,2025-01-05,Karthik,3117.14,Pending
+1461,44,Corrective Maintenance,2025-12-26,Manoj,13825.27,Pending
+1462,2,Corrective Maintenance,2025-02-20,Arun,19824.53,Pending
+1463,2,Emergency Repair,2025-07-27,Arun,1713.29,Pending
+1464,63,Inspection,2025-06-23,Arun,9678.68,Pending
+1465,45,Preventive Maintenance,2025-05-05,Suresh,17567.64,Pending
+1466,61,Preventive Maintenance,2025-05-27,Karthik,14685.5,Pending
+1467,42,Preventive Maintenance,2025-01-29,Manoj,2163.28,Completed
+1468,3,Preventive Maintenance,2025-02-07,Suresh,7007.75,Completed
+1469,49,Preventive Maintenance,2025-12-29,Karthik,8434.92,Completed
+1470,72,Emergency Repair,2025-08-31,Karthik,2719.9,Completed
+1471,50,Emergency Repair,2025-06-20,Suresh,14642.56,Completed
+1472,17,Corrective Maintenance,2025-04-05,Karthik,16610.45,Completed
+1473,10,Corrective Maintenance,2025-02-21,Manoj,19558.14,Completed
+1474,7,Corrective Maintenance,2025-07-06,Ravi,15756.43,Pending
+1475,8,Preventive Maintenance,2025-08-26,Ravi,18119.36,Completed
+1476,49,Inspection,2025-09-13,Ravi,17664.73,Pending
+1477,8,Corrective Maintenance,2025-02-23,Arun,2678.45,Completed
+1478,23,Corrective Maintenance,2025-02-22,Arun,3714.71,Pending
+1479,10,Inspection,2025-12-27,Suresh,8575.08,Completed
+1480,19,Corrective Maintenance,2025-11-01,Ravi,16953.25,Completed
+1481,55,Inspection,2025-04-14,Suresh,18176.01,Completed
+1482,35,Corrective Maintenance,2025-06-01,Arun,2453.64,Pending
+1483,49,Corrective Maintenance,2025-12-15,Suresh,13893.44,Completed
+1484,52,Emergency Repair,2025-02-11,Arun,4531.87,Completed
+1485,58,Emergency Repair,2025-08-07,Arun,7126.13,Completed
+1486,9,Preventive Maintenance,2025-07-20,Manoj,19098.82,Completed
+1487,55,Preventive Maintenance,2025-07-10,Suresh,18715.2,Completed
+1488,43,Emergency Repair,2025-01-01,Manoj,5581.09,Completed
+1489,12,Inspection,2025-06-01,Karthik,14205.21,Completed
+1490,61,Inspection,2025-03-26,Ravi,3113.67,Pending
+1491,8,Corrective Maintenance,2025-11-11,Arun,12994.54,Completed
+1492,14,Emergency Repair,2025-09-13,Karthik,9772.06,Completed
+1493,43,Inspection,2025-05-07,Manoj,12787.48,Completed
+1494,48,Corrective Maintenance,2025-07-21,Ravi,3668.33,Completed
+1495,13,Preventive Maintenance,2025-11-18,Karthik,12118.91,Completed
+1496,39,Preventive Maintenance,2025-07-03,Karthik,3138.22,Completed
+1497,28,Inspection,2025-01-06,Ravi,11368.34,Pending
+1498,16,Corrective Maintenance,2025-07-23,Suresh,1366.17,Completed
+1499,31,Preventive Maintenance,2025-01-06,Karthik,10067.42,Completed
+1500,45,Emergency Repair,2025-05-12,Manoj,16351.94,Completed
+1501,60,Corrective Maintenance,2025-12-07,Karthik,13134.05,Pending
+1502,53,Inspection,2025-11-20,Arun,2427.98,Pending
+1503,62,Preventive Maintenance,2025-05-11,Arun,7654.17,Completed
+1504,11,Preventive Maintenance,2025-08-16,Ravi,7336.03,Completed
+1505,71,Preventive Maintenance,2025-07-13,Ravi,16215.33,Pending
+1506,44,Preventive Maintenance,2025-01-04,Karthik,2256.03,Completed
+1507,13,Inspection,2025-07-14,Manoj,15196.44,Completed
+1508,23,Emergency Repair,2025-04-02,Karthik,19898.62,Pending
+1509,19,Emergency Repair,2025-08-22,Manoj,557.54,Completed
+1510,65,Corrective Maintenance,2025-08-31,Arun,19205.06,Completed
+1511,6,Preventive Maintenance,2025-05-04,Ravi,15494.58,Completed
+1512,2,Emergency Repair,2025-07-07,Manoj,11059.77,Pending
+1513,17,Inspection,2025-08-06,Arun,6742.75,Completed
+1514,37,Inspection,2026-01-01,Manoj,11609.61,Completed
+1515,44,Emergency Repair,2025-09-19,Suresh,17261.71,Pending
+1516,63,Inspection,2025-07-27,Manoj,18248.38,Completed
+1517,13,Inspection,2025-03-05,Karthik,14509.72,Pending
+1518,24,Emergency Repair,2025-03-26,Arun,5462.67,Pending
+1519,25,Emergency Repair,2025-07-12,Arun,14805.21,Completed
+1520,29,Emergency Repair,2025-07-27,Ravi,14511.13,Completed
+1521,50,Inspection,2025-08-06,Ravi,13353.79,Completed
+1522,54,Corrective Maintenance,2025-04-23,Suresh,12710.92,Completed
+1523,3,Inspection,2025-05-25,Ravi,3061.89,Completed
+1524,72,Preventive Maintenance,2025-12-05,Manoj,15869.27,Pending
+1525,30,Inspection,2025-04-25,Suresh,2277.74,Pending
+1526,12,Inspection,2025-11-30,Karthik,19834.32,Completed
+1527,74,Inspection,2025-10-07,Karthik,6524.4,Completed
+1528,64,Inspection,2025-08-20,Ravi,2802.36,Pending
+1529,42,Inspection,2025-04-04,Manoj,6274.78,Completed
+1530,43,Corrective Maintenance,2025-11-23,Arun,9164.55,Completed
+1531,6,Inspection,2025-02-22,Arun,2555.19,Completed
+1532,4,Preventive Maintenance,2025-06-11,Arun,3560.19,Pending
+1533,36,Emergency Repair,2025-07-14,Ravi,3182.01,Completed
+1534,60,Preventive Maintenance,2025-08-31,Karthik,13971.65,Completed
+1535,69,Emergency Repair,2025-07-18,Karthik,1842.08,Completed
+1536,7,Corrective Maintenance,2025-04-24,Manoj,7706.98,Pending
+1537,48,Emergency Repair,2025-06-08,Suresh,3843.1,Completed
+1538,25,Emergency Repair,2025-06-07,Karthik,506.8,Completed
+1539,12,Inspection,2025-06-13,Ravi,10602.8,Pending
+1540,52,Corrective Maintenance,2025-04-07,Suresh,6617.01,Completed
+1541,15,Corrective Maintenance,2025-07-17,Karthik,18509.28,Completed
+1542,24,Preventive Maintenance,2025-09-10,Ravi,14014.58,Completed
+1543,46,Emergency Repair,2025-08-15,Suresh,2325.97,Completed
+1544,8,Emergency Repair,2025-11-16,Manoj,13592.72,Pending
+1545,22,Inspection,2025-06-08,Karthik,4114.27,Pending
+1546,37,Emergency Repair,2025-07-20,Manoj,12217.84,Completed
+1547,63,Corrective Maintenance,2025-07-29,Suresh,8189.04,Completed
+1548,38,Emergency Repair,2025-04-01,Arun,16721.39,Completed
+1549,2,Emergency Repair,2025-12-21,Arun,18991.59,Completed
+1550,40,Emergency Repair,2025-07-02,Arun,2469.0,Completed
+1551,36,Corrective Maintenance,2025-06-12,Suresh,13715.13,Pending
+1552,22,Preventive Maintenance,2025-10-13,Karthik,19553.62,Completed
+1553,46,Inspection,2025-05-12,Arun,8695.76,Pending
+1554,39,Corrective Maintenance,2025-05-08,Karthik,3033.8,Pending
+1555,33,Emergency Repair,2025-03-24,Manoj,18916.74,Completed
+1556,40,Emergency Repair,2025-03-06,Karthik,6949.26,Pending
+1557,57,Inspection,2025-06-05,Suresh,19902.14,Completed
+1558,68,Emergency Repair,2025-04-04,Ravi,8165.8,Completed
+1559,61,Corrective Maintenance,2025-11-21,Karthik,14955.11,Completed
+1560,48,Emergency Repair,2025-04-11,Karthik,12264.12,Pending
+1561,46,Preventive Maintenance,2025-10-03,Arun,3643.04,Completed
+1562,33,Corrective Maintenance,2025-05-11,Ravi,2537.01,Completed
+1563,54,Corrective Maintenance,2025-03-13,Karthik,7393.69,Pending
+1564,54,Corrective Maintenance,2025-11-01,Arun,10133.65,Completed
+1565,41,Inspection,2025-12-23,Suresh,8199.4,Pending
+1566,66,Preventive Maintenance,2025-10-08,Ravi,4791.73,Completed
+1567,61,Emergency Repair,2025-08-14,Arun,1424.03,Completed
+1568,4,Emergency Repair,2025-07-23,Manoj,3774.64,Completed
+1569,50,Preventive Maintenance,2025-09-18,Manoj,6225.82,Completed
+1570,69,Emergency Repair,2025-09-20,Karthik,2228.56,Pending
+1571,63,Emergency Repair,2025-04-04,Karthik,15792.17,Pending
+1572,21,Inspection,2025-11-28,Karthik,6622.81,Completed
+1573,10,Corrective Maintenance,2025-06-04,Arun,16984.5,Completed
+1574,69,Inspection,2025-03-10,Arun,6354.29,Completed
+1575,47,Emergency Repair,2025-12-04,Manoj,16481.7,Completed
+1576,43,Emergency Repair,2025-03-14,Ravi,7302.08,Completed
+1577,62,Emergency Repair,2025-03-02,Manoj,12438.78,Completed
+1578,72,Emergency Repair,2025-02-28,Karthik,1143.79,Pending
+1579,15,Inspection,2025-06-03,Suresh,9166.41,Pending
+1580,1,Inspection,2025-10-31,Arun,17999.54,Pending
+1581,56,Preventive Maintenance,2025-07-19,Karthik,9166.45,Pending
+1582,9,Inspection,2025-01-11,Suresh,11152.05,Completed
+1583,72,Emergency Repair,2025-09-24,Suresh,10937.87,Completed
+1584,26,Emergency Repair,2025-04-11,Suresh,11132.49,Completed
+1585,64,Emergency Repair,2025-08-13,Karthik,8964.16,Completed
+1586,23,Inspection,2025-06-21,Arun,16136.02,Pending
+1587,41,Inspection,2025-08-19,Karthik,13265.09,Completed
+1588,7,Preventive Maintenance,2025-12-29,Arun,6793.81,Pending
+1589,17,Preventive Maintenance,2025-12-29,Karthik,17524.58,Pending
+1590,10,Preventive Maintenance,2025-08-04,Ravi,5316.58,Pending
+1591,74,Preventive Maintenance,2025-02-13,Manoj,19814.65,Completed
+1592,37,Emergency Repair,2025-01-13,Manoj,16808.33,Completed
+1593,45,Preventive Maintenance,2025-07-05,Karthik,2677.32,Pending
+1594,19,Corrective Maintenance,2025-11-10,Karthik,1340.58,Pending
+1595,25,Preventive Maintenance,2025-01-19,Ravi,14079.69,Pending
+1596,38,Emergency Repair,2025-09-03,Ravi,5974.88,Completed
+1597,46,Corrective Maintenance,2025-10-04,Manoj,3205.34,Completed
+1598,44,Corrective Maintenance,2025-11-11,Suresh,14225.53,Completed
+1599,9,Emergency Repair,2025-02-26,Arun,8952.12,Completed
+1600,42,Emergency Repair,2025-07-11,Manoj,12221.97,Completed
+1601,27,Inspection,2025-08-02,Suresh,8241.75,Pending
+1602,26,Inspection,2025-08-04,Arun,6594.6,Pending
+1603,32,Emergency Repair,2025-10-16,Karthik,13129.88,Completed
+1604,75,Preventive Maintenance,2025-09-09,Ravi,2267.19,Completed
+1605,8,Preventive Maintenance,2025-01-21,Arun,13799.11,Completed
+1606,49,Emergency Repair,2025-11-23,Manoj,8644.58,Completed
+1607,18,Corrective Maintenance,2025-02-28,Karthik,10943.2,Pending
+1608,33,Corrective Maintenance,2025-11-19,Ravi,18606.48,Completed
+1609,70,Inspection,2025-04-21,Manoj,6440.19,Pending
+1610,16,Corrective Maintenance,2025-05-26,Karthik,7382.12,Pending
+1611,18,Preventive Maintenance,2025-12-21,Suresh,12293.62,Completed
+1612,32,Emergency Repair,2025-10-10,Manoj,8878.28,Completed
+1613,49,Corrective Maintenance,2025-03-15,Suresh,6993.19,Completed
+1614,38,Inspection,2025-09-02,Karthik,14101.82,Completed
+1615,3,Preventive Maintenance,2025-10-16,Manoj,17551.62,Pending
+1616,43,Inspection,2025-08-21,Suresh,15943.49,Completed
+1617,49,Inspection,2025-07-17,Arun,1116.41,Completed
+1618,61,Preventive Maintenance,2025-05-15,Manoj,9818.46,Completed
+1619,35,Inspection,2025-09-11,Manoj,10905.43,Completed
+1620,25,Preventive Maintenance,2025-07-08,Suresh,18151.98,Completed
+1621,47,Emergency Repair,2025-07-07,Arun,17865.4,Pending
+1622,23,Inspection,2025-01-05,Karthik,6995.51,Completed
+1623,34,Emergency Repair,2025-03-19,Suresh,12473.37,Completed
+1624,32,Corrective Maintenance,2025-12-14,Arun,18278.65,Pending
+1625,6,Corrective Maintenance,2025-03-11,Arun,4761.15,Completed
+1626,64,Preventive Maintenance,2025-05-02,Karthik,17449.77,Pending
+1627,15,Corrective Maintenance,2025-03-16,Manoj,9973.3,Completed
+1628,36,Corrective Maintenance,2025-05-19,Arun,13578.01,Completed
+1629,46,Emergency Repair,2025-04-26,Arun,2569.81,Completed
+1630,46,Emergency Repair,2025-04-01,Ravi,792.17,Completed
+1631,33,Corrective Maintenance,2025-11-21,Karthik,10350.86,Completed
+1632,28,Preventive Maintenance,2025-08-08,Ravi,11858.27,Completed
+1633,31,Preventive Maintenance,2025-10-21,Suresh,8426.0,Completed
+1634,73,Inspection,2025-02-27,Arun,2681.81,Completed
+1635,40,Preventive Maintenance,2025-06-10,Suresh,15771.67,Pending
+1636,74,Inspection,2025-02-22,Arun,8990.05,Completed
+1637,20,Preventive Maintenance,2025-12-25,Karthik,15838.12,Pending
+1638,74,Corrective Maintenance,2025-09-20,Arun,7493.42,Completed
+1639,27,Inspection,2025-07-22,Ravi,8234.41,Completed
+1640,71,Preventive Maintenance,2025-07-30,Suresh,2726.71,Pending
+1641,62,Inspection,2025-08-28,Manoj,1763.16,Completed
+1642,37,Corrective Maintenance,2025-10-10,Karthik,7016.55,Completed
+1643,25,Inspection,2025-08-24,Arun,15120.39,Completed
+1644,75,Inspection,2025-09-16,Ravi,2784.8,Completed
+1645,31,Corrective Maintenance,2025-05-14,Arun,4731.19,Completed
+1646,69,Emergency Repair,2025-06-18,Karthik,8092.74,Pending
+1647,41,Preventive Maintenance,2025-07-19,Arun,10699.22,Completed
+1648,64,Emergency Repair,2025-12-21,Manoj,4572.68,Completed
+1649,13,Corrective Maintenance,2025-12-19,Suresh,9242.36,Pending
+1650,39,Preventive Maintenance,2025-01-05,Arun,4015.68,Pending
+1651,75,Corrective Maintenance,2025-10-04,Karthik,14035.08,Pending
+1652,41,Preventive Maintenance,2025-08-28,Arun,14388.09,Pending
+1653,49,Preventive Maintenance,2025-04-11,Suresh,18519.26,Completed
+1654,70,Preventive Maintenance,2025-08-31,Karthik,19484.5,Completed
+1655,10,Corrective Maintenance,2025-02-03,Ravi,15775.41,Completed
+1656,9,Preventive Maintenance,2025-10-09,Suresh,14094.46,Completed
+1657,12,Preventive Maintenance,2025-01-28,Suresh,1882.02,Completed
+1658,35,Preventive Maintenance,2025-03-22,Arun,9667.79,Completed
+1659,34,Preventive Maintenance,2025-07-02,Arun,17015.24,Completed
+1660,47,Corrective Maintenance,2025-04-05,Manoj,9521.32,Completed
+1661,6,Inspection,2025-03-29,Ravi,15459.23,Completed
+1662,42,Inspection,2025-10-22,Ravi,19646.97,Completed
+1663,7,Emergency Repair,2025-06-16,Arun,19676.59,Pending
+1664,70,Inspection,2025-01-02,Arun,5632.29,Completed
+1665,56,Corrective Maintenance,2025-04-23,Manoj,5795.7,Completed
+1666,70,Emergency Repair,2025-01-22,Suresh,14573.44,Completed
+1667,15,Emergency Repair,2025-05-25,Arun,9164.79,Pending
+1668,5,Corrective Maintenance,2025-07-28,Karthik,18490.69,Pending
+1669,55,Emergency Repair,2025-04-15,Arun,663.58,Pending
+1670,25,Corrective Maintenance,2025-06-20,Suresh,1635.18,Completed
+1671,69,Inspection,2025-09-16,Suresh,9180.92,Pending
+1672,19,Inspection,2025-09-22,Suresh,17498.48,Completed
+1673,21,Preventive Maintenance,2025-10-18,Suresh,14911.73,Completed
+1674,39,Preventive Maintenance,2025-12-21,Suresh,7755.11,Completed
+1675,9,Inspection,2025-11-11,Karthik,7262.46,Completed
+1676,31,Preventive Maintenance,2025-11-08,Suresh,13735.64,Pending
+1677,8,Inspection,2025-06-01,Manoj,5464.33,Completed
+1678,53,Inspection,2025-01-31,Karthik,1679.53,Pending
+1679,29,Emergency Repair,2025-05-09,Manoj,10283.41,Completed
+1680,56,Corrective Maintenance,2025-01-08,Ravi,1757.28,Pending
+1681,36,Corrective Maintenance,2025-01-26,Suresh,992.8,Pending
+1682,26,Corrective Maintenance,2025-08-28,Karthik,2037.26,Completed
+1683,30,Preventive Maintenance,2025-06-08,Suresh,5595.54,Completed
+1684,1,Corrective Maintenance,2025-11-05,Suresh,12288.99,Completed
+1685,51,Corrective Maintenance,2025-02-14,Manoj,16223.09,Completed
+1686,37,Inspection,2025-11-07,Arun,18126.32,Completed
+1687,4,Corrective Maintenance,2025-12-26,Arun,9932.15,Completed
+1688,6,Emergency Repair,2025-04-23,Suresh,11483.26,Pending
+1689,16,Emergency Repair,2025-10-01,Ravi,17497.4,Completed
+1690,3,Preventive Maintenance,2025-08-07,Ravi,6418.86,Completed
+1691,25,Preventive Maintenance,2025-04-20,Suresh,5272.99,Pending
+1692,9,Inspection,2025-06-05,Arun,17486.5,Completed
+1693,3,Corrective Maintenance,2025-10-15,Suresh,9191.16,Completed
+1694,73,Inspection,2025-04-01,Karthik,8595.3,Completed
+1695,30,Emergency Repair,2025-09-21,Manoj,18691.05,Pending
+1696,11,Emergency Repair,2025-09-23,Ravi,10764.52,Pending
+1697,44,Preventive Maintenance,2025-12-02,Suresh,5803.42,Completed
+1698,19,Inspection,2025-01-22,Karthik,5681.42,Completed
+1699,36,Preventive Maintenance,2025-11-11,Ravi,17062.56,Pending
+1700,66,Preventive Maintenance,2025-02-02,Arun,13231.99,Completed
+1701,75,Emergency Repair,2025-02-26,Suresh,14446.43,Pending
+1702,53,Inspection,2025-08-11,Manoj,13321.56,Pending
+1703,15,Corrective Maintenance,2025-11-26,Manoj,19169.76,Pending
+1704,60,Corrective Maintenance,2025-01-26,Ravi,10653.39,Completed
+1705,46,Emergency Repair,2025-07-07,Manoj,5199.6,Completed
+1706,47,Inspection,2025-04-01,Manoj,16357.33,Pending
+1707,17,Emergency Repair,2025-04-29,Manoj,8384.57,Pending
+1708,64,Inspection,2025-02-21,Karthik,17751.59,Pending
+1709,21,Emergency Repair,2025-07-22,Manoj,7673.6,Completed
+1710,57,Inspection,2025-04-14,Manoj,987.84,Completed
+1711,17,Corrective Maintenance,2025-11-01,Suresh,5977.02,Completed
+1712,36,Inspection,2025-10-18,Arun,17096.3,Completed
+1713,24,Emergency Repair,2025-08-01,Ravi,19278.01,Completed
+1714,61,Corrective Maintenance,2025-04-05,Ravi,965.93,Pending
+1715,74,Corrective Maintenance,2025-06-25,Manoj,5087.33,Completed
+1716,6,Corrective Maintenance,2025-10-29,Suresh,13319.42,Completed
+1717,51,Emergency Repair,2025-10-27,Ravi,1749.82,Completed
+1718,6,Preventive Maintenance,2025-03-02,Manoj,14755.39,Pending
+1719,2,Inspection,2025-07-23,Karthik,10537.34,Completed
+1720,2,Inspection,2025-09-03,Arun,13595.77,Completed
+1721,47,Corrective Maintenance,2025-04-02,Suresh,8538.06,Pending
+1722,48,Preventive Maintenance,2025-02-01,Manoj,10609.63,Completed
+1723,56,Inspection,2025-10-02,Arun,8992.97,Completed
+1724,6,Corrective Maintenance,2025-06-24,Manoj,19128.63,Pending
+1725,51,Emergency Repair,2025-11-05,Ravi,15191.01,Completed
+1726,75,Preventive Maintenance,2025-11-04,Arun,10361.2,Pending
+1727,15,Preventive Maintenance,2025-11-09,Ravi,15311.77,Completed
+1728,38,Emergency Repair,2025-12-20,Karthik,500.24,Completed
+1729,31,Corrective Maintenance,2025-05-01,Suresh,17131.2,Completed
+1730,51,Preventive Maintenance,2025-11-04,Ravi,3033.77,Pending
+1731,4,Corrective Maintenance,2025-10-08,Karthik,7682.59,Pending
+1732,66,Inspection,2025-02-24,Karthik,18135.9,Pending
+1733,6,Preventive Maintenance,2025-01-12,Suresh,2950.78,Completed
+1734,5,Inspection,2025-09-17,Suresh,10332.68,Pending
+1735,48,Preventive Maintenance,2025-12-29,Karthik,16303.37,Completed
+1736,34,Preventive Maintenance,2025-01-29,Suresh,7033.47,Completed
+1737,46,Preventive Maintenance,2025-02-12,Arun,10567.83,Completed
+1738,49,Preventive Maintenance,2025-04-22,Karthik,19423.83,Completed
+1739,65,Preventive Maintenance,2025-08-25,Arun,7357.53,Completed
+1740,23,Emergency Repair,2025-02-25,Karthik,4780.83,Pending
+1741,64,Inspection,2025-02-21,Suresh,8504.95,Pending
+1742,43,Corrective Maintenance,2025-05-30,Karthik,10618.45,Completed
+1743,63,Emergency Repair,2025-08-17,Suresh,6726.58,Pending
+1744,3,Preventive Maintenance,2025-06-17,Manoj,16093.59,Completed
+1745,3,Corrective Maintenance,2025-10-01,Arun,5970.39,Completed
+1746,51,Inspection,2025-06-28,Ravi,9571.02,Pending
+1747,11,Corrective Maintenance,2025-10-27,Ravi,2039.67,Pending
+1748,43,Preventive Maintenance,2025-12-06,Karthik,14060.41,Completed
+1749,73,Inspection,2025-05-20,Arun,5911.13,Pending
+1750,3,Inspection,2025-10-29,Karthik,16385.92,Completed
+1751,60,Corrective Maintenance,2025-08-23,Manoj,2181.84,Completed
+1752,37,Preventive Maintenance,2025-09-03,Ravi,15731.2,Completed
+1753,10,Preventive Maintenance,2025-02-01,Suresh,9383.25,Pending
+1754,59,Inspection,2025-05-20,Suresh,6178.3,Completed
+1755,18,Preventive Maintenance,2025-01-09,Ravi,12362.55,Pending
+1756,48,Preventive Maintenance,2025-08-12,Karthik,15498.78,Pending
+1757,12,Emergency Repair,2025-06-16,Suresh,9045.08,Completed
+1758,62,Emergency Repair,2025-08-11,Arun,8695.55,Completed
+1759,11,Inspection,2025-03-13,Karthik,19469.4,Completed
+1760,25,Inspection,2025-10-18,Karthik,1031.17,Pending
+1761,2,Emergency Repair,2025-05-05,Arun,14269.88,Completed
+1762,57,Preventive Maintenance,2025-06-26,Ravi,1381.05,Completed
+1763,33,Inspection,2025-03-01,Manoj,10360.68,Pending
+1764,45,Preventive Maintenance,2025-09-15,Arun,15961.87,Pending
+1765,54,Emergency Repair,2025-05-04,Karthik,2112.75,Pending
+1766,47,Preventive Maintenance,2025-03-09,Manoj,4794.54,Completed
+1767,52,Corrective Maintenance,2025-09-28,Suresh,10508.0,Completed
+1768,2,Corrective Maintenance,2025-04-06,Manoj,3300.66,Completed
+1769,38,Corrective Maintenance,2025-10-05,Karthik,2435.02,Pending
+1770,29,Preventive Maintenance,2025-03-24,Arun,9119.98,Pending
+1771,40,Emergency Repair,2025-02-03,Suresh,18886.04,Pending
+1772,62,Corrective Maintenance,2025-04-11,Arun,17804.72,Pending
+1773,75,Emergency Repair,2025-05-24,Manoj,9240.06,Pending
+1774,49,Emergency Repair,2025-02-12,Suresh,1248.12,Completed
+1775,38,Emergency Repair,2025-04-22,Manoj,16250.57,Completed
+1776,68,Emergency Repair,2025-01-26,Manoj,11710.99,Pending
+1777,62,Emergency Repair,2025-02-07,Suresh,11343.1,Completed
+1778,55,Emergency Repair,2025-07-18,Karthik,8173.87,Pending
+1779,69,Corrective Maintenance,2025-03-07,Manoj,15346.62,Completed
+1780,65,Inspection,2025-12-09,Suresh,9832.63,Completed
+1781,43,Inspection,2025-06-20,Ravi,2917.16,Completed
+1782,11,Emergency Repair,2025-04-13,Arun,10254.8,Pending
+1783,4,Emergency Repair,2025-11-26,Karthik,14649.93,Completed
+1784,3,Corrective Maintenance,2025-02-06,Karthik,5369.39,Completed
+1785,7,Preventive Maintenance,2025-03-26,Ravi,4196.43,Completed
+1786,10,Emergency Repair,2025-11-10,Arun,2654.26,Completed
+1787,50,Corrective Maintenance,2025-06-29,Karthik,1304.01,Completed
+1788,4,Inspection,2025-07-19,Manoj,8242.13,Completed
+1789,72,Emergency Repair,2025-06-07,Karthik,5290.56,Completed
+1790,25,Inspection,2025-08-02,Arun,7736.15,Pending
+1791,60,Corrective Maintenance,2025-06-09,Ravi,15380.18,Pending
+1792,66,Corrective Maintenance,2025-12-05,Ravi,17061.45,Completed
+1793,30,Preventive Maintenance,2025-03-20,Karthik,8179.4,Completed
+1794,20,Preventive Maintenance,2025-05-10,Ravi,6956.03,Completed
+1795,60,Inspection,2025-12-06,Ravi,9789.48,Completed
+1796,22,Emergency Repair,2025-08-06,Suresh,12186.49,Completed
+1797,61,Inspection,2025-11-08,Arun,566.16,Completed
+1798,35,Corrective Maintenance,2025-02-12,Suresh,3041.79,Pending
+1799,38,Emergency Repair,2025-02-19,Karthik,16683.21,Pending
+1800,65,Preventive Maintenance,2025-04-26,Karthik,16122.72,Pending
+1801,10,Inspection,2025-10-26,Arun,17964.23,Pending
+1802,54,Corrective Maintenance,2025-08-05,Suresh,1572.87,Pending
+1803,55,Inspection,2025-06-24,Manoj,10955.5,Completed
+1804,16,Corrective Maintenance,2025-06-18,Suresh,11551.19,Pending
+1805,28,Corrective Maintenance,2025-12-07,Karthik,7442.25,Completed
+1806,53,Inspection,2025-06-05,Manoj,17856.57,Completed
+1807,49,Preventive Maintenance,2025-02-22,Karthik,5145.65,Completed
+1808,25,Preventive Maintenance,2025-03-29,Ravi,5493.12,Completed
+1809,29,Preventive Maintenance,2025-09-10,Manoj,12231.6,Pending
+1810,8,Emergency Repair,2025-08-19,Manoj,19057.83,Pending
+1811,56,Emergency Repair,2025-10-08,Karthik,12054.15,Completed
+1812,48,Inspection,2025-01-19,Suresh,7232.27,Pending
+1813,40,Emergency Repair,2025-07-20,Manoj,1521.07,Pending
+1814,39,Preventive Maintenance,2025-08-06,Suresh,1029.69,Completed
+1815,26,Preventive Maintenance,2025-12-28,Manoj,8242.15,Pending
+1816,59,Preventive Maintenance,2025-10-22,Suresh,839.22,Completed
+1817,14,Inspection,2025-05-04,Karthik,4054.49,Pending
+1818,56,Emergency Repair,2025-09-19,Arun,17784.04,Completed
+1819,71,Preventive Maintenance,2025-09-09,Manoj,19728.41,Pending
+1820,29,Preventive Maintenance,2025-09-07,Karthik,8538.51,Completed
+1821,13,Emergency Repair,2025-03-07,Karthik,9427.33,Completed
+1822,18,Corrective Maintenance,2025-03-05,Arun,19140.87,Completed
+1823,28,Emergency Repair,2025-10-24,Ravi,9711.63,Completed
+1824,34,Preventive Maintenance,2025-09-07,Suresh,8475.55,Completed
+1825,20,Emergency Repair,2025-07-16,Manoj,9095.99,Pending
+1826,18,Corrective Maintenance,2025-10-19,Manoj,3209.4,Completed
+1827,43,Corrective Maintenance,2025-02-28,Ravi,3846.29,Completed
+1828,38,Preventive Maintenance,2025-10-30,Ravi,3276.1,Completed
+1829,52,Preventive Maintenance,2025-07-13,Karthik,19236.13,Pending
+1830,73,Emergency Repair,2025-09-26,Suresh,10551.87,Completed
+1831,28,Emergency Repair,2025-11-29,Ravi,16699.4,Pending
+1832,27,Preventive Maintenance,2025-08-11,Suresh,16124.66,Pending
+1833,21,Inspection,2025-09-05,Arun,17833.19,Pending
+1834,69,Corrective Maintenance,2025-01-13,Manoj,15912.52,Pending
+1835,72,Inspection,2025-01-01,Karthik,16926.42,Completed
+1836,74,Inspection,2025-12-09,Arun,726.39,Pending
+1837,75,Preventive Maintenance,2025-06-22,Arun,6035.49,Pending
+1838,3,Emergency Repair,2025-10-13,Manoj,14589.4,Completed
+1839,34,Corrective Maintenance,2025-11-15,Ravi,6852.75,Completed
+1840,7,Preventive Maintenance,2025-01-25,Karthik,7284.76,Completed
+1841,11,Inspection,2025-08-18,Manoj,1336.36,Completed
+1842,48,Emergency Repair,2025-02-06,Ravi,17267.4,Pending
+1843,40,Inspection,2025-05-13,Ravi,16120.07,Completed
+1844,39,Emergency Repair,2025-12-12,Karthik,8960.16,Completed
+1845,49,Emergency Repair,2025-12-29,Manoj,12022.67,Pending
+1846,60,Emergency Repair,2025-08-21,Karthik,1174.73,Completed
+1847,53,Emergency Repair,2025-04-20,Suresh,4350.09,Completed
+1848,26,Preventive Maintenance,2025-05-28,Karthik,19807.78,Completed
+1849,25,Inspection,2025-10-08,Manoj,19499.58,Pending
+1850,64,Inspection,2025-08-20,Suresh,2643.85,Completed
+1851,50,Preventive Maintenance,2025-09-12,Karthik,9925.31,Completed
+1852,32,Inspection,2025-02-10,Manoj,7527.54,Pending
+1853,48,Preventive Maintenance,2025-04-25,Karthik,4966.23,Completed
+1854,43,Inspection,2025-10-05,Karthik,18189.12,Completed
+1855,31,Inspection,2025-11-03,Arun,11752.54,Completed
+1856,55,Inspection,2025-02-21,Ravi,4204.42,Completed
+1857,74,Inspection,2025-03-05,Suresh,19405.84,Completed
+1858,61,Emergency Repair,2025-07-04,Arun,14115.09,Completed
+1859,3,Preventive Maintenance,2025-12-20,Manoj,10895.26,Completed
+1860,13,Inspection,2025-03-26,Ravi,2667.36,Completed
+1861,15,Preventive Maintenance,2025-01-15,Suresh,3349.4,Completed
+1862,74,Preventive Maintenance,2025-12-03,Arun,9486.18,Pending
+1863,19,Inspection,2025-07-16,Ravi,10807.71,Pending
+1864,61,Preventive Maintenance,2025-05-25,Karthik,4736.67,Completed
+1865,29,Emergency Repair,2025-05-26,Manoj,17035.92,Completed
+1866,61,Corrective Maintenance,2025-04-13,Suresh,9104.06,Completed
+1867,74,Emergency Repair,2025-12-04,Arun,11517.55,Pending
+1868,28,Corrective Maintenance,2025-10-17,Karthik,14852.9,Completed
+1869,64,Preventive Maintenance,2025-08-06,Arun,19040.4,Pending
+1870,7,Corrective Maintenance,2025-09-29,Karthik,11773.49,Pending
+1871,3,Preventive Maintenance,2025-04-23,Karthik,17118.56,Completed
+1872,12,Preventive Maintenance,2025-05-06,Ravi,12310.59,Completed
+1873,65,Inspection,2025-07-13,Suresh,18562.6,Completed
+1874,29,Preventive Maintenance,2025-11-30,Manoj,1746.05,Completed
+1875,61,Corrective Maintenance,2025-04-27,Arun,6956.85,Pending
+1876,5,Inspection,2025-11-17,Manoj,2993.49,Completed
+1877,28,Preventive Maintenance,2025-01-30,Arun,19591.12,Pending
+1878,46,Emergency Repair,2025-04-08,Manoj,1948.63,Completed
+1879,41,Inspection,2025-12-14,Suresh,13830.31,Pending
+1880,34,Preventive Maintenance,2025-03-17,Manoj,17092.5,Completed
+1881,52,Corrective Maintenance,2025-04-03,Manoj,1997.01,Completed
+1882,15,Preventive Maintenance,2025-05-23,Manoj,5807.91,Completed
+1883,53,Inspection,2025-04-11,Manoj,13185.03,Completed
+1884,56,Preventive Maintenance,2025-08-17,Ravi,18177.63,Pending
+1885,36,Preventive Maintenance,2025-10-31,Manoj,6872.62,Completed
+1886,75,Emergency Repair,2025-09-28,Arun,15783.58,Pending
+1887,45,Preventive Maintenance,2025-11-28,Ravi,10254.21,Pending
+1888,23,Preventive Maintenance,2025-10-09,Ravi,17192.47,Completed
+1889,50,Emergency Repair,2025-09-04,Karthik,6921.22,Completed
+1890,75,Inspection,2025-12-04,Arun,3106.92,Completed
+1891,11,Inspection,2025-10-31,Karthik,15405.81,Completed
+1892,47,Corrective Maintenance,2025-11-13,Ravi,1277.54,Pending
+1893,24,Corrective Maintenance,2025-10-03,Manoj,15487.12,Pending
+1894,25,Inspection,2025-09-21,Ravi,2404.16,Completed
+1895,10,Preventive Maintenance,2025-06-20,Manoj,14680.62,Pending
+1896,36,Preventive Maintenance,2025-04-27,Karthik,7972.37,Completed
+1897,40,Emergency Repair,2025-11-19,Manoj,19156.28,Completed
+1898,50,Corrective Maintenance,2025-04-29,Karthik,10945.1,Completed
+1899,17,Emergency Repair,2025-02-05,Suresh,9139.57,Pending
+1900,36,Corrective Maintenance,2025-06-18,Suresh,15336.38,Completed
+1901,52,Corrective Maintenance,2025-10-07,Suresh,10228.12,Pending
+1902,45,Corrective Maintenance,2025-01-16,Karthik,6689.36,Completed
+1903,64,Preventive Maintenance,2025-04-21,Ravi,9068.93,Completed
+1904,37,Corrective Maintenance,2025-07-19,Manoj,1886.18,Completed
+1905,38,Corrective Maintenance,2025-01-06,Karthik,4423.68,Completed
+1906,40,Inspection,2025-05-14,Suresh,2936.24,Pending
+1907,5,Corrective Maintenance,2025-02-20,Arun,12238.58,Pending
+1908,26,Preventive Maintenance,2025-05-13,Karthik,7533.84,Completed
+1909,9,Preventive Maintenance,2025-01-01,Arun,17803.23,Completed
+1910,38,Emergency Repair,2025-08-17,Arun,16743.34,Completed
+1911,14,Corrective Maintenance,2025-02-02,Arun,12125.39,Completed
+1912,22,Corrective Maintenance,2025-08-16,Karthik,10609.57,Pending
+1913,7,Preventive Maintenance,2025-12-04,Arun,16573.98,Completed
+1914,43,Corrective Maintenance,2025-01-21,Suresh,8013.62,Pending
+1915,40,Emergency Repair,2025-09-04,Suresh,2158.16,Completed
+1916,8,Corrective Maintenance,2025-06-01,Manoj,4605.19,Pending
+1917,71,Corrective Maintenance,2025-09-05,Karthik,12060.63,Completed
+1918,42,Preventive Maintenance,2025-01-04,Ravi,10507.6,Pending
+1919,58,Emergency Repair,2025-03-25,Ravi,11245.25,Completed
+1920,55,Emergency Repair,2025-12-12,Arun,9564.64,Completed
+1921,33,Corrective Maintenance,2025-12-10,Manoj,12606.97,Completed
+1922,32,Preventive Maintenance,2025-02-28,Karthik,5303.75,Completed
+1923,44,Corrective Maintenance,2025-09-30,Ravi,6757.29,Completed
+1924,53,Emergency Repair,2025-08-23,Arun,10327.97,Pending
+1925,60,Preventive Maintenance,2025-01-06,Ravi,16508.1,Completed
+1926,47,Inspection,2025-03-09,Suresh,3320.63,Completed
+1927,14,Corrective Maintenance,2025-04-20,Manoj,3178.25,Completed
+1928,10,Preventive Maintenance,2025-05-26,Ravi,4103.04,Pending
+1929,13,Inspection,2025-01-19,Suresh,3008.14,Completed
+1930,10,Preventive Maintenance,2025-05-06,Ravi,18213.47,Completed
+1931,28,Corrective Maintenance,2025-10-02,Suresh,8866.34,Completed
+1932,10,Emergency Repair,2025-09-12,Ravi,3579.93,Completed
+1933,38,Emergency Repair,2025-10-21,Ravi,2218.41,Completed
+1934,39,Preventive Maintenance,2025-06-23,Suresh,4574.14,Pending
+1935,14,Inspection,2025-12-04,Suresh,9701.05,Completed
+1936,67,Inspection,2025-01-16,Ravi,744.89,Completed
+1937,11,Inspection,2025-09-01,Ravi,19617.39,Completed
+1938,61,Emergency Repair,2025-09-04,Arun,17858.47,Completed
+1939,35,Corrective Maintenance,2025-09-23,Arun,18054.02,Pending
+1940,56,Preventive Maintenance,2025-05-08,Manoj,17799.95,Completed
+1941,18,Preventive Maintenance,2025-09-27,Arun,14972.58,Pending
+1942,57,Emergency Repair,2025-02-26,Manoj,2825.56,Pending
+1943,36,Corrective Maintenance,2025-02-23,Arun,12049.55,Pending
+1944,44,Corrective Maintenance,2025-02-05,Suresh,4934.78,Pending
+1945,69,Preventive Maintenance,2025-04-23,Suresh,5234.41,Completed
+1946,27,Preventive Maintenance,2025-09-28,Manoj,7711.73,Completed
+1947,51,Preventive Maintenance,2025-06-17,Manoj,5620.23,Completed
+1948,38,Corrective Maintenance,2025-09-23,Karthik,19458.17,Pending
+1949,72,Emergency Repair,2025-01-08,Suresh,16934.27,Completed
+1950,14,Inspection,2025-04-30,Manoj,7258.57,Completed
+1951,9,Preventive Maintenance,2025-09-10,Suresh,13696.22,Completed
+1952,41,Corrective Maintenance,2025-08-10,Ravi,5303.01,Completed
+1953,48,Emergency Repair,2025-10-14,Arun,8145.97,Pending
+1954,35,Corrective Maintenance,2025-08-10,Ravi,5942.05,Completed
+1955,51,Preventive Maintenance,2025-02-23,Ravi,10276.71,Completed
+1956,30,Inspection,2025-06-14,Karthik,16658.53,Pending
+1957,24,Inspection,2025-03-21,Manoj,6208.59,Completed
+1958,25,Inspection,2025-08-02,Ravi,3675.29,Completed
+1959,39,Corrective Maintenance,2025-10-04,Ravi,16074.17,Completed
+1960,15,Inspection,2025-04-27,Suresh,11424.96,Pending
+1961,70,Preventive Maintenance,2025-10-16,Manoj,13667.09,Completed
+1962,29,Preventive Maintenance,2025-04-22,Ravi,4317.03,Pending
+1963,50,Preventive Maintenance,2025-02-20,Karthik,19824.33,Completed
+1964,59,Corrective Maintenance,2025-03-18,Suresh,19910.8,Pending
+1965,42,Inspection,2025-05-06,Karthik,16351.16,Completed
+1966,66,Emergency Repair,2025-09-21,Arun,14600.56,Completed
+1967,66,Inspection,2025-04-05,Karthik,13799.6,Completed
+1968,31,Emergency Repair,2025-06-21,Karthik,5429.47,Completed
+1969,39,Inspection,2025-07-19,Ravi,17905.18,Completed
+1970,17,Preventive Maintenance,2025-03-25,Arun,11145.1,Pending
+1971,59,Emergency Repair,2025-08-08,Karthik,16714.46,Completed
+1972,21,Inspection,2025-10-17,Ravi,5922.21,Pending
+1973,21,Preventive Maintenance,2025-10-18,Ravi,18874.51,Completed
+1974,51,Inspection,2025-08-20,Arun,6261.24,Pending
+1975,6,Corrective Maintenance,2025-06-25,Ravi,17382.11,Pending
+1976,65,Corrective Maintenance,2025-05-28,Manoj,10013.9,Completed
+1977,43,Preventive Maintenance,2025-07-02,Karthik,18343.45,Completed
+1978,24,Preventive Maintenance,2025-02-11,Suresh,17339.45,Completed
+1979,35,Preventive Maintenance,2025-02-19,Karthik,17237.08,Pending
+1980,7,Corrective Maintenance,2025-11-20,Manoj,10665.86,Completed
+1981,23,Inspection,2025-10-25,Suresh,15438.09,Completed
+1982,15,Inspection,2025-11-11,Karthik,16050.87,Completed
+1983,2,Inspection,2025-07-30,Arun,7671.74,Pending
+1984,57,Corrective Maintenance,2025-02-13,Suresh,17036.74,Completed
+1985,7,Emergency Repair,2025-08-12,Ravi,10044.94,Pending
+1986,36,Emergency Repair,2025-03-07,Ravi,11721.22,Pending
+1987,29,Inspection,2025-08-12,Suresh,15160.1,Completed
+1988,30,Preventive Maintenance,2025-12-12,Karthik,7633.79,Completed
+1989,51,Preventive Maintenance,2025-06-23,Suresh,18238.17,Completed
+1990,36,Preventive Maintenance,2025-09-19,Ravi,10023.85,Completed
+1991,25,Inspection,2025-05-08,Arun,10031.26,Completed
+1992,7,Emergency Repair,2025-03-29,Ravi,14354.82,Completed
+1993,60,Inspection,2025-05-27,Suresh,6156.76,Pending
+1994,51,Preventive Maintenance,2025-10-03,Suresh,1520.58,Completed
+1995,38,Preventive Maintenance,2025-06-11,Manoj,6591.81,Completed
+1996,58,Emergency Repair,2025-09-27,Suresh,13546.57,Pending
+1997,42,Inspection,2025-06-24,Ravi,5889.42,Completed
+1998,14,Preventive Maintenance,2025-04-04,Arun,7304.3,Completed
+1999,72,Corrective Maintenance,2025-03-12,Suresh,4454.64,Pending
+2000,30,Preventive Maintenance,2025-12-25,Manoj,8672.98,Completed
+2001,4,Corrective Maintenance,2025-01-11,Suresh,10068.72,Completed
+2002,21,Emergency Repair,2025-03-22,Karthik,11008.99,Completed
+2003,4,Corrective Maintenance,2025-09-11,Arun,16636.03,Pending
+2004,55,Corrective Maintenance,2025-08-28,Karthik,12162.84,Pending
+2005,24,Emergency Repair,2025-07-25,Arun,14170.05,Completed
+2006,14,Preventive Maintenance,2025-04-04,Arun,15824.35,Completed
+2007,17,Preventive Maintenance,2025-06-29,Karthik,4277.24,Pending
+2008,17,Emergency Repair,2025-06-05,Ravi,4520.66,Completed
+2009,39,Emergency Repair,2025-03-11,Manoj,1044.13,Pending
+2010,60,Preventive Maintenance,2025-01-14,Ravi,7164.94,Completed
+2011,64,Preventive Maintenance,2025-07-18,Manoj,5394.71,Completed
+2012,67,Corrective Maintenance,2025-09-12,Ravi,16075.79,Completed
+2013,75,Inspection,2025-12-13,Karthik,17117.34,Completed
+2014,75,Inspection,2025-02-28,Arun,18515.97,Completed
+2015,45,Corrective Maintenance,2025-12-28,Manoj,18169.36,Pending
+2016,71,Inspection,2025-04-24,Karthik,1526.49,Pending
+2017,57,Preventive Maintenance,2025-11-12,Karthik,12482.33,Completed
+2018,61,Emergency Repair,2025-05-24,Suresh,4673.58,Completed
+2019,11,Preventive Maintenance,2025-01-03,Ravi,5511.34,Completed
+2020,31,Preventive Maintenance,2025-01-19,Arun,14149.4,Completed
+2021,15,Preventive Maintenance,2025-04-07,Manoj,17834.67,Completed
+2022,43,Corrective Maintenance,2025-07-31,Karthik,12351.47,Completed
+2023,4,Emergency Repair,2025-05-21,Ravi,11496.08,Completed
+2024,47,Preventive Maintenance,2025-08-07,Suresh,9051.64,Completed
+2025,40,Preventive Maintenance,2025-10-03,Ravi,5447.15,Completed
+2026,12,Corrective Maintenance,2025-11-14,Arun,5714.1,Completed
+2027,52,Preventive Maintenance,2025-08-09,Arun,2945.49,Pending
+2028,48,Preventive Maintenance,2025-10-24,Manoj,19040.75,Completed
+2029,46,Inspection,2025-08-27,Suresh,10642.93,Completed
+2030,6,Emergency Repair,2025-05-13,Suresh,8868.81,Completed
+2031,23,Preventive Maintenance,2025-02-23,Arun,19768.82,Pending
+2032,74,Inspection,2025-05-19,Arun,12943.91,Pending
+2033,34,Inspection,2025-08-11,Arun,14715.73,Completed
+2034,35,Corrective Maintenance,2025-02-22,Arun,18280.83,Pending
+2035,52,Preventive Maintenance,2025-04-17,Karthik,17138.48,Pending
+2036,8,Inspection,2025-03-26,Manoj,6302.85,Completed
+2037,43,Corrective Maintenance,2025-08-19,Karthik,19022.92,Pending
+2038,22,Corrective Maintenance,2025-03-22,Manoj,2161.36,Completed
+2039,41,Preventive Maintenance,2025-03-29,Manoj,9089.82,Pending
+2040,47,Emergency Repair,2025-02-16,Karthik,19373.07,Completed
+2041,34,Emergency Repair,2025-11-29,Karthik,10558.94,Completed
+2042,52,Corrective Maintenance,2025-08-28,Suresh,9823.11,Pending
+2043,61,Corrective Maintenance,2025-02-25,Karthik,2277.94,Completed
+2044,56,Emergency Repair,2025-10-18,Ravi,2138.42,Completed
+2045,40,Preventive Maintenance,2025-02-05,Manoj,4554.76,Completed
+2046,31,Preventive Maintenance,2025-05-03,Karthik,14717.86,Pending
+2047,14,Emergency Repair,2025-09-06,Manoj,4259.54,Completed
+2048,22,Corrective Maintenance,2025-01-16,Karthik,18573.64,Completed
+2049,62,Emergency Repair,2025-03-10,Ravi,12110.94,Completed
+2050,3,Preventive Maintenance,2025-11-17,Ravi,13768.3,Completed
+2051,75,Emergency Repair,2025-12-12,Arun,19568.92,Completed
+2052,35,Preventive Maintenance,2025-11-16,Karthik,19771.76,Completed
+2053,45,Emergency Repair,2025-03-21,Ravi,7712.08,Pending
+2054,53,Corrective Maintenance,2025-02-16,Arun,1306.37,Pending
+2055,62,Corrective Maintenance,2025-04-03,Suresh,15552.24,Completed
+2056,67,Preventive Maintenance,2025-02-03,Suresh,18938.4,Pending
+2057,67,Preventive Maintenance,2025-07-15,Ravi,9331.37,Pending
+2058,70,Emergency Repair,2025-08-08,Suresh,8438.61,Completed
+2059,15,Inspection,2025-10-31,Arun,16465.54,Completed
+2060,12,Preventive Maintenance,2025-05-02,Manoj,12368.8,Completed
+2061,48,Preventive Maintenance,2025-10-22,Manoj,17504.23,Pending
+2062,23,Preventive Maintenance,2025-03-20,Karthik,19618.78,Completed
+2063,46,Inspection,2025-07-03,Ravi,4210.71,Completed
+2064,39,Inspection,2025-05-16,Suresh,17670.03,Completed
+2065,14,Emergency Repair,2025-11-03,Suresh,15710.99,Pending
+2066,58,Emergency Repair,2025-06-02,Suresh,12823.54,Pending
+2067,70,Corrective Maintenance,2025-12-05,Arun,8000.74,Completed
+2068,10,Emergency Repair,2025-07-25,Karthik,2602.13,Completed
+2069,11,Inspection,2025-06-28,Manoj,2540.47,Pending
+2070,38,Inspection,2025-10-31,Manoj,14981.1,Pending
+2071,67,Emergency Repair,2025-07-17,Manoj,14314.5,Pending
+2072,59,Inspection,2025-11-21,Suresh,12724.98,Pending
+2073,75,Corrective Maintenance,2025-09-29,Ravi,19630.8,Completed
+2074,50,Inspection,2025-10-27,Manoj,13486.8,Completed
+2075,45,Emergency Repair,2025-01-20,Arun,13813.31,Completed
+2076,7,Inspection,2025-11-10,Suresh,1416.71,Completed
+2077,72,Emergency Repair,2025-04-17,Karthik,17518.27,Completed
+2078,21,Preventive Maintenance,2025-07-26,Suresh,10461.13,Pending
+2079,14,Inspection,2025-12-28,Karthik,4671.92,Pending
+2080,28,Emergency Repair,2025-05-20,Ravi,5121.34,Completed
+2081,54,Preventive Maintenance,2025-11-08,Arun,16191.33,Pending
+2082,27,Emergency Repair,2025-04-13,Karthik,12985.48,Completed
+2083,8,Emergency Repair,2025-07-31,Arun,6643.73,Completed
+2084,14,Inspection,2025-06-28,Manoj,17515.71,Completed
+2085,36,Inspection,2025-12-10,Manoj,4477.76,Completed
+2086,35,Preventive Maintenance,2025-10-22,Karthik,17342.48,Completed
+2087,28,Corrective Maintenance,2025-09-14,Ravi,6887.4,Pending
+2088,56,Corrective Maintenance,2025-05-11,Karthik,911.39,Completed
+2089,72,Inspection,2025-02-27,Ravi,5294.38,Completed
+2090,43,Inspection,2025-08-24,Karthik,8284.85,Completed
+2091,10,Emergency Repair,2025-01-27,Arun,7324.83,Pending
+2092,22,Emergency Repair,2025-11-15,Arun,14435.68,Completed
+2093,8,Inspection,2025-01-06,Arun,15457.5,Completed
+2094,17,Emergency Repair,2025-12-30,Karthik,7666.8,Completed
+2095,73,Preventive Maintenance,2025-08-08,Ravi,5144.3,Completed
+2096,59,Preventive Maintenance,2025-01-02,Arun,17922.72,Pending
+2097,62,Emergency Repair,2025-05-25,Karthik,13755.85,Completed
+2098,44,Preventive Maintenance,2025-07-15,Ravi,11816.64,Completed
+2099,9,Inspection,2025-03-11,Karthik,11632.26,Pending
+2100,36,Inspection,2025-03-02,Arun,9201.92,Pending
+2101,75,Emergency Repair,2025-10-16,Karthik,4437.32,Pending
+2102,53,Corrective Maintenance,2025-01-10,Ravi,12489.05,Completed
+2103,39,Inspection,2025-04-10,Arun,13168.27,Completed
+2104,39,Emergency Repair,2025-02-06,Suresh,5940.28,Completed
+2105,25,Corrective Maintenance,2025-11-30,Arun,13809.74,Pending
+2106,58,Preventive Maintenance,2025-09-30,Ravi,17728.03,Completed
+2107,65,Emergency Repair,2025-11-23,Ravi,15293.54,Pending
+2108,4,Preventive Maintenance,2025-08-22,Manoj,1762.63,Completed
+2109,21,Inspection,2025-12-15,Karthik,12734.01,Completed
+2110,55,Emergency Repair,2025-07-06,Arun,1540.22,Completed
+2111,54,Emergency Repair,2025-08-22,Manoj,3456.65,Pending
+2112,54,Inspection,2025-11-11,Manoj,15289.31,Completed
+2113,26,Preventive Maintenance,2025-08-24,Karthik,16123.27,Completed
+2114,64,Inspection,2025-02-10,Karthik,2805.03,Pending
+2115,32,Inspection,2025-06-08,Manoj,7911.8,Completed
+2116,10,Inspection,2025-12-24,Arun,842.14,Completed
+2117,6,Emergency Repair,2025-10-06,Arun,8655.42,Pending
+2118,19,Preventive Maintenance,2025-01-20,Ravi,7685.35,Completed
+2119,38,Preventive Maintenance,2025-07-05,Suresh,3154.83,Completed
+2120,6,Corrective Maintenance,2025-03-30,Arun,15545.75,Completed
+2121,24,Preventive Maintenance,2025-01-16,Karthik,15536.1,Pending
+2122,37,Inspection,2025-10-01,Arun,5671.41,Completed
+2123,8,Preventive Maintenance,2025-01-13,Arun,651.68,Pending
+2124,40,Emergency Repair,2025-10-14,Arun,14157.99,Completed
+2125,2,Emergency Repair,2025-08-13,Manoj,3819.74,Completed
+2126,47,Corrective Maintenance,2025-01-11,Arun,16126.03,Pending
+2127,7,Corrective Maintenance,2025-09-06,Arun,7160.7,Completed
+2128,2,Emergency Repair,2025-03-07,Manoj,1681.43,Completed
+2129,42,Corrective Maintenance,2025-08-10,Suresh,17605.26,Completed
+2130,65,Emergency Repair,2025-10-03,Arun,19371.34,Completed
+2131,64,Preventive Maintenance,2025-12-29,Ravi,5616.88,Completed
+2132,15,Inspection,2025-03-04,Karthik,10454.4,Completed
+2133,9,Emergency Repair,2025-12-10,Karthik,18932.28,Completed
+2134,55,Corrective Maintenance,2025-03-04,Suresh,17786.54,Completed
+2135,30,Emergency Repair,2025-05-27,Manoj,4750.47,Pending
+2136,41,Inspection,2025-05-31,Karthik,12749.52,Pending
+2137,62,Emergency Repair,2025-12-23,Karthik,9969.54,Pending
+2138,53,Emergency Repair,2025-06-16,Ravi,15388.71,Pending
+2139,71,Corrective Maintenance,2025-11-22,Karthik,4881.71,Pending
+2140,5,Emergency Repair,2025-02-28,Manoj,6260.98,Completed
+2141,12,Preventive Maintenance,2025-08-05,Ravi,1241.39,Pending
+2142,18,Inspection,2025-01-08,Arun,4623.23,Completed
+2143,46,Inspection,2025-11-25,Manoj,6489.85,Completed
+2144,8,Preventive Maintenance,2025-04-23,Karthik,11165.17,Completed
+2145,34,Emergency Repair,2025-06-03,Suresh,10115.88,Completed
+2146,52,Emergency Repair,2025-09-06,Suresh,8899.0,Completed
+2147,36,Emergency Repair,2025-06-24,Suresh,18639.67,Completed
+2148,34,Preventive Maintenance,2025-07-28,Karthik,15258.76,Pending
+2149,58,Inspection,2025-07-24,Arun,3348.0,Completed
+2150,8,Inspection,2025-07-06,Karthik,1885.45,Completed
+2151,37,Preventive Maintenance,2025-03-12,Manoj,1872.6,Completed
+2152,47,Inspection,2025-09-14,Arun,6334.99,Completed
+2153,30,Inspection,2025-02-12,Suresh,1991.6,Pending
+2154,7,Corrective Maintenance,2025-09-07,Karthik,8287.92,Completed
+2155,71,Preventive Maintenance,2025-09-13,Suresh,14267.05,Completed
+2156,1,Corrective Maintenance,2025-03-01,Ravi,10099.44,Completed
+2157,56,Inspection,2025-05-21,Suresh,8674.44,Pending
+2158,70,Preventive Maintenance,2025-09-27,Ravi,14965.09,Completed
+2159,53,Corrective Maintenance,2025-09-27,Ravi,6686.07,Completed
+2160,61,Preventive Maintenance,2025-01-08,Karthik,3274.68,Completed
+2161,12,Emergency Repair,2025-06-20,Ravi,14312.18,Pending
+2162,8,Emergency Repair,2025-10-07,Karthik,17888.37,Completed
+2163,63,Preventive Maintenance,2025-01-13,Suresh,18906.86,Completed
+2164,49,Emergency Repair,2025-08-21,Ravi,14331.75,Completed
+2165,15,Preventive Maintenance,2025-03-02,Manoj,8451.91,Completed
+2166,32,Preventive Maintenance,2025-05-06,Karthik,2400.52,Completed
+2167,7,Preventive Maintenance,2025-03-31,Ravi,19532.55,Pending
+2168,44,Preventive Maintenance,2025-04-16,Manoj,15025.8,Completed
+2169,13,Emergency Repair,2025-02-02,Arun,1467.31,Pending
+2170,28,Emergency Repair,2025-01-12,Manoj,17072.55,Completed
+2171,70,Preventive Maintenance,2025-02-23,Ravi,4747.88,Completed
+2172,56,Preventive Maintenance,2025-12-02,Ravi,7600.22,Pending
+2173,7,Inspection,2025-02-16,Suresh,5011.64,Completed
+2174,16,Corrective Maintenance,2025-05-11,Karthik,19198.74,Completed
+2175,5,Corrective Maintenance,2025-01-31,Arun,10367.11,Completed
+2176,73,Inspection,2025-08-11,Ravi,4269.63,Pending
+2177,42,Inspection,2025-11-12,Karthik,8009.32,Completed
+2178,18,Preventive Maintenance,2025-12-25,Arun,11512.03,Pending
+2179,63,Emergency Repair,2025-07-20,Karthik,9810.18,Pending
+2180,50,Preventive Maintenance,2025-01-20,Manoj,14944.79,Completed
+2181,18,Emergency Repair,2025-10-31,Ravi,5808.42,Completed
+2182,31,Preventive Maintenance,2025-09-27,Ravi,17705.63,Completed
+2183,56,Inspection,2025-12-06,Ravi,15838.31,Completed
+2184,10,Emergency Repair,2025-04-01,Suresh,690.98,Pending
+2185,68,Preventive Maintenance,2025-07-14,Arun,9961.77,Pending
+2186,7,Inspection,2025-09-05,Ravi,591.79,Completed
+2187,30,Inspection,2025-08-14,Arun,6999.35,Completed
+2188,1,Corrective Maintenance,2025-07-03,Karthik,6922.38,Completed
+2189,39,Emergency Repair,2025-12-20,Manoj,3557.21,Completed
+2190,25,Inspection,2025-02-10,Arun,8460.73,Completed
+2191,6,Corrective Maintenance,2025-08-12,Manoj,13966.13,Completed
+2192,17,Emergency Repair,2025-08-13,Manoj,8983.14,Completed
+2193,19,Inspection,2025-04-11,Manoj,18350.67,Completed
+2194,4,Preventive Maintenance,2025-05-02,Suresh,15265.56,Completed
+2195,64,Corrective Maintenance,2025-05-06,Arun,3798.77,Completed
+2196,33,Preventive Maintenance,2025-02-01,Karthik,18664.65,Pending
+2197,70,Inspection,2025-01-04,Ravi,1033.82,Completed
+2198,3,Preventive Maintenance,2025-10-06,Manoj,12052.49,Completed
+2199,50,Corrective Maintenance,2025-04-25,Karthik,18691.77,Pending
+2200,5,Emergency Repair,2025-08-25,Manoj,5161.13,Pending
+2201,51,Emergency Repair,2025-06-30,Manoj,1158.73,Completed
+2202,3,Preventive Maintenance,2025-04-12,Ravi,5306.31,Pending
+2203,50,Emergency Repair,2025-09-18,Suresh,8206.94,Completed
+2204,8,Preventive Maintenance,2025-03-24,Ravi,7159.83,Completed
+2205,26,Emergency Repair,2025-09-22,Manoj,16382.55,Completed
+2206,26,Preventive Maintenance,2025-05-25,Arun,18133.24,Pending
+2207,51,Corrective Maintenance,2025-11-14,Karthik,8754.77,Completed
+2208,41,Preventive Maintenance,2025-10-05,Suresh,11624.0,Completed
+2209,73,Preventive Maintenance,2025-11-01,Karthik,18574.61,Pending
+2210,25,Preventive Maintenance,2025-09-18,Karthik,6992.01,Pending
+2211,33,Emergency Repair,2025-04-27,Arun,13764.14,Completed
+2212,33,Emergency Repair,2025-01-13,Manoj,18791.6,Pending
+2213,5,Corrective Maintenance,2025-07-25,Karthik,19994.63,Pending
+2214,11,Corrective Maintenance,2025-12-26,Karthik,4541.72,Completed
+2215,7,Preventive Maintenance,2025-02-08,Arun,9231.73,Completed
+2216,13,Corrective Maintenance,2025-03-08,Karthik,18046.22,Completed
+2217,58,Inspection,2025-06-08,Ravi,2010.02,Completed
+2218,16,Emergency Repair,2025-10-26,Suresh,12388.44,Completed
+2219,19,Corrective Maintenance,2025-02-23,Ravi,19910.14,Pending
+2220,66,Inspection,2025-03-26,Arun,3605.37,Completed
+2221,38,Corrective Maintenance,2025-11-14,Ravi,593.33,Completed
+2222,11,Emergency Repair,2025-02-06,Ravi,19510.32,Pending
+2223,17,Preventive Maintenance,2025-01-13,Karthik,3175.25,Completed
+2224,67,Corrective Maintenance,2025-01-27,Arun,15972.27,Pending
+2225,33,Corrective Maintenance,2025-06-16,Manoj,11695.4,Completed
+2226,54,Corrective Maintenance,2025-11-07,Karthik,6878.76,Pending
+2227,28,Emergency Repair,2025-02-22,Suresh,9017.4,Pending
+2228,7,Inspection,2025-10-06,Arun,13889.02,Pending
+2229,40,Emergency Repair,2025-06-24,Suresh,11354.99,Completed
+2230,67,Preventive Maintenance,2025-09-10,Suresh,16818.96,Completed
+2231,50,Preventive Maintenance,2025-01-04,Arun,18962.61,Pending
+2232,10,Inspection,2025-01-30,Karthik,15244.19,Pending
+2233,4,Emergency Repair,2025-06-04,Karthik,3115.01,Pending
+2234,67,Corrective Maintenance,2025-03-12,Manoj,3560.1,Pending
+2235,67,Emergency Repair,2025-09-01,Karthik,8270.94,Completed
+2236,40,Preventive Maintenance,2025-01-23,Arun,911.08,Completed
+2237,74,Emergency Repair,2025-09-16,Suresh,879.72,Completed
+2238,18,Preventive Maintenance,2025-08-20,Arun,1445.43,Completed
+2239,23,Emergency Repair,2025-08-20,Karthik,4258.58,Pending
+2240,3,Corrective Maintenance,2025-05-22,Manoj,3670.78,Completed
+2241,60,Inspection,2025-06-14,Karthik,7426.72,Completed
+2242,12,Preventive Maintenance,2025-03-02,Manoj,16339.07,Pending
+2243,48,Preventive Maintenance,2025-11-24,Arun,12099.69,Pending
+2244,16,Inspection,2025-07-06,Karthik,16460.5,Completed
+2245,75,Corrective Maintenance,2025-11-04,Karthik,2678.35,Completed
+2246,68,Inspection,2025-01-22,Arun,6439.31,Completed
+2247,44,Inspection,2025-01-02,Suresh,14519.91,Completed
+2248,48,Preventive Maintenance,2025-11-04,Suresh,13896.3,Completed
+2249,21,Inspection,2025-04-25,Suresh,7821.94,Completed
+2250,48,Preventive Maintenance,2025-12-17,Karthik,17485.49,Pending
+2251,41,Emergency Repair,2025-02-27,Ravi,18798.07,Completed
+2252,61,Corrective Maintenance,2025-09-25,Arun,15427.79,Completed
+2253,52,Inspection,2025-05-11,Karthik,3491.07,Completed
+2254,13,Inspection,2025-12-03,Arun,3869.86,Completed
+2255,66,Inspection,2025-01-28,Suresh,3422.01,Completed
+2256,27,Preventive Maintenance,2025-10-30,Suresh,18018.72,Completed
+2257,6,Preventive Maintenance,2025-10-21,Arun,10331.63,Pending
+2258,18,Emergency Repair,2025-07-07,Ravi,7925.4,Pending
+2259,17,Preventive Maintenance,2025-07-12,Suresh,3902.69,Completed
+2260,74,Preventive Maintenance,2025-06-03,Suresh,12906.48,Completed
+2261,6,Preventive Maintenance,2025-04-02,Ravi,10905.42,Completed
+2262,16,Emergency Repair,2025-12-21,Karthik,1263.99,Completed
+2263,25,Preventive Maintenance,2025-10-04,Suresh,15409.85,Completed
+2264,6,Corrective Maintenance,2025-05-18,Ravi,10317.0,Pending
+2265,37,Emergency Repair,2025-05-16,Suresh,12013.26,Completed
+2266,17,Emergency Repair,2025-05-28,Karthik,5241.58,Pending
+2267,17,Emergency Repair,2025-04-05,Manoj,18506.18,Completed
+2268,43,Inspection,2025-08-29,Suresh,13390.26,Completed
+2269,11,Inspection,2025-05-14,Ravi,8898.47,Completed
+2270,12,Emergency Repair,2025-04-27,Arun,10501.97,Pending
+2271,5,Corrective Maintenance,2025-07-04,Ravi,1595.42,Completed
+2272,74,Emergency Repair,2025-07-15,Karthik,529.45,Completed
+2273,7,Inspection,2025-01-29,Suresh,14242.68,Completed
+2274,70,Corrective Maintenance,2025-12-24,Arun,5521.39,Pending
+2275,52,Corrective Maintenance,2025-01-26,Arun,4821.85,Completed
+2276,37,Corrective Maintenance,2025-08-30,Karthik,10995.81,Completed
+2277,59,Preventive Maintenance,2025-02-02,Karthik,7664.41,Completed
+2278,66,Corrective Maintenance,2025-09-26,Manoj,12815.05,Pending
+2279,41,Emergency Repair,2025-09-27,Manoj,4806.11,Pending
+2280,68,Corrective Maintenance,2025-06-26,Suresh,10882.22,Completed
+2281,41,Emergency Repair,2025-04-22,Arun,17040.78,Completed
+2282,32,Preventive Maintenance,2025-05-03,Arun,13288.21,Pending
+2283,36,Corrective Maintenance,2025-05-25,Manoj,12561.44,Completed
+2284,44,Emergency Repair,2025-11-01,Arun,983.43,Completed
+2285,55,Inspection,2025-05-04,Ravi,13974.1,Pending
+2286,19,Inspection,2025-12-09,Suresh,11484.3,Pending
+2287,70,Corrective Maintenance,2025-10-03,Arun,2930.53,Completed
+2288,19,Inspection,2025-11-19,Manoj,3521.82,Pending
+2289,72,Inspection,2025-07-26,Arun,11482.82,Completed
+2290,6,Inspection,2025-01-02,Karthik,4047.67,Completed
+2291,61,Preventive Maintenance,2025-04-05,Manoj,7523.04,Completed
+2292,67,Inspection,2025-02-12,Suresh,16117.02,Completed
+2293,68,Inspection,2025-03-31,Arun,1340.76,Completed
+2294,38,Emergency Repair,2025-03-23,Arun,15753.96,Completed
+2295,58,Preventive Maintenance,2025-08-10,Arun,10477.77,Completed
+2296,22,Corrective Maintenance,2025-03-21,Karthik,926.15,Pending
+2297,20,Inspection,2025-02-08,Arun,17316.72,Completed
+2298,59,Corrective Maintenance,2025-07-14,Karthik,13760.48,Pending
+2299,31,Corrective Maintenance,2025-07-23,Manoj,13584.74,Pending
+2300,42,Corrective Maintenance,2025-12-16,Manoj,3030.45,Completed
+2301,62,Corrective Maintenance,2025-12-13,Ravi,2747.15,Completed
+2302,27,Corrective Maintenance,2025-09-10,Karthik,15777.12,Completed
+2303,1,Preventive Maintenance,2026-01-01,Arun,12514.28,Pending
+2304,60,Emergency Repair,2025-07-19,Ravi,17678.75,Completed
+2305,47,Inspection,2025-07-13,Ravi,13451.31,Pending
+2306,14,Preventive Maintenance,2025-10-10,Ravi,11554.96,Completed
+2307,7,Corrective Maintenance,2025-06-02,Ravi,11554.96,Completed
+2308,17,Inspection,2025-12-28,Manoj,13892.73,Completed
+2309,42,Emergency Repair,2025-10-10,Suresh,2407.55,Completed
+2310,39,Inspection,2025-06-17,Ravi,10830.17,Completed
+2311,1,Corrective Maintenance,2025-04-05,Manoj,6173.03,Pending
+2312,54,Inspection,2025-02-10,Arun,1925.87,Completed
+2313,68,Emergency Repair,2025-04-23,Ravi,19896.53,Pending
+2314,30,Preventive Maintenance,2025-08-29,Suresh,5226.68,Completed
+2315,14,Preventive Maintenance,2025-11-20,Arun,8062.11,Pending
+2316,54,Preventive Maintenance,2025-11-12,Manoj,17272.84,Pending
+2317,43,Inspection,2025-04-10,Arun,14524.38,Pending
+2318,53,Preventive Maintenance,2025-10-12,Arun,18490.48,Pending
+2319,51,Emergency Repair,2025-06-11,Suresh,14609.79,Completed
+2320,75,Corrective Maintenance,2025-11-06,Manoj,4695.99,Completed
+2321,65,Preventive Maintenance,2025-07-18,Manoj,16345.71,Completed
+2322,28,Emergency Repair,2025-02-25,Arun,7893.76,Pending
+2323,36,Emergency Repair,2025-07-11,Arun,16251.27,Completed
+2324,42,Inspection,2025-03-17,Manoj,13683.28,Completed
+2325,73,Inspection,2025-04-25,Suresh,902.17,Pending
+2326,13,Preventive Maintenance,2025-12-23,Suresh,2965.65,Pending
+2327,55,Emergency Repair,2025-04-29,Manoj,18435.29,Completed
+2328,13,Emergency Repair,2025-10-10,Suresh,16770.13,Completed
+2329,58,Inspection,2025-01-16,Karthik,10004.91,Completed
+2330,18,Emergency Repair,2025-09-20,Arun,6487.8,Completed
+2331,40,Inspection,2025-05-25,Ravi,3312.27,Completed
+2332,16,Emergency Repair,2025-01-28,Ravi,19400.86,Pending
+2333,15,Corrective Maintenance,2025-05-15,Suresh,15598.76,Completed
+2334,70,Inspection,2025-04-17,Arun,16587.38,Completed
+2335,48,Preventive Maintenance,2025-06-14,Karthik,1914.68,Completed
+2336,72,Inspection,2025-10-06,Ravi,4647.88,Pending
+2337,15,Emergency Repair,2025-04-30,Ravi,16213.23,Completed
+2338,16,Corrective Maintenance,2025-05-22,Ravi,12832.46,Pending
+2339,5,Inspection,2025-02-14,Suresh,12710.2,Completed
+2340,39,Preventive Maintenance,2025-03-31,Manoj,4770.04,Completed
+2341,30,Preventive Maintenance,2025-10-16,Manoj,11752.05,Completed
+2342,45,Preventive Maintenance,2025-05-03,Arun,17429.62,Pending
+2343,19,Corrective Maintenance,2025-04-22,Karthik,1559.5,Pending
+2344,70,Inspection,2025-06-01,Arun,6847.76,Pending
+2345,64,Inspection,2025-06-11,Ravi,10199.77,Pending
+2346,19,Emergency Repair,2025-09-16,Suresh,11837.0,Completed
+2347,55,Corrective Maintenance,2025-12-09,Arun,877.42,Completed
+2348,51,Inspection,2025-06-23,Ravi,18994.93,Completed
+2349,7,Emergency Repair,2025-11-25,Arun,2654.39,Completed
+2350,70,Emergency Repair,2025-04-10,Arun,1602.16,Completed
+2351,23,Preventive Maintenance,2025-08-03,Karthik,17859.08,Pending
+2352,57,Inspection,2025-07-13,Arun,7984.36,Completed
+2353,72,Inspection,2025-01-31,Suresh,2617.59,Pending
+2354,41,Inspection,2025-10-30,Suresh,2258.48,Completed
+2355,4,Preventive Maintenance,2025-01-07,Ravi,16146.85,Completed
+2356,47,Corrective Maintenance,2025-08-03,Arun,14848.67,Completed
+2357,18,Inspection,2025-07-14,Arun,8973.87,Completed
+2358,55,Inspection,2025-09-14,Arun,18908.0,Pending
+2359,59,Inspection,2025-09-10,Manoj,6658.71,Completed
+2360,34,Corrective Maintenance,2025-01-19,Ravi,8131.15,Completed
+2361,5,Emergency Repair,2025-01-03,Karthik,1875.45,Pending
+2362,48,Emergency Repair,2025-08-05,Arun,2106.16,Pending
+2363,61,Corrective Maintenance,2025-12-16,Karthik,16559.09,Completed
+2364,13,Emergency Repair,2025-11-29,Suresh,17655.41,Pending
+2365,53,Inspection,2025-04-03,Karthik,2020.18,Completed
+2366,35,Inspection,2025-04-30,Karthik,11094.57,Pending
+2367,27,Inspection,2025-06-23,Ravi,1528.48,Completed
+2368,19,Emergency Repair,2025-03-31,Arun,4458.04,Pending
+2369,42,Inspection,2025-02-28,Ravi,12746.2,Pending
+2370,47,Emergency Repair,2025-12-27,Suresh,6209.57,Completed
+2371,3,Corrective Maintenance,2025-04-08,Arun,16168.44,Completed
+2372,51,Emergency Repair,2025-07-04,Ravi,2180.38,Completed
+2373,63,Corrective Maintenance,2025-06-10,Suresh,2425.51,Completed
+2374,45,Corrective Maintenance,2025-06-20,Suresh,6612.03,Completed
+2375,32,Emergency Repair,2025-12-20,Arun,10038.52,Pending
+2376,51,Inspection,2025-10-12,Manoj,17700.63,Completed
+2377,15,Corrective Maintenance,2025-06-05,Ravi,3988.29,Completed
+2378,18,Emergency Repair,2025-08-06,Karthik,15834.37,Completed
+2379,9,Corrective Maintenance,2025-08-25,Suresh,5783.96,Completed
+2380,18,Preventive Maintenance,2025-05-14,Suresh,5572.07,Completed
+2381,62,Corrective Maintenance,2025-04-08,Karthik,2331.65,Completed
+2382,50,Inspection,2025-10-27,Karthik,6664.7,Completed
+2383,35,Emergency Repair,2025-09-13,Suresh,10136.6,Completed
+2384,51,Inspection,2025-11-09,Suresh,7998.04,Pending
+2385,66,Corrective Maintenance,2025-01-15,Arun,16985.86,Pending
+2386,37,Preventive Maintenance,2025-06-19,Ravi,14315.99,Completed
+2387,5,Emergency Repair,2025-10-29,Ravi,3407.5,Completed
+2388,35,Corrective Maintenance,2025-05-30,Karthik,8858.59,Pending
+2389,67,Emergency Repair,2025-03-26,Ravi,6611.39,Completed
+2390,20,Preventive Maintenance,2025-09-30,Suresh,8419.25,Completed
+2391,46,Preventive Maintenance,2025-03-17,Suresh,12534.75,Completed
+2392,48,Preventive Maintenance,2025-11-19,Arun,4980.67,Pending
+2393,23,Inspection,2025-12-08,Arun,5311.43,Completed
+2394,55,Inspection,2025-04-17,Karthik,5723.61,Completed
+2395,16,Corrective Maintenance,2025-10-02,Suresh,16509.65,Pending
+2396,70,Emergency Repair,2025-04-19,Ravi,16527.35,Completed
+2397,14,Emergency Repair,2025-05-17,Suresh,12686.66,Completed
+2398,14,Corrective Maintenance,2025-08-16,Karthik,19683.69,Completed
+2399,31,Emergency Repair,2025-04-06,Manoj,2198.06,Completed
+2400,52,Corrective Maintenance,2025-07-14,Suresh,10859.25,Completed
+2401,43,Preventive Maintenance,2025-07-01,Manoj,13664.32,Completed
+2402,3,Preventive Maintenance,2025-10-07,Karthik,19323.05,Pending
+2403,27,Preventive Maintenance,2025-01-24,Ravi,6371.42,Completed
+2404,41,Emergency Repair,2025-05-22,Ravi,10110.5,Pending
+2405,33,Inspection,2025-07-09,Karthik,6621.88,Completed
+2406,25,Corrective Maintenance,2025-12-05,Karthik,2561.02,Completed
+2407,24,Emergency Repair,2025-08-06,Karthik,10454.14,Completed
+2408,9,Emergency Repair,2025-05-03,Suresh,12685.24,Completed
+2409,8,Corrective Maintenance,2025-12-09,Manoj,1609.03,Completed
+2410,49,Emergency Repair,2025-10-04,Ravi,3978.53,Completed
+2411,36,Inspection,2025-02-10,Ravi,19634.47,Completed
+2412,27,Preventive Maintenance,2025-02-01,Manoj,10452.59,Pending
+2413,10,Inspection,2025-05-13,Ravi,5236.03,Completed
+2414,71,Corrective Maintenance,2025-12-18,Karthik,5290.41,Completed
+2415,14,Preventive Maintenance,2025-04-20,Arun,8951.31,Completed
+2416,57,Emergency Repair,2025-06-13,Manoj,3436.56,Completed
+2417,27,Preventive Maintenance,2025-11-24,Manoj,14167.04,Completed
+2418,24,Corrective Maintenance,2025-03-18,Arun,17776.37,Completed
+2419,28,Emergency Repair,2025-02-24,Manoj,19566.65,Pending
+2420,18,Corrective Maintenance,2025-03-10,Arun,2869.18,Completed
+2421,28,Inspection,2025-02-23,Arun,9755.12,Pending
+2422,42,Emergency Repair,2025-09-29,Karthik,16825.46,Pending
+2423,38,Emergency Repair,2025-05-07,Arun,7042.37,Completed
+2424,24,Inspection,2025-12-07,Arun,17581.54,Completed
+2425,69,Corrective Maintenance,2025-06-29,Karthik,15925.69,Completed
+2426,15,Preventive Maintenance,2025-05-04,Ravi,16072.77,Completed
+2427,21,Preventive Maintenance,2025-09-15,Suresh,17515.22,Completed
+2428,1,Inspection,2025-05-12,Arun,18926.44,Completed
+2429,68,Corrective Maintenance,2025-09-19,Ravi,12249.01,Pending
+2430,16,Inspection,2025-08-27,Ravi,11997.55,Pending
+2431,13,Preventive Maintenance,2025-10-08,Suresh,4099.58,Completed
+2432,29,Inspection,2025-04-12,Arun,1628.43,Pending
+2433,58,Preventive Maintenance,2025-01-23,Manoj,10266.95,Completed
+2434,10,Preventive Maintenance,2025-11-19,Ravi,9473.18,Completed
+2435,66,Inspection,2025-01-26,Arun,521.84,Completed
+2436,38,Preventive Maintenance,2025-09-12,Ravi,1849.9,Completed
+2437,4,Preventive Maintenance,2025-02-08,Manoj,19991.86,Completed
+2438,57,Preventive Maintenance,2025-01-16,Karthik,4188.01,Completed
+2439,72,Inspection,2025-12-10,Manoj,12866.1,Completed
+2440,34,Corrective Maintenance,2025-08-14,Arun,4198.0,Completed
+2441,49,Emergency Repair,2025-04-09,Suresh,18563.95,Completed
+2442,38,Emergency Repair,2025-08-04,Suresh,10055.33,Pending
+2443,12,Inspection,2025-04-08,Ravi,16827.8,Pending
+2444,4,Emergency Repair,2025-11-16,Suresh,3053.03,Completed
+2445,48,Inspection,2025-11-01,Manoj,7168.39,Completed
+2446,22,Emergency Repair,2025-01-01,Manoj,3539.26,Pending
+2447,5,Inspection,2025-10-10,Karthik,1532.04,Completed
+2448,67,Corrective Maintenance,2025-06-24,Ravi,16749.97,Completed
+2449,71,Corrective Maintenance,2025-03-18,Ravi,18114.34,Pending
+2450,4,Emergency Repair,2025-07-01,Karthik,4737.22,Completed
+2451,57,Emergency Repair,2025-05-19,Manoj,14368.5,Pending
+2452,33,Preventive Maintenance,2025-02-08,Suresh,6259.48,Completed
+2453,34,Emergency Repair,2025-06-15,Manoj,12498.33,Completed
+2454,6,Preventive Maintenance,2025-01-22,Ravi,17371.85,Completed
+2455,70,Corrective Maintenance,2025-03-04,Arun,10272.75,Completed
+2456,5,Preventive Maintenance,2025-07-28,Manoj,6698.24,Completed
+2457,17,Inspection,2025-01-02,Arun,5174.29,Completed
+2458,22,Corrective Maintenance,2025-05-29,Arun,5671.74,Completed
+2459,66,Inspection,2025-07-09,Suresh,9690.67,Completed
+2460,1,Corrective Maintenance,2025-04-13,Suresh,7300.96,Pending
+2461,32,Corrective Maintenance,2025-10-30,Ravi,14243.61,Completed
+2462,30,Preventive Maintenance,2025-04-28,Manoj,13752.8,Completed
+2463,46,Emergency Repair,2025-12-14,Ravi,8937.29,Completed
+2464,48,Emergency Repair,2025-11-11,Manoj,17497.27,Pending
+2465,50,Inspection,2025-10-07,Arun,16002.21,Pending
+2466,40,Inspection,2025-12-29,Manoj,14598.24,Pending
+2467,53,Inspection,2025-12-06,Karthik,16074.64,Completed
+2468,6,Preventive Maintenance,2025-04-27,Arun,16931.44,Pending
+2469,73,Corrective Maintenance,2025-06-17,Ravi,12763.98,Pending
+2470,42,Preventive Maintenance,2025-03-09,Arun,6732.35,Pending
+2471,64,Preventive Maintenance,2025-08-15,Arun,1250.35,Completed
+2472,45,Inspection,2025-02-12,Manoj,8527.26,Completed
+2473,27,Preventive Maintenance,2025-06-07,Karthik,10947.85,Pending
+2474,45,Emergency Repair,2025-03-24,Ravi,963.31,Pending
+2475,38,Emergency Repair,2025-12-25,Karthik,4580.72,Pending
+2476,13,Preventive Maintenance,2025-09-25,Arun,10952.76,Completed
+2477,17,Preventive Maintenance,2025-05-14,Suresh,15057.43,Pending
+2478,5,Preventive Maintenance,2025-10-07,Arun,16792.42,Pending
+2479,28,Corrective Maintenance,2025-11-13,Ravi,6498.09,Completed
+2480,53,Preventive Maintenance,2025-12-26,Karthik,12564.15,Pending
+2481,36,Corrective Maintenance,2025-03-26,Manoj,6807.84,Pending
+2482,54,Inspection,2025-01-07,Manoj,2315.14,Completed
+2483,75,Preventive Maintenance,2025-06-23,Ravi,5148.96,Completed
+2484,61,Inspection,2025-03-24,Manoj,4759.28,Pending
+2485,69,Emergency Repair,2025-02-14,Suresh,2119.77,Completed
+2486,69,Corrective Maintenance,2025-04-30,Arun,17044.39,Completed
+2487,65,Corrective Maintenance,2025-12-21,Arun,8909.71,Pending
+2488,63,Emergency Repair,2025-09-30,Arun,12425.51,Pending
+2489,7,Preventive Maintenance,2025-03-28,Manoj,10294.5,Pending
+2490,29,Emergency Repair,2025-08-26,Ravi,16307.78,Pending
+2491,61,Emergency Repair,2025-09-13,Arun,10049.71,Completed
+2492,16,Preventive Maintenance,2025-01-10,Karthik,15035.93,Completed
+2493,10,Inspection,2025-07-22,Manoj,1853.6,Pending
+2494,67,Corrective Maintenance,2025-07-19,Suresh,14957.53,Pending
+2495,30,Preventive Maintenance,2025-06-05,Ravi,19264.98,Completed
+2496,1,Preventive Maintenance,2025-01-15,Arun,11404.75,Completed
+2497,31,Preventive Maintenance,2025-06-15,Arun,11365.38,Pending
+2498,1,Emergency Repair,2025-08-17,Karthik,19200.25,Pending
+2499,69,Emergency Repair,2025-08-23,Suresh,19755.73,Pending
+2500,7,Emergency Repair,2025-11-30,Arun,19835.65,Completed
+2501,18,Emergency Repair,2025-04-09,Ravi,5546.26,Completed
+2502,73,Corrective Maintenance,2025-09-11,Ravi,8803.08,Completed
+2503,22,Corrective Maintenance,2025-03-19,Suresh,13661.0,Pending
+2504,69,Corrective Maintenance,2025-07-26,Suresh,6825.7,Pending
+2505,49,Corrective Maintenance,2025-02-11,Manoj,6825.43,Completed
+2506,60,Inspection,2025-02-18,Ravi,883.24,Completed
+2507,33,Emergency Repair,2025-01-18,Karthik,12952.4,Pending
+2508,69,Inspection,2025-08-01,Arun,12776.62,Pending
+2509,69,Corrective Maintenance,2025-05-06,Manoj,10720.46,Completed
+2510,46,Preventive Maintenance,2025-12-29,Manoj,15113.17,Completed
+2511,72,Emergency Repair,2025-12-12,Karthik,14444.75,Pending
+2512,12,Emergency Repair,2025-04-03,Karthik,2592.74,Completed
+2513,35,Preventive Maintenance,2025-12-27,Ravi,11781.29,Completed
+2514,73,Preventive Maintenance,2025-09-08,Karthik,12119.08,Pending
+2515,69,Corrective Maintenance,2025-12-14,Ravi,11426.6,Completed
+2516,39,Preventive Maintenance,2025-07-26,Karthik,9508.63,Pending
+2517,67,Corrective Maintenance,2025-07-06,Arun,15056.4,Completed
+2518,4,Preventive Maintenance,2025-10-02,Ravi,15401.68,Completed
+2519,73,Emergency Repair,2025-10-01,Suresh,1877.79,Pending
+2520,66,Emergency Repair,2025-05-16,Karthik,8207.42,Pending
+2521,1,Preventive Maintenance,2025-03-28,Suresh,8863.83,Completed
+2522,27,Corrective Maintenance,2025-08-10,Karthik,13445.5,Completed
+2523,28,Corrective Maintenance,2025-12-23,Arun,10606.21,Completed
+2524,1,Inspection,2025-11-22,Ravi,9148.41,Completed
+2525,22,Preventive Maintenance,2025-07-25,Suresh,10552.61,Completed
+2526,49,Corrective Maintenance,2025-02-23,Karthik,8273.96,Completed
+2527,67,Emergency Repair,2025-01-28,Karthik,14584.45,Completed
+2528,24,Inspection,2025-03-25,Ravi,18281.73,Pending
+2529,21,Inspection,2025-05-02,Karthik,12272.97,Completed
+2530,3,Inspection,2025-11-04,Arun,9780.41,Pending
+2531,6,Corrective Maintenance,2025-10-29,Manoj,8348.48,Completed
+2532,18,Inspection,2025-02-03,Suresh,18010.39,Completed
+2533,60,Emergency Repair,2025-09-14,Karthik,5185.42,Completed
+2534,55,Preventive Maintenance,2025-12-19,Ravi,12594.5,Completed
+2535,30,Preventive Maintenance,2025-06-29,Suresh,5207.97,Completed
+2536,49,Emergency Repair,2025-05-20,Arun,6891.75,Completed
+2537,5,Emergency Repair,2025-06-03,Suresh,5728.47,Completed
+2538,51,Corrective Maintenance,2025-08-20,Karthik,2859.86,Pending
+2539,10,Emergency Repair,2025-02-28,Suresh,17237.2,Completed
+2540,31,Corrective Maintenance,2025-02-28,Manoj,19021.7,Completed
+2541,32,Inspection,2025-10-12,Karthik,4486.2,Completed
+2542,55,Inspection,2025-01-05,Manoj,17885.21,Completed
+2543,51,Emergency Repair,2025-04-26,Karthik,5409.12,Pending
+2544,58,Preventive Maintenance,2025-08-26,Manoj,19903.63,Pending
+2545,40,Corrective Maintenance,2025-05-15,Manoj,2568.84,Completed
+2546,63,Emergency Repair,2025-10-24,Suresh,17083.35,Completed
+2547,47,Corrective Maintenance,2025-08-10,Manoj,19360.01,Completed
+2548,8,Inspection,2025-11-12,Arun,11159.12,Pending
+2549,25,Corrective Maintenance,2025-12-27,Arun,7018.6,Completed
+2550,72,Preventive Maintenance,2025-12-30,Suresh,10017.51,Completed
+2551,26,Preventive Maintenance,2025-03-01,Arun,18175.78,Completed
+2552,44,Inspection,2025-12-30,Ravi,622.72,Completed
+2553,23,Corrective Maintenance,2025-08-30,Suresh,19909.91,Completed
+2554,66,Inspection,2025-08-30,Suresh,11218.26,Completed
+2555,32,Corrective Maintenance,2025-06-14,Ravi,7780.02,Completed
+2556,16,Inspection,2025-09-13,Ravi,9843.36,Pending
+2557,44,Emergency Repair,2025-06-13,Karthik,6138.03,Completed
+2558,4,Emergency Repair,2025-11-21,Manoj,16137.44,Pending
+2559,13,Emergency Repair,2025-11-07,Suresh,2430.16,Pending
+2560,12,Preventive Maintenance,2025-04-02,Suresh,18257.15,Pending
+2561,48,Emergency Repair,2025-02-26,Ravi,10442.33,Completed
+2562,72,Emergency Repair,2025-03-19,Arun,19310.17,Pending
+2563,13,Emergency Repair,2025-08-25,Manoj,15745.75,Completed
+2564,53,Emergency Repair,2025-04-02,Ravi,3086.03,Completed
+2565,66,Corrective Maintenance,2025-06-22,Suresh,18333.85,Completed
+2566,3,Emergency Repair,2025-07-28,Ravi,12372.7,Completed
+2567,33,Preventive Maintenance,2025-08-14,Suresh,2616.59,Completed
+2568,50,Preventive Maintenance,2025-04-08,Manoj,13983.47,Pending
+2569,23,Preventive Maintenance,2025-04-28,Karthik,6334.58,Completed
+2570,43,Emergency Repair,2025-11-01,Karthik,18682.99,Completed
+2571,57,Corrective Maintenance,2025-02-14,Karthik,18954.59,Pending
+2572,71,Inspection,2025-11-29,Karthik,17011.37,Completed
+2573,75,Corrective Maintenance,2025-11-16,Karthik,13449.07,Completed
+2574,39,Emergency Repair,2025-05-19,Karthik,7690.71,Completed
+2575,6,Inspection,2025-10-12,Karthik,6029.48,Pending
+2576,29,Inspection,2025-05-12,Suresh,14476.8,Completed
+2577,34,Inspection,2025-03-30,Manoj,655.5,Pending
+2578,30,Corrective Maintenance,2025-05-31,Suresh,11836.57,Completed
+2579,66,Corrective Maintenance,2025-06-25,Suresh,10668.98,Pending
+2580,13,Preventive Maintenance,2025-06-04,Suresh,572.64,Completed
+2581,32,Emergency Repair,2025-08-13,Arun,11375.72,Completed
+2582,34,Corrective Maintenance,2025-02-02,Manoj,4740.86,Pending
+2583,59,Inspection,2025-06-24,Arun,15058.36,Pending
+2584,59,Emergency Repair,2025-07-30,Arun,2730.9,Pending
+2585,33,Preventive Maintenance,2025-09-15,Ravi,18415.53,Pending
+2586,29,Corrective Maintenance,2025-10-18,Suresh,6518.99,Pending
+2587,31,Preventive Maintenance,2025-11-13,Suresh,977.55,Completed
+2588,18,Preventive Maintenance,2025-02-23,Ravi,2192.78,Pending
+2589,64,Emergency Repair,2025-02-28,Manoj,16499.93,Completed
+2590,67,Preventive Maintenance,2025-01-20,Manoj,11207.85,Completed
+2591,21,Emergency Repair,2025-04-14,Arun,8158.98,Completed
+2592,75,Inspection,2025-04-14,Ravi,18745.81,Completed
+2593,28,Emergency Repair,2025-10-05,Suresh,10974.04,Completed
+2594,49,Preventive Maintenance,2025-12-06,Suresh,9894.02,Pending
+2595,30,Corrective Maintenance,2025-04-21,Manoj,15820.97,Completed
+2596,22,Inspection,2025-11-26,Karthik,6821.69,Completed
+2597,28,Preventive Maintenance,2025-09-11,Arun,16604.75,Pending
+2598,61,Emergency Repair,2025-04-30,Suresh,5861.0,Completed
+2599,27,Preventive Maintenance,2025-02-03,Suresh,10916.09,Completed
+2600,23,Preventive Maintenance,2025-02-06,Ravi,9228.03,Completed
+2601,73,Inspection,2025-12-06,Arun,15360.35,Completed
+2602,40,Inspection,2025-03-15,Ravi,14221.67,Completed
+2603,72,Inspection,2025-03-04,Suresh,4665.53,Completed
+2604,60,Inspection,2025-02-26,Ravi,16133.83,Pending
+2605,24,Corrective Maintenance,2025-08-15,Arun,3782.97,Completed
+2606,66,Inspection,2025-02-07,Suresh,7218.54,Completed
+2607,36,Inspection,2025-03-15,Karthik,19916.58,Pending
+2608,71,Inspection,2025-11-06,Arun,17056.24,Pending
+2609,22,Corrective Maintenance,2025-05-20,Manoj,17706.36,Pending
+2610,36,Inspection,2025-07-01,Arun,13678.26,Completed
+2611,56,Preventive Maintenance,2025-12-13,Karthik,6931.17,Completed
+2612,75,Corrective Maintenance,2025-07-16,Suresh,2518.01,Completed
+2613,12,Inspection,2025-04-09,Karthik,14514.68,Pending
+2614,24,Corrective Maintenance,2025-11-20,Suresh,12201.02,Completed
+2615,44,Corrective Maintenance,2025-05-20,Karthik,19476.59,Pending
+2616,52,Corrective Maintenance,2025-06-25,Karthik,7616.53,Completed
+2617,18,Emergency Repair,2025-02-18,Ravi,1558.67,Completed
+2618,5,Inspection,2025-12-23,Suresh,8493.05,Completed
+2619,32,Corrective Maintenance,2025-09-29,Karthik,18804.13,Completed
+2620,19,Corrective Maintenance,2025-12-02,Manoj,19863.39,Completed
+2621,28,Inspection,2025-05-13,Suresh,10315.26,Completed
+2622,59,Corrective Maintenance,2025-10-22,Arun,1312.28,Pending
+2623,68,Preventive Maintenance,2025-10-13,Suresh,7935.08,Completed
+2624,24,Inspection,2025-09-27,Arun,19008.65,Completed
+2625,23,Corrective Maintenance,2025-08-06,Suresh,11091.62,Completed
+2626,10,Corrective Maintenance,2025-08-19,Manoj,12095.32,Pending
+2627,69,Corrective Maintenance,2025-10-16,Ravi,6247.33,Pending
+2628,17,Emergency Repair,2025-03-01,Suresh,5825.46,Completed
+2629,59,Inspection,2025-01-01,Arun,7916.83,Pending
+2630,54,Corrective Maintenance,2025-01-02,Manoj,788.55,Pending
+2631,66,Emergency Repair,2025-08-02,Karthik,16732.13,Completed
+2632,44,Corrective Maintenance,2025-03-05,Arun,7110.16,Pending
+2633,72,Corrective Maintenance,2025-05-11,Ravi,18115.61,Completed
+2634,39,Emergency Repair,2025-11-02,Suresh,15263.86,Completed
+2635,16,Emergency Repair,2025-12-24,Karthik,15547.2,Pending
+2636,7,Inspection,2025-01-05,Manoj,17030.21,Pending
+2637,17,Emergency Repair,2025-05-02,Karthik,17374.99,Pending
+2638,53,Inspection,2025-04-21,Ravi,10135.46,Pending
+2639,62,Corrective Maintenance,2025-02-08,Suresh,12185.87,Completed
+2640,70,Preventive Maintenance,2025-01-23,Arun,5420.04,Completed
+2641,12,Preventive Maintenance,2025-09-19,Ravi,4754.17,Completed
+2642,67,Preventive Maintenance,2025-02-12,Manoj,18922.61,Completed
+2643,36,Corrective Maintenance,2025-01-24,Suresh,17258.58,Completed
+2644,58,Preventive Maintenance,2025-02-06,Manoj,17709.42,Pending
+2645,74,Emergency Repair,2025-08-05,Karthik,9195.43,Pending
+2646,69,Corrective Maintenance,2025-09-26,Suresh,8112.29,Completed
+2647,21,Corrective Maintenance,2025-08-15,Suresh,16534.07,Completed
+2648,35,Corrective Maintenance,2025-08-05,Suresh,17236.78,Completed
+2649,15,Preventive Maintenance,2025-08-24,Suresh,18074.82,Completed
+2650,24,Corrective Maintenance,2025-02-27,Suresh,16140.88,Completed
+2651,46,Corrective Maintenance,2025-05-22,Manoj,5211.42,Pending
+2652,39,Corrective Maintenance,2025-07-08,Arun,7068.35,Pending
+2653,67,Corrective Maintenance,2025-08-09,Suresh,17580.5,Completed
+2654,65,Corrective Maintenance,2025-08-29,Karthik,19309.53,Completed
+2655,1,Emergency Repair,2025-02-09,Manoj,18575.5,Completed
+2656,39,Emergency Repair,2025-11-09,Ravi,6792.03,Pending
+2657,72,Inspection,2025-01-30,Manoj,9174.12,Completed
+2658,14,Preventive Maintenance,2025-07-21,Suresh,1710.96,Pending
+2659,43,Emergency Repair,2025-09-08,Ravi,16583.41,Pending
+2660,57,Emergency Repair,2025-05-23,Arun,18124.55,Completed
+2661,9,Corrective Maintenance,2025-05-10,Ravi,6461.9,Completed
+2662,51,Preventive Maintenance,2025-07-24,Ravi,15982.18,Completed
+2663,23,Inspection,2025-08-20,Manoj,4746.2,Completed
+2664,1,Corrective Maintenance,2025-11-13,Suresh,7713.05,Completed
+2665,9,Preventive Maintenance,2025-12-12,Karthik,8213.17,Completed
+2666,2,Corrective Maintenance,2025-03-27,Karthik,7315.7,Pending
+2667,51,Emergency Repair,2025-06-04,Suresh,2571.13,Pending
+2668,8,Inspection,2025-03-20,Arun,12792.54,Pending
+2669,44,Inspection,2025-10-21,Karthik,19587.95,Completed
+2670,67,Inspection,2025-06-11,Ravi,9531.75,Completed
+2671,2,Emergency Repair,2025-09-14,Manoj,1065.4,Pending
+2672,59,Inspection,2025-06-28,Arun,2637.21,Pending
+2673,37,Inspection,2025-06-22,Suresh,15792.59,Pending
+2674,27,Corrective Maintenance,2025-08-31,Manoj,9062.4,Completed
+2675,20,Corrective Maintenance,2025-09-23,Suresh,15750.91,Completed
+2676,24,Corrective Maintenance,2025-06-06,Arun,18115.21,Pending
+2677,74,Corrective Maintenance,2025-01-29,Ravi,16222.43,Completed
+2678,61,Preventive Maintenance,2025-09-12,Arun,4166.63,Completed
+2679,40,Emergency Repair,2025-12-30,Karthik,10555.79,Completed
+2680,7,Inspection,2025-10-23,Karthik,3208.6,Pending
+2681,73,Emergency Repair,2025-06-17,Ravi,3883.52,Completed
+2682,69,Emergency Repair,2025-09-05,Manoj,1977.79,Completed
+2683,73,Emergency Repair,2025-06-26,Suresh,8548.95,Pending
+2684,25,Emergency Repair,2025-05-22,Karthik,19753.3,Completed
+2685,40,Inspection,2025-06-20,Suresh,7910.21,Completed
+2686,13,Preventive Maintenance,2025-07-25,Arun,18862.41,Completed
+2687,15,Inspection,2025-02-07,Manoj,11421.39,Completed
+2688,69,Corrective Maintenance,2025-04-09,Suresh,6788.45,Pending
+2689,26,Emergency Repair,2025-07-16,Ravi,12428.15,Pending
+2690,45,Preventive Maintenance,2025-09-27,Suresh,13365.84,Pending
+2691,50,Emergency Repair,2025-08-22,Manoj,6575.16,Pending
+2692,25,Emergency Repair,2025-09-05,Arun,19691.86,Completed
+2693,66,Preventive Maintenance,2025-09-24,Arun,2945.73,Completed
+2694,72,Preventive Maintenance,2025-01-16,Ravi,14975.49,Completed
+2695,41,Preventive Maintenance,2025-11-28,Ravi,8835.65,Completed
+2696,48,Preventive Maintenance,2025-03-23,Karthik,6989.05,Pending
+2697,34,Preventive Maintenance,2025-01-13,Manoj,10739.42,Completed
+2698,34,Corrective Maintenance,2025-07-07,Suresh,516.12,Pending
+2699,62,Corrective Maintenance,2025-12-12,Ravi,8139.08,Pending
+2700,72,Preventive Maintenance,2025-03-05,Suresh,10884.15,Completed
+2701,38,Inspection,2025-03-20,Suresh,6419.19,Completed
+2702,18,Corrective Maintenance,2025-01-29,Suresh,8957.61,Completed
+2703,35,Emergency Repair,2025-07-16,Suresh,1904.42,Completed
+2704,5,Inspection,2025-03-17,Ravi,8502.88,Completed
+2705,27,Corrective Maintenance,2025-06-26,Suresh,669.21,Completed
+2706,14,Emergency Repair,2025-01-27,Suresh,19175.25,Completed
+2707,42,Corrective Maintenance,2025-10-26,Ravi,11529.99,Pending
+2708,3,Preventive Maintenance,2025-11-13,Manoj,810.05,Completed
+2709,49,Emergency Repair,2025-09-19,Manoj,14901.24,Completed
+2710,64,Inspection,2025-10-24,Manoj,3916.59,Completed
+2711,17,Preventive Maintenance,2025-04-02,Karthik,2306.11,Completed
+2712,50,Corrective Maintenance,2025-04-12,Ravi,879.33,Completed
+2713,74,Corrective Maintenance,2025-05-16,Manoj,3833.31,Completed
+2714,38,Preventive Maintenance,2025-10-08,Ravi,5041.3,Completed
+2715,24,Emergency Repair,2025-06-11,Arun,14697.81,Completed
+2716,54,Inspection,2025-09-04,Ravi,10256.1,Completed
+2717,53,Emergency Repair,2025-05-06,Suresh,9930.38,Completed
+2718,32,Preventive Maintenance,2025-05-03,Suresh,5281.21,Completed
+2719,56,Preventive Maintenance,2025-07-16,Karthik,9603.02,Completed
+2720,65,Preventive Maintenance,2025-05-14,Suresh,13230.55,Pending
+2721,31,Preventive Maintenance,2025-11-19,Suresh,4309.75,Pending
+2722,33,Preventive Maintenance,2025-07-30,Ravi,4560.08,Completed
+2723,10,Preventive Maintenance,2025-11-25,Ravi,8185.93,Pending
+2724,48,Preventive Maintenance,2025-05-08,Karthik,13573.16,Pending
+2725,65,Inspection,2025-02-14,Arun,4640.44,Completed
+2726,13,Emergency Repair,2025-11-01,Karthik,3628.21,Completed
+2727,54,Inspection,2025-03-10,Arun,7610.05,Pending
+2728,20,Emergency Repair,2025-10-04,Arun,1040.85,Completed
+2729,69,Corrective Maintenance,2025-11-10,Ravi,5729.89,Completed
+2730,13,Corrective Maintenance,2025-02-09,Ravi,8161.55,Completed
+2731,27,Inspection,2025-12-23,Karthik,16865.08,Completed
+2732,73,Inspection,2025-05-16,Arun,4937.59,Pending
+2733,45,Preventive Maintenance,2025-02-23,Karthik,15526.01,Completed
+2734,3,Corrective Maintenance,2025-02-24,Ravi,10660.62,Pending
+2735,75,Inspection,2025-10-09,Suresh,14661.92,Completed
+2736,14,Inspection,2025-03-23,Karthik,14203.0,Pending
+2737,7,Corrective Maintenance,2025-12-30,Arun,10146.96,Pending
+2738,10,Emergency Repair,2025-02-12,Arun,12940.22,Completed
+2739,29,Inspection,2025-01-15,Suresh,8624.0,Completed
+2740,59,Inspection,2025-07-28,Karthik,4292.64,Completed
+2741,17,Corrective Maintenance,2025-04-07,Karthik,16044.77,Completed
+2742,63,Emergency Repair,2025-02-11,Ravi,5528.73,Completed
+2743,63,Inspection,2025-11-25,Suresh,15314.4,Completed
+2744,27,Corrective Maintenance,2025-08-07,Ravi,12177.32,Pending
+2745,58,Preventive Maintenance,2025-07-31,Suresh,13070.03,Completed
+2746,47,Preventive Maintenance,2025-07-26,Suresh,9590.02,Completed
+2747,61,Emergency Repair,2025-03-20,Suresh,18398.34,Pending
+2748,49,Emergency Repair,2025-02-09,Karthik,3200.85,Completed
+2749,26,Inspection,2025-02-10,Ravi,6203.66,Pending
+2750,50,Emergency Repair,2025-01-23,Ravi,8867.59,Completed
+2751,70,Emergency Repair,2025-08-15,Karthik,3870.2,Pending
+2752,35,Emergency Repair,2025-10-06,Suresh,17548.35,Completed
+2753,21,Corrective Maintenance,2025-05-12,Karthik,15690.98,Completed
+2754,58,Emergency Repair,2025-06-03,Suresh,17783.47,Pending
+2755,72,Inspection,2025-04-15,Karthik,4463.16,Pending
+2756,53,Corrective Maintenance,2025-07-15,Arun,3568.19,Completed
+2757,72,Emergency Repair,2025-04-03,Suresh,15806.87,Pending
+2758,40,Emergency Repair,2025-07-27,Manoj,6632.04,Completed
+2759,31,Preventive Maintenance,2025-06-17,Ravi,7118.6,Completed
+2760,56,Inspection,2025-06-30,Arun,6841.23,Pending
+2761,11,Inspection,2025-07-06,Manoj,3869.48,Completed
+2762,1,Preventive Maintenance,2025-11-27,Manoj,2902.33,Completed
+2763,6,Inspection,2025-05-30,Suresh,12251.19,Completed
+2764,18,Inspection,2025-08-24,Karthik,6037.57,Completed
+2765,47,Inspection,2025-10-12,Suresh,17480.96,Completed
+2766,33,Preventive Maintenance,2025-11-24,Ravi,15392.61,Pending
+2767,44,Preventive Maintenance,2025-06-03,Karthik,5841.23,Completed
+2768,57,Inspection,2025-05-30,Karthik,5081.58,Pending
+2769,22,Emergency Repair,2025-04-19,Ravi,19441.3,Pending
+2770,5,Inspection,2025-05-11,Karthik,14936.44,Completed
+2771,30,Corrective Maintenance,2025-11-28,Karthik,10948.74,Pending
+2772,15,Emergency Repair,2025-10-04,Suresh,14073.16,Completed
+2773,42,Corrective Maintenance,2025-09-28,Manoj,12128.44,Pending
+2774,51,Corrective Maintenance,2025-11-29,Suresh,16582.87,Completed
+2775,53,Corrective Maintenance,2025-11-05,Suresh,11171.43,Pending
+2776,14,Preventive Maintenance,2025-05-17,Karthik,12966.02,Completed
+2777,75,Preventive Maintenance,2025-10-09,Manoj,8728.04,Completed
+2778,56,Inspection,2025-06-07,Suresh,14792.15,Completed
+2779,21,Inspection,2025-11-08,Ravi,600.39,Completed
+2780,65,Emergency Repair,2025-09-29,Arun,1559.32,Completed
+2781,64,Preventive Maintenance,2025-05-22,Manoj,6552.28,Pending
+2782,10,Preventive Maintenance,2025-11-23,Karthik,3462.04,Completed
+2783,19,Inspection,2025-08-31,Ravi,5694.19,Pending
+2784,37,Corrective Maintenance,2025-06-20,Suresh,12579.24,Completed
+2785,61,Preventive Maintenance,2025-09-07,Arun,11888.66,Pending
+2786,67,Preventive Maintenance,2025-07-18,Arun,3649.68,Completed
+2787,56,Inspection,2025-04-19,Karthik,13659.12,Completed
+2788,14,Emergency Repair,2025-10-11,Ravi,16433.5,Pending
+2789,58,Emergency Repair,2025-08-02,Karthik,9397.83,Completed
+2790,51,Inspection,2025-10-22,Karthik,3336.15,Pending
+2791,67,Corrective Maintenance,2025-04-30,Arun,19119.05,Completed
+2792,41,Emergency Repair,2025-12-25,Manoj,5297.27,Completed
+2793,66,Corrective Maintenance,2025-05-24,Arun,18179.24,Completed
+2794,20,Emergency Repair,2025-02-28,Ravi,19627.55,Completed
+2795,20,Emergency Repair,2025-02-20,Arun,14880.79,Completed
+2796,13,Corrective Maintenance,2025-11-17,Arun,6547.44,Pending
+2797,7,Preventive Maintenance,2025-03-22,Karthik,16194.82,Completed
+2798,13,Emergency Repair,2025-03-18,Manoj,4463.32,Completed
+2799,39,Inspection,2025-05-24,Suresh,2337.32,Completed
+2800,20,Inspection,2025-05-14,Suresh,14597.36,Pending
+2801,31,Corrective Maintenance,2025-03-24,Arun,502.77,Completed
+2802,68,Preventive Maintenance,2025-05-17,Karthik,3613.53,Pending
+2803,9,Corrective Maintenance,2025-05-20,Karthik,8825.43,Completed
+2804,72,Corrective Maintenance,2025-08-25,Karthik,2912.33,Pending
+2805,54,Preventive Maintenance,2025-07-16,Ravi,19562.41,Pending
+2806,7,Emergency Repair,2025-04-12,Manoj,1587.29,Pending
+2807,19,Emergency Repair,2025-05-31,Arun,14475.8,Completed
+2808,39,Inspection,2025-10-01,Ravi,6781.65,Pending
+2809,46,Corrective Maintenance,2025-03-16,Suresh,8958.36,Pending
+2810,33,Preventive Maintenance,2025-01-02,Arun,2843.16,Completed
+2811,59,Corrective Maintenance,2025-07-20,Manoj,7504.49,Completed
+2812,36,Inspection,2025-03-21,Manoj,4147.99,Completed
+2813,33,Emergency Repair,2025-04-13,Karthik,14423.35,Completed
+2814,59,Inspection,2025-09-24,Ravi,9977.6,Completed
+2815,39,Emergency Repair,2025-10-23,Manoj,14227.45,Completed
+2816,17,Corrective Maintenance,2025-05-12,Arun,8564.08,Pending
+2817,2,Preventive Maintenance,2025-09-10,Karthik,19677.88,Pending
+2818,62,Emergency Repair,2025-09-23,Manoj,4581.46,Completed
+2819,67,Inspection,2025-05-20,Ravi,2300.95,Pending
+2820,44,Inspection,2025-08-28,Arun,11893.55,Completed
+2821,23,Inspection,2025-12-21,Manoj,7873.64,Completed
+2822,11,Emergency Repair,2025-03-09,Suresh,9511.36,Completed
+2823,13,Emergency Repair,2025-05-25,Arun,15276.17,Completed
+2824,28,Inspection,2025-08-07,Ravi,7684.33,Completed
+2825,17,Corrective Maintenance,2025-12-10,Karthik,11844.54,Completed
+2826,45,Emergency Repair,2025-07-16,Suresh,8664.29,Pending
+2827,27,Corrective Maintenance,2025-05-21,Ravi,9743.0,Completed
+2828,57,Corrective Maintenance,2025-04-19,Ravi,12829.01,Pending
+2829,19,Preventive Maintenance,2025-02-02,Karthik,15740.15,Completed
+2830,59,Inspection,2025-04-06,Manoj,14422.97,Completed
+2831,46,Emergency Repair,2025-03-27,Manoj,16319.6,Completed
+2832,41,Inspection,2025-04-28,Arun,10739.28,Completed
+2833,20,Corrective Maintenance,2025-11-06,Suresh,19359.73,Completed
+2834,7,Corrective Maintenance,2025-04-22,Arun,846.75,Pending
+2835,54,Corrective Maintenance,2025-09-21,Manoj,18239.38,Pending
+2836,26,Corrective Maintenance,2025-07-31,Suresh,10842.07,Completed
+2837,41,Emergency Repair,2025-10-17,Karthik,11100.44,Completed
+2838,12,Preventive Maintenance,2025-02-09,Karthik,7838.35,Pending
+2839,66,Emergency Repair,2025-07-23,Karthik,9746.29,Completed
+2840,47,Corrective Maintenance,2025-11-06,Karthik,4372.74,Completed
+2841,8,Inspection,2025-01-31,Suresh,7408.58,Completed
+2842,56,Inspection,2025-07-16,Karthik,3266.09,Completed
+2843,50,Preventive Maintenance,2025-07-20,Ravi,19005.45,Pending
+2844,37,Emergency Repair,2025-04-10,Karthik,17426.76,Pending
+2845,25,Emergency Repair,2025-05-30,Ravi,4736.44,Completed
+2846,49,Preventive Maintenance,2025-08-13,Karthik,10322.67,Completed
+2847,73,Corrective Maintenance,2025-10-13,Suresh,18781.39,Pending
+2848,44,Corrective Maintenance,2025-04-06,Karthik,12663.37,Pending
+2849,61,Preventive Maintenance,2025-03-18,Karthik,15266.09,Pending
+2850,6,Emergency Repair,2025-07-04,Manoj,18657.13,Pending
+2851,11,Corrective Maintenance,2025-03-09,Ravi,13814.26,Pending
+2852,12,Preventive Maintenance,2025-11-21,Karthik,11938.81,Completed
+2853,23,Emergency Repair,2025-04-08,Suresh,19030.15,Completed
+2854,57,Corrective Maintenance,2025-11-29,Arun,19120.62,Pending
+2855,11,Corrective Maintenance,2025-09-18,Ravi,8914.89,Pending
+2856,5,Preventive Maintenance,2025-10-16,Suresh,18924.05,Completed
+2857,8,Corrective Maintenance,2025-02-17,Ravi,18095.99,Completed
+2858,50,Corrective Maintenance,2025-06-03,Karthik,12458.36,Completed
+2859,73,Emergency Repair,2025-08-01,Suresh,10539.17,Completed
+2860,28,Inspection,2025-03-01,Manoj,15063.4,Completed
+2861,52,Corrective Maintenance,2025-04-23,Arun,15465.74,Completed
+2862,56,Corrective Maintenance,2025-03-31,Suresh,4622.96,Pending
+2863,59,Corrective Maintenance,2025-12-08,Karthik,4530.98,Completed
+2864,45,Preventive Maintenance,2025-05-23,Ravi,15162.28,Pending
+2865,57,Emergency Repair,2025-04-03,Manoj,18032.0,Pending
+2866,33,Emergency Repair,2025-10-20,Suresh,1142.37,Completed
+2867,30,Inspection,2025-04-25,Manoj,16285.8,Completed
+2868,57,Emergency Repair,2025-09-06,Karthik,14940.65,Pending
+2869,61,Preventive Maintenance,2025-09-04,Ravi,11485.43,Completed
+2870,15,Preventive Maintenance,2025-01-26,Manoj,1259.0,Completed
+2871,69,Corrective Maintenance,2025-06-05,Manoj,6766.78,Completed
+2872,11,Preventive Maintenance,2025-02-04,Arun,15518.43,Pending
+2873,16,Preventive Maintenance,2025-01-02,Suresh,777.43,Completed
+2874,10,Corrective Maintenance,2025-12-04,Manoj,12024.08,Completed
+2875,35,Emergency Repair,2025-06-17,Ravi,4027.3,Completed
+2876,63,Emergency Repair,2025-04-27,Suresh,8208.12,Pending
+2877,72,Preventive Maintenance,2025-09-21,Ravi,10897.26,Completed
+2878,9,Corrective Maintenance,2025-04-22,Suresh,2476.84,Completed
+2879,62,Corrective Maintenance,2025-04-23,Karthik,5577.37,Completed
+2880,39,Inspection,2025-02-01,Ravi,4216.0,Completed
+2881,15,Corrective Maintenance,2025-09-18,Arun,8857.65,Completed
+2882,75,Corrective Maintenance,2025-11-12,Suresh,13522.41,Pending
+2883,16,Emergency Repair,2025-03-28,Karthik,16892.26,Completed
+2884,50,Emergency Repair,2025-03-22,Karthik,2377.53,Completed
+2885,47,Emergency Repair,2025-06-12,Suresh,17365.02,Pending
+2886,2,Corrective Maintenance,2025-03-15,Arun,5243.94,Completed
+2887,54,Inspection,2025-11-05,Suresh,2035.09,Completed
+2888,38,Inspection,2025-01-23,Ravi,17013.83,Completed
+2889,51,Inspection,2025-12-24,Suresh,4222.78,Completed
+2890,64,Inspection,2025-04-18,Manoj,18124.68,Pending
+2891,2,Preventive Maintenance,2025-05-22,Karthik,505.4,Pending
+2892,41,Emergency Repair,2025-11-18,Manoj,13517.76,Completed
+2893,68,Corrective Maintenance,2025-10-26,Manoj,14776.92,Completed
+2894,5,Preventive Maintenance,2025-12-07,Ravi,904.68,Completed
+2895,2,Preventive Maintenance,2025-10-22,Arun,8151.2,Completed
+2896,65,Corrective Maintenance,2025-02-28,Karthik,15484.95,Completed
+2897,34,Corrective Maintenance,2025-05-24,Karthik,7825.39,Completed
+2898,65,Preventive Maintenance,2025-07-09,Suresh,15686.99,Completed
+2899,14,Corrective Maintenance,2025-03-04,Ravi,9346.83,Completed
+2900,72,Corrective Maintenance,2025-03-17,Manoj,19048.97,Completed
+2901,66,Emergency Repair,2025-05-24,Manoj,16117.43,Pending
+2902,68,Preventive Maintenance,2025-09-13,Arun,2152.53,Completed
+2903,28,Inspection,2025-10-21,Ravi,4831.88,Pending
+2904,1,Inspection,2025-11-20,Karthik,5678.39,Completed
+2905,24,Inspection,2025-12-09,Ravi,18621.6,Pending
+2906,20,Emergency Repair,2025-07-09,Karthik,2989.36,Completed
+2907,44,Corrective Maintenance,2025-03-09,Suresh,3044.5,Pending
+2908,46,Preventive Maintenance,2025-09-25,Ravi,17907.94,Completed
+2909,4,Corrective Maintenance,2025-06-30,Ravi,9530.71,Completed
+2910,8,Emergency Repair,2025-08-03,Arun,7655.94,Completed
+2911,51,Preventive Maintenance,2025-03-12,Manoj,6333.26,Completed
+2912,4,Emergency Repair,2025-10-26,Suresh,4104.74,Completed
+2913,68,Preventive Maintenance,2025-07-31,Ravi,13830.66,Pending
+2914,44,Emergency Repair,2025-09-25,Suresh,860.31,Completed
+2915,60,Inspection,2025-08-13,Arun,18314.75,Completed
+2916,54,Corrective Maintenance,2025-04-20,Arun,19517.13,Completed
+2917,15,Preventive Maintenance,2025-05-04,Suresh,4534.04,Pending
+2918,5,Emergency Repair,2025-04-20,Arun,19826.47,Pending
+2919,37,Preventive Maintenance,2025-11-08,Karthik,2752.42,Completed
+2920,35,Emergency Repair,2025-07-23,Arun,5354.31,Completed
+2921,5,Inspection,2025-09-02,Karthik,15095.14,Completed
+2922,47,Corrective Maintenance,2025-06-19,Manoj,8459.94,Completed
+2923,41,Corrective Maintenance,2025-10-26,Arun,11337.29,Completed
+2924,62,Emergency Repair,2025-11-20,Manoj,16338.43,Completed
+2925,54,Inspection,2025-03-04,Karthik,2812.08,Completed
+2926,37,Preventive Maintenance,2025-07-04,Ravi,4321.47,Completed
+2927,16,Emergency Repair,2025-11-08,Ravi,12436.21,Completed
+2928,19,Corrective Maintenance,2025-08-31,Arun,3640.93,Completed
+2929,56,Inspection,2025-05-09,Manoj,4517.02,Completed
+2930,32,Inspection,2025-03-14,Arun,19543.64,Completed
+2931,13,Preventive Maintenance,2025-01-24,Arun,12901.94,Pending
+2932,21,Preventive Maintenance,2025-10-19,Suresh,578.94,Pending
+2933,3,Emergency Repair,2025-08-18,Karthik,13612.82,Pending
+2934,16,Preventive Maintenance,2025-06-17,Suresh,18345.75,Completed
+2935,50,Emergency Repair,2025-11-12,Karthik,18195.59,Pending
+2936,72,Corrective Maintenance,2025-08-12,Manoj,11424.54,Completed
+2937,3,Preventive Maintenance,2025-06-25,Arun,19844.63,Completed
+2938,21,Emergency Repair,2025-10-14,Arun,17086.07,Pending
+2939,49,Emergency Repair,2025-11-11,Suresh,7968.58,Completed
+2940,2,Preventive Maintenance,2025-05-20,Manoj,5190.54,Pending
+2941,51,Emergency Repair,2025-03-02,Karthik,1643.27,Completed
+2942,61,Corrective Maintenance,2025-08-27,Arun,10993.77,Completed
+2943,23,Emergency Repair,2025-07-01,Ravi,16786.97,Completed
+2944,66,Inspection,2025-04-17,Arun,5604.76,Pending
+2945,46,Corrective Maintenance,2025-12-04,Suresh,5139.85,Completed
+2946,4,Preventive Maintenance,2025-06-04,Karthik,2844.15,Pending
+2947,53,Inspection,2025-10-29,Suresh,4207.56,Pending
+2948,60,Corrective Maintenance,2025-02-28,Manoj,1840.93,Completed
+2949,35,Inspection,2025-06-03,Manoj,18740.17,Pending
+2950,13,Corrective Maintenance,2025-09-06,Manoj,5712.51,Completed
+2951,61,Preventive Maintenance,2025-11-07,Manoj,12234.86,Pending
+2952,74,Emergency Repair,2025-12-21,Suresh,9344.8,Pending
+2953,10,Emergency Repair,2025-10-21,Manoj,19544.96,Completed
+2954,29,Preventive Maintenance,2025-10-12,Karthik,16932.4,Pending
+2955,5,Emergency Repair,2025-01-03,Ravi,19867.52,Completed
+2956,65,Inspection,2025-09-16,Manoj,1156.62,Pending
+2957,19,Inspection,2025-05-04,Karthik,18609.03,Completed
+2958,5,Inspection,2025-08-13,Karthik,4427.58,Pending
+2959,31,Corrective Maintenance,2025-04-08,Arun,6623.71,Completed
+2960,75,Emergency Repair,2025-12-22,Manoj,4526.55,Completed
+2961,38,Preventive Maintenance,2025-12-14,Manoj,10744.45,Completed
+2962,48,Corrective Maintenance,2025-07-31,Ravi,4059.81,Completed
+2963,6,Preventive Maintenance,2025-12-09,Ravi,9012.22,Completed
+2964,26,Corrective Maintenance,2025-03-01,Ravi,10556.91,Completed
+2965,30,Emergency Repair,2025-01-13,Karthik,6303.91,Pending
+2966,54,Preventive Maintenance,2025-01-26,Manoj,2485.87,Pending
+2967,52,Preventive Maintenance,2025-01-22,Suresh,10517.46,Pending
+2968,2,Emergency Repair,2025-09-09,Karthik,19062.54,Pending
+2969,59,Corrective Maintenance,2025-05-07,Ravi,7419.03,Completed
+2970,46,Emergency Repair,2025-08-11,Manoj,1281.59,Pending
+2971,2,Emergency Repair,2025-06-26,Karthik,4670.5,Pending
+2972,48,Emergency Repair,2025-06-07,Ravi,742.16,Completed
+2973,39,Inspection,2025-10-24,Karthik,3101.0,Completed
+2974,17,Inspection,2025-06-21,Ravi,7368.82,Completed
+2975,74,Emergency Repair,2025-03-09,Arun,15906.67,Completed
+2976,47,Preventive Maintenance,2025-05-11,Karthik,18638.66,Pending
+2977,45,Preventive Maintenance,2025-11-20,Karthik,19675.07,Completed
+2978,2,Inspection,2025-12-29,Ravi,1115.38,Pending
+2979,23,Preventive Maintenance,2025-12-14,Arun,1996.87,Pending
+2980,47,Emergency Repair,2025-08-28,Suresh,5908.12,Pending
+2981,36,Emergency Repair,2025-05-30,Suresh,16367.35,Completed
+2982,2,Emergency Repair,2025-12-10,Suresh,14998.14,Completed
+2983,70,Inspection,2025-10-20,Manoj,9085.14,Pending
+2984,55,Inspection,2025-03-22,Arun,19306.22,Completed
+2985,56,Emergency Repair,2025-10-09,Karthik,17797.83,Pending
+2986,22,Preventive Maintenance,2025-04-30,Arun,16249.23,Completed
+2987,14,Inspection,2025-09-26,Karthik,1539.37,Pending
+2988,20,Corrective Maintenance,2025-10-23,Karthik,18460.39,Completed
+2989,55,Corrective Maintenance,2025-06-22,Ravi,12295.12,Completed
+2990,71,Corrective Maintenance,2025-11-14,Ravi,5085.12,Pending
+2991,59,Preventive Maintenance,2025-02-14,Arun,3062.85,Completed
+2992,42,Corrective Maintenance,2025-11-01,Karthik,7351.75,Pending
+2993,56,Emergency Repair,2025-03-02,Karthik,10642.33,Pending
+2994,63,Emergency Repair,2025-04-29,Manoj,2708.75,Completed
+2995,59,Emergency Repair,2025-09-15,Karthik,17708.93,Completed
+2996,40,Corrective Maintenance,2025-03-13,Manoj,13004.03,Completed
+2997,43,Emergency Repair,2025-03-17,Suresh,14883.48,Completed
+2998,17,Preventive Maintenance,2025-11-30,Karthik,2559.8,Completed
+2999,74,Inspection,2025-01-24,Karthik,8942.71,Completed
+3000,12,Emergency Repair,2025-05-25,Manoj,19595.45,Completed

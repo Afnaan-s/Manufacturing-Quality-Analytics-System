@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price,production_type,status
+1,Power Circuit Board 1,Industrial,11950.87,Custom Production,Active
+2,Transmission Shaft 2,Industrial,12663.13,Mass Production,Active
+3,Control Panel 3,Automotive,41654.04,Mass Production,Active
+4,Sensor Module 4,Industrial,31929.72,Custom Production,Active
+5,Sensor Module 5,Industrial,10401.05,Mass Production,Active
+6,Power Circuit Board 6,Automotive,48728.39,Mass Production,Active
+7,Control Panel 7,Automotive,37599.06,Mass Production,Active
+8,Industrial Motor 8,Industrial,18995.17,Mass Production,Active
+9,Power Circuit Board 9,Industrial,32398.79,Mass Production,Active
+10,Hydraulic Valve 10,Industrial,44293.64,Custom Production,Active
+11,Power Circuit Board 11,Industrial,48839.95,Custom Production,Active
+12,Control Panel 12,Automotive,37412.43,Custom Production,Active
+13,Sensor Module 13,Automotive,9536.79,Custom Production,Active
+14,Control Panel 14,Industrial,38911.31,Custom Production,Active
+15,Control Panel 15,Electronics,9466.73,Custom Production,Active
+16,Sensor Module 16,Automotive,14469.8,Custom Production,Active
+17,Automotive Gear 17,Automotive,47995.04,Custom Production,Active
+18,Transmission Shaft 18,Automotive,25110.37,Custom Production,Active
+19,Engine Component 19,Automotive,9424.48,Custom Production,Active
+20,Brake Assembly 20,Automotive,590.93,Custom Production,Active
+21,Hydraulic Valve 21,Industrial,39661.7,Mass Production,Active
+22,Brake Assembly 22,Industrial,14083.42,Custom Production,Active
+23,Hydraulic Valve 23,Electronics,29881.5,Mass Production,Active
+24,Sensor Module 24,Electronics,11520.54,Mass Production,Active
+25,Transmission Shaft 25,Electronics,578.93,Custom Production,Active
+26,Power Circuit Board 26,Automotive,40825.71,Custom Production,Active
+27,Engine Component 27,Automotive,37292.47,Custom Production,Active
+28,Industrial Motor 28,Electronics,23288.72,Mass Production,Active
+29,Industrial Motor 29,Automotive,31825.7,Mass Production,Active
+30,Control Panel 30,Electronics,11890.33,Mass Production,Active
+31,Industrial Motor 31,Industrial,30365.83,Custom Production,Active
+32,Automotive Gear 32,Industrial,8518.34,Mass Production,Active
+33,Sensor Module 33,Electronics,22136.57,Mass Production,Active
+34,Automotive Gear 34,Automotive,11783.98,Mass Production,Active
+35,Power Circuit Board 35,Electronics,46694.94,Mass Production,Active
+36,Industrial Motor 36,Automotive,17869.86,Custom Production,Active
+37,Transmission Shaft 37,Automotive,2705.24,Mass Production,Active
+38,Hydraulic Valve 38,Electronics,1953.5,Mass Production,Active
+39,Electronic Control Unit 39,Automotive,23188.83,Custom Production,Active
+40,Brake Assembly 40,Electronics,40473.18,Mass Production,Active

@@ -1,0 +1,4001 @@
+downtime_id,machine_id,downtime_date,downtime_minutes,reason,resolved
+1,69,2025-07-03,220,Machine Failure,Yes
+2,20,2025-03-23,129,Machine Failure,Yes
+3,28,2025-04-09,92,Maintenance,No
+4,54,2025-05-05,411,Material Shortage,Yes
+5,31,2025-05-22,413,Machine Failure,No
+6,12,2025-04-05,259,Material Shortage,Yes
+7,68,2025-05-14,419,Material Shortage,Yes
+8,73,2025-12-13,237,Maintenance,Yes
+9,66,2025-04-26,26,Machine Failure,No
+10,12,2025-01-07,420,Operator Issue,Yes
+11,16,2025-02-12,412,Material Shortage,No
+12,64,2025-01-16,386,Maintenance,No
+13,4,2025-05-19,18,Machine Failure,Yes
+14,24,2025-09-14,431,Material Shortage,Yes
+15,18,2025-12-06,444,Maintenance,Yes
+16,56,2025-04-26,471,Material Shortage,Yes
+17,70,2025-06-02,475,Material Shortage,No
+18,68,2025-02-03,241,Operator Issue,No
+19,16,2025-12-08,447,Maintenance,Yes
+20,53,2025-11-03,152,Material Shortage,No
+21,57,2025-06-05,314,Maintenance,Yes
+22,37,2025-06-19,255,Maintenance,No
+23,4,2025-05-02,443,Maintenance,Yes
+24,68,2025-04-25,383,Machine Failure,Yes
+25,37,2025-08-12,44,Operator Issue,Yes
+26,16,2025-07-31,350,Material Shortage,No
+27,48,2025-05-03,380,Machine Failure,Yes
+28,8,2025-09-16,329,Material Shortage,No
+29,52,2025-07-29,149,Operator Issue,Yes
+30,33,2025-07-12,427,Power Failure,No
+31,32,2025-04-07,196,Operator Issue,Yes
+32,7,2025-10-31,382,Material Shortage,Yes
+33,68,2025-03-28,241,Power Failure,Yes
+34,30,2025-03-30,434,Maintenance,Yes
+35,1,2025-07-17,388,Operator Issue,Yes
+36,1,2025-04-06,229,Material Shortage,No
+37,13,2025-11-19,304,Operator Issue,No
+38,16,2025-10-14,198,Machine Failure,Yes
+39,29,2025-10-25,214,Power Failure,Yes
+40,65,2025-03-18,306,Machine Failure,Yes
+41,52,2025-10-13,336,Maintenance,Yes
+42,30,2025-12-06,476,Material Shortage,Yes
+43,47,2025-11-06,462,Machine Failure,No
+44,57,2025-04-09,237,Power Failure,No
+45,58,2025-11-14,268,Maintenance,Yes
+46,61,2025-06-14,187,Maintenance,Yes
+47,37,2025-05-28,287,Maintenance,Yes
+48,71,2025-06-13,299,Material Shortage,No
+49,26,2025-03-14,207,Operator Issue,Yes
+50,24,2025-09-29,22,Power Failure,Yes
+51,3,2025-10-18,138,Material Shortage,No
+52,9,2025-07-12,166,Operator Issue,Yes
+53,44,2025-06-04,218,Operator Issue,No
+54,72,2025-05-12,389,Maintenance,Yes
+55,30,2025-11-21,315,Power Failure,Yes
+56,23,2025-11-30,146,Maintenance,Yes
+57,66,2025-11-30,116,Maintenance,Yes
+58,10,2025-08-08,154,Operator Issue,Yes
+59,32,2025-11-17,289,Material Shortage,No
+60,65,2025-04-17,296,Machine Failure,No
+61,31,2025-12-18,475,Maintenance,No
+62,14,2025-09-24,164,Operator Issue,No
+63,26,2025-09-19,81,Power Failure,No
+64,65,2025-02-21,56,Machine Failure,Yes
+65,72,2025-10-03,356,Power Failure,Yes
+66,26,2025-01-19,56,Machine Failure,Yes
+67,66,2025-11-15,160,Material Shortage,Yes
+68,40,2025-08-04,408,Operator Issue,No
+69,69,2025-04-30,342,Maintenance,No
+70,44,2025-01-06,89,Machine Failure,Yes
+71,19,2025-06-11,18,Maintenance,Yes
+72,18,2025-09-22,10,Power Failure,Yes
+73,59,2025-05-05,74,Material Shortage,Yes
+74,72,2025-02-05,114,Maintenance,Yes
+75,67,2025-09-20,88,Operator Issue,No
+76,9,2025-07-06,17,Maintenance,Yes
+77,33,2025-10-23,266,Machine Failure,Yes
+78,38,2025-09-05,217,Power Failure,Yes
+79,26,2025-02-06,231,Maintenance,Yes
+80,15,2025-07-11,31,Maintenance,Yes
+81,26,2025-11-27,352,Maintenance,No
+82,20,2025-06-16,372,Maintenance,Yes
+83,24,2025-01-21,201,Maintenance,No
+84,39,2025-12-09,320,Power Failure,Yes
+85,64,2025-03-20,270,Machine Failure,Yes
+86,40,2025-09-15,100,Power Failure,Yes
+87,41,2025-06-11,37,Maintenance,Yes
+88,14,2025-11-09,60,Maintenance,Yes
+89,4,2025-03-24,235,Operator Issue,Yes
+90,43,2025-06-18,350,Operator Issue,Yes
+91,75,2025-12-15,333,Operator Issue,Yes
+92,2,2025-05-01,123,Operator Issue,Yes
+93,14,2025-02-15,52,Power Failure,Yes
+94,60,2025-10-01,433,Machine Failure,Yes
+95,68,2025-03-26,396,Material Shortage,Yes
+96,23,2025-04-25,201,Maintenance,Yes
+97,61,2025-11-21,222,Material Shortage,Yes
+98,29,2025-06-13,178,Material Shortage,No
+99,18,2025-04-26,200,Maintenance,Yes
+100,41,2025-09-09,188,Maintenance,Yes
+101,3,2025-07-08,418,Material Shortage,Yes
+102,50,2025-08-13,135,Power Failure,Yes
+103,42,2025-10-12,96,Power Failure,No
+104,45,2025-03-17,206,Maintenance,No
+105,7,2025-02-23,464,Operator Issue,Yes
+106,46,2025-06-10,96,Operator Issue,No
+107,72,2025-10-20,318,Operator Issue,Yes
+108,5,2025-06-09,297,Machine Failure,Yes
+109,48,2025-12-06,249,Maintenance,No
+110,8,2025-09-13,394,Power Failure,Yes
+111,40,2025-03-25,344,Operator Issue,Yes
+112,62,2025-06-09,146,Power Failure,No
+113,10,2025-08-23,207,Maintenance,Yes
+114,1,2025-04-30,180,Maintenance,No
+115,73,2025-05-02,352,Maintenance,Yes
+116,34,2025-11-28,441,Material Shortage,Yes
+117,51,2025-08-28,471,Power Failure,No
+118,58,2025-03-18,475,Material Shortage,Yes
+119,16,2025-06-01,276,Machine Failure,Yes
+120,46,2025-08-12,176,Power Failure,No
+121,33,2025-12-06,118,Machine Failure,No
+122,19,2025-05-20,242,Operator Issue,No
+123,1,2025-08-26,106,Operator Issue,Yes
+124,1,2025-09-28,222,Machine Failure,No
+125,70,2025-04-16,355,Operator Issue,Yes
+126,23,2025-09-26,59,Machine Failure,No
+127,1,2025-02-17,221,Material Shortage,No
+128,25,2025-06-06,419,Operator Issue,Yes
+129,16,2025-04-08,88,Power Failure,Yes
+130,34,2025-11-14,108,Maintenance,No
+131,47,2025-11-13,416,Material Shortage,Yes
+132,33,2025-10-05,51,Maintenance,Yes
+133,1,2025-10-22,314,Machine Failure,No
+134,1,2025-06-02,372,Operator Issue,Yes
+135,7,2025-12-11,331,Power Failure,Yes
+136,38,2025-07-21,258,Power Failure,Yes
+137,73,2025-12-27,177,Operator Issue,Yes
+138,71,2025-03-06,74,Material Shortage,Yes
+139,31,2025-09-11,171,Machine Failure,Yes
+140,20,2025-01-01,18,Operator Issue,Yes
+141,16,2025-06-08,13,Material Shortage,Yes
+142,63,2025-05-16,186,Machine Failure,No
+143,36,2025-10-02,122,Material Shortage,Yes
+144,31,2025-10-06,371,Power Failure,Yes
+145,46,2025-06-05,27,Machine Failure,Yes
+146,33,2025-08-18,423,Material Shortage,Yes
+147,6,2025-12-19,326,Maintenance,Yes
+148,60,2025-02-28,317,Material Shortage,Yes
+149,72,2025-03-09,140,Operator Issue,No
+150,6,2025-12-15,243,Operator Issue,Yes
+151,72,2025-08-23,157,Material Shortage,Yes
+152,73,2025-01-15,386,Maintenance,Yes
+153,69,2025-08-20,209,Machine Failure,Yes
+154,46,2025-09-21,129,Machine Failure,Yes
+155,10,2025-03-28,423,Machine Failure,No
+156,48,2025-07-17,89,Machine Failure,Yes
+157,40,2025-12-05,205,Material Shortage,Yes
+158,68,2025-08-16,137,Power Failure,Yes
+159,10,2025-12-10,298,Power Failure,Yes
+160,51,2025-08-05,411,Power Failure,No
+161,70,2025-06-06,374,Power Failure,Yes
+162,10,2025-01-21,348,Operator Issue,Yes
+163,19,2025-03-13,234,Operator Issue,Yes
+164,73,2025-07-25,370,Material Shortage,No
+165,6,2025-12-21,20,Material Shortage,Yes
+166,39,2025-04-07,437,Maintenance,No
+167,28,2025-12-03,126,Material Shortage,Yes
+168,75,2025-10-27,383,Material Shortage,No
+169,36,2025-12-05,202,Operator Issue,No
+170,58,2025-12-03,231,Machine Failure,Yes
+171,67,2025-09-09,364,Maintenance,Yes
+172,37,2025-04-20,122,Power Failure,Yes
+173,49,2025-05-03,297,Maintenance,No
+174,74,2025-01-11,419,Operator Issue,Yes
+175,25,2025-07-11,357,Machine Failure,Yes
+176,44,2025-11-02,471,Maintenance,Yes
+177,74,2025-01-20,409,Machine Failure,No
+178,38,2025-05-27,293,Power Failure,No
+179,27,2025-01-03,282,Machine Failure,No
+180,59,2025-09-15,420,Material Shortage,No
+181,17,2025-12-21,151,Operator Issue,Yes
+182,64,2025-09-15,114,Power Failure,Yes
+183,3,2025-05-07,303,Machine Failure,No
+184,39,2025-06-05,335,Power Failure,Yes
+185,31,2025-10-28,305,Maintenance,Yes
+186,61,2025-07-06,292,Machine Failure,No
+187,34,2025-03-06,353,Operator Issue,No
+188,42,2025-02-06,234,Maintenance,No
+189,53,2025-02-19,101,Operator Issue,Yes
+190,28,2025-03-22,428,Power Failure,No
+191,3,2025-05-13,212,Power Failure,No
+192,26,2025-09-29,431,Maintenance,Yes
+193,64,2025-11-10,394,Operator Issue,Yes
+194,22,2025-09-15,97,Operator Issue,Yes
+195,48,2025-08-19,467,Maintenance,Yes
+196,11,2025-10-27,351,Power Failure,Yes
+197,67,2025-02-17,105,Machine Failure,Yes
+198,2,2025-08-15,438,Material Shortage,Yes
+199,40,2025-01-21,205,Maintenance,Yes
+200,24,2025-04-09,179,Machine Failure,Yes
+201,75,2025-08-18,457,Maintenance,Yes
+202,55,2025-10-15,322,Operator Issue,Yes
+203,52,2025-06-22,358,Power Failure,Yes
+204,40,2025-10-28,385,Maintenance,Yes
+205,75,2025-05-30,81,Machine Failure,Yes
+206,1,2025-03-06,211,Operator Issue,No
+207,14,2025-10-06,38,Operator Issue,Yes
+208,41,2025-06-11,68,Machine Failure,No
+209,27,2025-02-09,90,Maintenance,No
+210,25,2025-08-26,402,Maintenance,Yes
+211,52,2025-05-14,454,Machine Failure,Yes
+212,26,2025-11-05,464,Power Failure,Yes
+213,9,2025-07-05,133,Material Shortage,Yes
+214,55,2025-01-28,30,Operator Issue,No
+215,18,2025-01-14,150,Power Failure,Yes
+216,66,2025-12-13,355,Maintenance,Yes
+217,67,2025-10-14,403,Machine Failure,No
+218,69,2025-12-03,145,Operator Issue,Yes
+219,52,2025-07-30,182,Operator Issue,Yes
+220,3,2025-03-31,268,Operator Issue,No
+221,26,2025-09-28,387,Operator Issue,No
+222,25,2025-03-24,355,Material Shortage,Yes
+223,43,2025-09-13,65,Maintenance,No
+224,51,2025-07-24,384,Material Shortage,Yes
+225,57,2025-06-07,101,Machine Failure,No
+226,18,2025-07-02,103,Power Failure,Yes
+227,51,2025-01-16,207,Material Shortage,Yes
+228,69,2025-12-21,130,Maintenance,Yes
+229,7,2025-09-16,350,Machine Failure,Yes
+230,40,2025-08-01,11,Operator Issue,Yes
+231,37,2025-08-27,112,Power Failure,Yes
+232,33,2025-12-29,96,Maintenance,Yes
+233,73,2025-05-31,263,Machine Failure,No
+234,67,2025-12-13,102,Material Shortage,Yes
+235,60,2025-03-01,408,Material Shortage,Yes
+236,33,2025-01-15,94,Material Shortage,No
+237,38,2025-01-07,123,Maintenance,Yes
+238,4,2025-05-24,479,Operator Issue,No
+239,29,2025-11-11,344,Material Shortage,Yes
+240,29,2025-02-22,391,Maintenance,No
+241,44,2025-06-20,140,Maintenance,Yes
+242,55,2025-01-05,94,Machine Failure,Yes
+243,14,2025-08-23,64,Material Shortage,Yes
+244,24,2025-02-22,105,Maintenance,Yes
+245,38,2025-08-03,273,Power Failure,No
+246,2,2025-03-16,469,Maintenance,Yes
+247,41,2025-07-03,118,Power Failure,Yes
+248,5,2025-09-12,229,Maintenance,Yes
+249,22,2025-08-11,406,Material Shortage,No
+250,9,2025-08-22,456,Machine Failure,Yes
+251,19,2025-01-30,464,Operator Issue,Yes
+252,52,2025-04-16,35,Material Shortage,Yes
+253,19,2025-07-29,448,Operator Issue,Yes
+254,60,2025-03-09,91,Material Shortage,Yes
+255,68,2025-11-22,396,Material Shortage,Yes
+256,33,2025-03-28,269,Power Failure,Yes
+257,25,2025-04-09,204,Material Shortage,No
+258,68,2025-02-21,384,Material Shortage,Yes
+259,25,2025-07-26,108,Maintenance,No
+260,17,2025-06-16,287,Material Shortage,Yes
+261,4,2025-02-06,329,Maintenance,No
+262,66,2025-11-01,278,Material Shortage,No
+263,31,2025-06-08,217,Machine Failure,No
+264,29,2025-06-21,201,Machine Failure,Yes
+265,11,2025-12-07,208,Power Failure,No
+266,55,2025-09-20,219,Operator Issue,No
+267,45,2025-12-05,151,Power Failure,Yes
+268,36,2025-11-18,157,Machine Failure,Yes
+269,36,2025-09-07,38,Power Failure,Yes
+270,75,2025-04-22,377,Material Shortage,No
+271,17,2025-08-27,28,Material Shortage,Yes
+272,12,2025-06-04,155,Maintenance,No
+273,73,2025-11-08,232,Operator Issue,No
+274,57,2025-05-21,172,Maintenance,Yes
+275,48,2025-12-01,14,Maintenance,No
+276,46,2025-12-02,407,Machine Failure,Yes
+277,68,2025-04-04,130,Maintenance,Yes
+278,62,2025-03-01,332,Material Shortage,Yes
+279,45,2025-04-10,13,Maintenance,No
+280,26,2025-01-30,425,Power Failure,No
+281,5,2025-11-21,97,Machine Failure,No
+282,27,2025-04-03,328,Operator Issue,No
+283,64,2025-10-04,333,Maintenance,Yes
+284,48,2025-09-12,408,Material Shortage,No
+285,9,2025-06-30,443,Power Failure,Yes
+286,15,2025-01-27,185,Operator Issue,Yes
+287,13,2025-06-23,116,Power Failure,Yes
+288,66,2025-01-05,268,Material Shortage,Yes
+289,27,2025-11-21,134,Maintenance,No
+290,9,2025-08-12,317,Operator Issue,Yes
+291,60,2025-05-30,175,Power Failure,No
+292,66,2025-01-02,404,Operator Issue,No
+293,54,2025-11-06,241,Machine Failure,No
+294,49,2025-01-31,358,Material Shortage,Yes
+295,17,2025-04-11,305,Material Shortage,Yes
+296,45,2025-10-24,257,Machine Failure,Yes
+297,1,2025-08-30,68,Operator Issue,Yes
+298,7,2025-04-16,241,Material Shortage,No
+299,16,2025-04-11,14,Maintenance,Yes
+300,24,2025-05-10,289,Operator Issue,Yes
+301,51,2025-12-08,295,Operator Issue,No
+302,16,2025-03-11,464,Material Shortage,No
+303,29,2025-12-20,214,Machine Failure,No
+304,63,2025-06-22,164,Operator Issue,No
+305,36,2025-09-12,400,Operator Issue,Yes
+306,1,2025-02-11,298,Power Failure,Yes
+307,51,2025-01-30,200,Material Shortage,No
+308,71,2025-08-22,354,Material Shortage,Yes
+309,4,2025-05-21,358,Material Shortage,Yes
+310,67,2025-02-08,72,Maintenance,Yes
+311,27,2025-11-25,338,Machine Failure,Yes
+312,42,2025-11-12,280,Machine Failure,Yes
+313,8,2025-05-11,401,Maintenance,No
+314,38,2025-10-28,302,Power Failure,Yes
+315,42,2025-02-02,392,Power Failure,Yes
+316,11,2025-07-07,359,Operator Issue,Yes
+317,27,2025-01-11,47,Material Shortage,Yes
+318,21,2025-06-04,243,Power Failure,No
+319,59,2025-12-06,218,Machine Failure,Yes
+320,68,2025-04-07,479,Maintenance,Yes
+321,40,2025-10-20,462,Material Shortage,No
+322,29,2025-11-28,18,Machine Failure,Yes
+323,16,2025-07-02,241,Maintenance,Yes
+324,14,2025-07-18,94,Operator Issue,Yes
+325,25,2025-10-19,160,Operator Issue,No
+326,32,2025-04-02,120,Maintenance,No
+327,48,2025-12-18,406,Maintenance,Yes
+328,27,2025-11-16,338,Operator Issue,No
+329,42,2025-06-03,329,Maintenance,No
+330,51,2025-07-26,186,Material Shortage,Yes
+331,28,2025-10-03,417,Machine Failure,No
+332,38,2025-10-15,372,Operator Issue,Yes
+333,24,2025-05-25,410,Machine Failure,No
+334,54,2025-03-03,316,Material Shortage,Yes
+335,20,2025-06-28,222,Maintenance,Yes
+336,7,2025-06-21,233,Machine Failure,Yes
+337,2,2025-08-31,104,Operator Issue,No
+338,55,2025-04-10,188,Maintenance,No
+339,68,2025-02-18,297,Operator Issue,Yes
+340,53,2025-10-15,165,Maintenance,No
+341,10,2025-06-01,394,Power Failure,Yes
+342,67,2025-02-24,140,Operator Issue,Yes
+343,59,2025-11-10,56,Maintenance,Yes
+344,55,2025-11-22,117,Power Failure,Yes
+345,22,2025-01-04,124,Machine Failure,Yes
+346,47,2025-02-04,307,Material Shortage,No
+347,60,2025-06-06,466,Maintenance,Yes
+348,74,2025-01-23,14,Operator Issue,Yes
+349,71,2025-03-31,72,Power Failure,Yes
+350,64,2025-09-20,295,Operator Issue,Yes
+351,51,2025-10-27,210,Power Failure,Yes
+352,70,2025-08-02,346,Material Shortage,Yes
+353,68,2025-12-31,276,Power Failure,No
+354,56,2025-03-07,339,Maintenance,No
+355,25,2025-09-01,250,Material Shortage,Yes
+356,19,2025-10-26,41,Machine Failure,No
+357,16,2025-03-23,259,Operator Issue,Yes
+358,29,2025-02-21,228,Operator Issue,Yes
+359,35,2025-09-06,443,Operator Issue,No
+360,1,2025-04-26,116,Machine Failure,Yes
+361,42,2025-04-11,426,Operator Issue,No
+362,27,2025-10-19,189,Maintenance,Yes
+363,31,2025-06-11,275,Material Shortage,Yes
+364,43,2025-09-18,335,Material Shortage,No
+365,18,2025-06-25,135,Machine Failure,Yes
+366,35,2025-03-06,337,Operator Issue,No
+367,7,2025-06-24,88,Maintenance,Yes
+368,2,2025-05-28,90,Machine Failure,No
+369,69,2025-06-03,152,Machine Failure,Yes
+370,47,2025-02-06,128,Machine Failure,Yes
+371,43,2025-10-21,360,Power Failure,Yes
+372,7,2025-08-30,153,Operator Issue,No
+373,51,2025-03-14,223,Power Failure,Yes
+374,31,2025-04-17,65,Maintenance,No
+375,45,2025-06-08,184,Material Shortage,Yes
+376,22,2025-07-27,338,Maintenance,No
+377,30,2025-11-09,165,Power Failure,Yes
+378,34,2025-10-02,379,Power Failure,No
+379,23,2025-11-30,241,Machine Failure,Yes
+380,44,2025-11-16,469,Material Shortage,No
+381,47,2025-10-25,366,Machine Failure,Yes
+382,8,2025-06-30,100,Material Shortage,No
+383,12,2025-03-24,205,Power Failure,Yes
+384,4,2025-01-28,106,Power Failure,Yes
+385,61,2025-07-01,444,Material Shortage,No
+386,26,2025-05-13,246,Maintenance,No
+387,9,2025-08-17,18,Maintenance,No
+388,28,2025-09-28,388,Power Failure,Yes
+389,49,2025-06-07,206,Maintenance,No
+390,19,2025-10-18,393,Operator Issue,No
+391,11,2025-05-08,93,Power Failure,No
+392,16,2025-07-25,476,Machine Failure,Yes
+393,47,2025-05-05,103,Machine Failure,Yes
+394,67,2025-07-26,222,Power Failure,Yes
+395,67,2025-10-27,128,Machine Failure,Yes
+396,23,2025-09-01,365,Machine Failure,No
+397,20,2025-08-26,448,Operator Issue,No
+398,59,2025-11-24,124,Operator Issue,No
+399,53,2025-10-27,225,Material Shortage,Yes
+400,38,2025-01-16,42,Maintenance,Yes
+401,62,2025-11-14,364,Operator Issue,No
+402,19,2025-09-23,415,Machine Failure,Yes
+403,70,2025-01-21,480,Machine Failure,Yes
+404,28,2025-03-28,396,Maintenance,No
+405,57,2025-02-02,251,Maintenance,Yes
+406,6,2025-12-07,274,Operator Issue,Yes
+407,35,2025-06-26,86,Material Shortage,Yes
+408,64,2025-05-27,325,Operator Issue,Yes
+409,6,2025-03-24,410,Operator Issue,Yes
+410,49,2025-06-18,238,Power Failure,Yes
+411,19,2025-01-04,395,Machine Failure,Yes
+412,67,2025-01-19,144,Material Shortage,Yes
+413,16,2025-08-13,154,Maintenance,Yes
+414,67,2025-12-05,107,Power Failure,Yes
+415,37,2025-05-31,222,Material Shortage,Yes
+416,32,2025-11-30,297,Operator Issue,Yes
+417,44,2025-08-27,250,Maintenance,No
+418,60,2025-02-06,158,Material Shortage,Yes
+419,2,2025-05-16,215,Maintenance,Yes
+420,30,2025-10-11,348,Maintenance,No
+421,35,2025-04-20,258,Material Shortage,Yes
+422,47,2025-08-17,295,Machine Failure,Yes
+423,60,2025-07-29,444,Machine Failure,Yes
+424,25,2025-04-17,27,Maintenance,Yes
+425,66,2025-11-08,221,Power Failure,Yes
+426,34,2025-05-10,413,Maintenance,No
+427,41,2025-08-12,237,Material Shortage,Yes
+428,30,2025-02-23,346,Maintenance,No
+429,58,2025-04-04,292,Maintenance,Yes
+430,14,2025-02-01,179,Maintenance,No
+431,63,2025-06-12,24,Machine Failure,Yes
+432,24,2025-05-14,470,Maintenance,Yes
+433,73,2025-07-27,78,Machine Failure,Yes
+434,18,2025-06-06,245,Machine Failure,Yes
+435,55,2025-10-21,129,Power Failure,Yes
+436,16,2025-06-02,266,Operator Issue,Yes
+437,66,2025-12-14,51,Maintenance,Yes
+438,64,2025-07-13,223,Power Failure,No
+439,37,2025-06-24,392,Machine Failure,Yes
+440,35,2025-02-09,437,Power Failure,No
+441,42,2025-10-03,116,Power Failure,No
+442,17,2025-06-23,95,Power Failure,No
+443,62,2025-03-21,374,Material Shortage,No
+444,54,2025-08-31,83,Maintenance,Yes
+445,71,2025-08-25,317,Material Shortage,No
+446,26,2025-09-06,42,Power Failure,Yes
+447,74,2025-12-11,20,Material Shortage,Yes
+448,15,2025-07-19,306,Machine Failure,Yes
+449,69,2025-05-11,378,Machine Failure,Yes
+450,43,2025-12-03,456,Machine Failure,Yes
+451,47,2025-02-06,66,Operator Issue,Yes
+452,60,2025-04-04,445,Power Failure,Yes
+453,31,2025-08-06,279,Maintenance,Yes
+454,63,2025-01-27,228,Power Failure,Yes
+455,58,2025-12-26,309,Machine Failure,No
+456,2,2025-03-13,148,Machine Failure,No
+457,50,2025-07-19,46,Power Failure,No
+458,2,2025-11-18,209,Power Failure,Yes
+459,57,2025-02-12,363,Maintenance,Yes
+460,53,2025-07-31,214,Maintenance,Yes
+461,29,2025-01-01,119,Power Failure,Yes
+462,45,2025-01-30,374,Operator Issue,Yes
+463,1,2025-12-29,70,Material Shortage,Yes
+464,24,2025-08-02,28,Maintenance,Yes
+465,45,2025-10-28,367,Material Shortage,No
+466,54,2025-05-08,379,Material Shortage,Yes
+467,52,2025-08-19,423,Machine Failure,No
+468,46,2025-08-21,166,Operator Issue,No
+469,30,2025-10-18,374,Operator Issue,Yes
+470,62,2025-04-22,231,Power Failure,Yes
+471,22,2025-07-05,66,Material Shortage,Yes
+472,57,2025-06-20,266,Operator Issue,No
+473,56,2025-02-22,257,Machine Failure,Yes
+474,71,2025-02-14,166,Power Failure,Yes
+475,11,2025-09-29,249,Material Shortage,No
+476,20,2025-09-03,328,Power Failure,Yes
+477,53,2025-02-02,385,Power Failure,No
+478,43,2025-04-07,209,Operator Issue,Yes
+479,69,2025-07-20,381,Operator Issue,Yes
+480,60,2025-03-04,337,Material Shortage,Yes
+481,16,2025-12-05,242,Maintenance,Yes
+482,6,2025-11-15,106,Power Failure,Yes
+483,41,2025-08-24,139,Material Shortage,Yes
+484,74,2025-07-12,330,Machine Failure,Yes
+485,58,2025-07-20,199,Machine Failure,Yes
+486,40,2025-07-05,235,Material Shortage,Yes
+487,60,2025-04-15,347,Operator Issue,Yes
+488,24,2025-08-09,149,Power Failure,No
+489,64,2025-01-24,109,Material Shortage,Yes
+490,14,2025-12-11,356,Machine Failure,Yes
+491,36,2025-10-22,260,Machine Failure,No
+492,53,2025-07-13,11,Power Failure,Yes
+493,70,2025-01-09,93,Material Shortage,Yes
+494,5,2025-02-14,354,Maintenance,Yes
+495,60,2025-01-28,217,Maintenance,Yes
+496,19,2025-08-11,270,Machine Failure,Yes
+497,48,2025-02-18,168,Machine Failure,No
+498,19,2025-12-24,203,Maintenance,Yes
+499,41,2025-12-25,406,Operator Issue,Yes
+500,28,2025-03-09,93,Operator Issue,No
+501,32,2025-03-16,11,Machine Failure,No
+502,56,2025-01-31,227,Power Failure,Yes
+503,63,2025-09-10,387,Operator Issue,No
+504,71,2025-11-17,431,Machine Failure,Yes
+505,67,2025-02-10,362,Power Failure,Yes
+506,29,2025-06-03,411,Material Shortage,Yes
+507,43,2025-01-28,242,Maintenance,Yes
+508,45,2025-11-10,99,Material Shortage,Yes
+509,23,2025-10-26,240,Operator Issue,Yes
+510,36,2025-03-27,421,Operator Issue,Yes
+511,39,2025-11-20,223,Machine Failure,Yes
+512,24,2025-05-09,285,Maintenance,Yes
+513,3,2025-08-01,63,Power Failure,Yes
+514,33,2025-09-01,168,Maintenance,Yes
+515,13,2025-08-27,71,Material Shortage,No
+516,28,2026-01-01,321,Power Failure,Yes
+517,7,2025-11-04,264,Operator Issue,Yes
+518,65,2025-06-10,321,Material Shortage,Yes
+519,64,2025-11-14,415,Power Failure,Yes
+520,48,2025-01-20,48,Material Shortage,Yes
+521,38,2025-01-17,205,Power Failure,Yes
+522,28,2025-06-09,375,Material Shortage,Yes
+523,25,2025-12-31,399,Machine Failure,Yes
+524,57,2025-10-27,55,Machine Failure,No
+525,18,2025-09-29,38,Power Failure,No
+526,56,2025-02-09,478,Maintenance,Yes
+527,34,2025-05-09,475,Maintenance,No
+528,11,2025-04-20,307,Operator Issue,No
+529,30,2025-07-28,143,Power Failure,Yes
+530,20,2025-10-03,346,Material Shortage,Yes
+531,20,2025-03-02,67,Maintenance,No
+532,31,2025-05-29,302,Power Failure,Yes
+533,17,2025-03-29,121,Power Failure,Yes
+534,38,2025-07-22,242,Maintenance,No
+535,20,2025-12-18,56,Maintenance,Yes
+536,25,2025-06-29,21,Material Shortage,No
+537,55,2025-12-25,146,Operator Issue,Yes
+538,57,2025-04-08,263,Operator Issue,Yes
+539,61,2025-03-02,461,Power Failure,Yes
+540,61,2025-09-01,207,Operator Issue,Yes
+541,58,2025-01-19,313,Operator Issue,Yes
+542,74,2025-02-02,433,Operator Issue,Yes
+543,26,2025-06-18,97,Operator Issue,Yes
+544,21,2025-11-09,358,Machine Failure,Yes
+545,58,2025-12-15,323,Power Failure,Yes
+546,20,2025-06-30,80,Power Failure,Yes
+547,43,2025-04-08,448,Power Failure,Yes
+548,39,2025-12-30,203,Maintenance,Yes
+549,9,2025-10-07,130,Maintenance,No
+550,33,2025-05-02,171,Operator Issue,Yes
+551,21,2025-07-20,24,Material Shortage,No
+552,7,2025-08-18,380,Maintenance,Yes
+553,5,2025-05-08,45,Power Failure,No
+554,21,2025-06-19,443,Maintenance,Yes
+555,12,2025-10-24,51,Operator Issue,Yes
+556,58,2025-07-24,123,Power Failure,Yes
+557,37,2025-06-12,16,Maintenance,No
+558,31,2025-03-13,361,Operator Issue,No
+559,45,2025-05-12,151,Maintenance,No
+560,75,2025-08-02,438,Maintenance,Yes
+561,64,2025-07-26,262,Material Shortage,Yes
+562,43,2025-07-28,159,Operator Issue,Yes
+563,44,2025-03-13,252,Power Failure,Yes
+564,15,2025-11-17,303,Operator Issue,Yes
+565,24,2025-04-25,175,Maintenance,Yes
+566,21,2025-03-29,441,Operator Issue,No
+567,46,2025-11-21,61,Operator Issue,Yes
+568,11,2025-06-07,429,Machine Failure,Yes
+569,19,2025-02-28,135,Operator Issue,No
+570,53,2025-02-18,172,Machine Failure,Yes
+571,9,2025-06-19,210,Power Failure,Yes
+572,25,2025-08-19,248,Power Failure,Yes
+573,29,2025-01-15,431,Operator Issue,Yes
+574,39,2025-09-25,136,Machine Failure,Yes
+575,39,2025-05-10,378,Maintenance,Yes
+576,5,2025-10-30,302,Power Failure,No
+577,40,2025-12-03,363,Power Failure,Yes
+578,13,2025-02-26,120,Operator Issue,Yes
+579,52,2025-09-29,461,Maintenance,No
+580,41,2025-02-06,369,Machine Failure,No
+581,50,2025-07-14,179,Machine Failure,Yes
+582,11,2025-07-26,244,Maintenance,No
+583,69,2025-06-12,28,Material Shortage,Yes
+584,31,2025-05-08,80,Operator Issue,Yes
+585,44,2025-08-25,258,Machine Failure,Yes
+586,24,2025-04-09,293,Power Failure,Yes
+587,40,2025-05-26,299,Material Shortage,No
+588,63,2025-04-30,42,Power Failure,No
+589,53,2025-05-22,254,Machine Failure,Yes
+590,24,2025-11-13,306,Operator Issue,Yes
+591,60,2025-11-03,121,Maintenance,Yes
+592,68,2025-09-23,271,Maintenance,Yes
+593,27,2025-11-24,142,Power Failure,Yes
+594,49,2025-07-30,30,Maintenance,No
+595,42,2025-01-18,201,Material Shortage,Yes
+596,35,2025-11-26,436,Material Shortage,Yes
+597,32,2025-07-02,195,Material Shortage,Yes
+598,16,2025-04-09,220,Power Failure,No
+599,29,2025-05-10,72,Machine Failure,Yes
+600,4,2025-10-29,388,Material Shortage,Yes
+601,34,2025-08-27,174,Maintenance,Yes
+602,72,2025-10-18,132,Material Shortage,Yes
+603,38,2025-06-23,142,Material Shortage,Yes
+604,30,2025-04-28,333,Power Failure,Yes
+605,37,2025-10-17,410,Machine Failure,Yes
+606,63,2025-04-20,417,Power Failure,Yes
+607,30,2025-11-08,448,Material Shortage,No
+608,42,2025-09-24,65,Power Failure,Yes
+609,9,2025-03-08,104,Machine Failure,Yes
+610,34,2025-01-17,340,Operator Issue,Yes
+611,37,2025-03-23,270,Power Failure,Yes
+612,49,2025-08-15,146,Maintenance,Yes
+613,42,2025-05-06,38,Maintenance,Yes
+614,2,2025-11-15,133,Material Shortage,Yes
+615,67,2025-11-11,220,Power Failure,No
+616,11,2025-10-30,197,Operator Issue,Yes
+617,45,2025-01-27,340,Operator Issue,No
+618,58,2025-06-06,99,Maintenance,Yes
+619,31,2025-04-01,241,Maintenance,Yes
+620,4,2025-11-16,71,Machine Failure,Yes
+621,8,2025-09-23,258,Machine Failure,No
+622,75,2025-04-14,124,Power Failure,Yes
+623,44,2025-10-01,321,Maintenance,Yes
+624,37,2025-09-16,40,Machine Failure,No
+625,66,2025-02-07,324,Machine Failure,No
+626,16,2025-05-23,421,Machine Failure,Yes
+627,57,2025-10-07,294,Operator Issue,No
+628,8,2025-02-22,477,Power Failure,Yes
+629,50,2025-02-13,348,Machine Failure,Yes
+630,54,2025-07-05,118,Machine Failure,Yes
+631,24,2025-03-13,319,Power Failure,No
+632,15,2025-06-23,316,Operator Issue,No
+633,66,2025-11-12,477,Power Failure,No
+634,48,2025-05-13,77,Machine Failure,Yes
+635,25,2025-04-20,267,Material Shortage,No
+636,6,2025-04-29,82,Power Failure,Yes
+637,40,2025-05-11,159,Operator Issue,Yes
+638,7,2025-04-07,23,Machine Failure,Yes
+639,12,2025-07-16,216,Material Shortage,No
+640,3,2025-08-24,106,Operator Issue,Yes
+641,24,2025-02-22,28,Material Shortage,Yes
+642,36,2025-01-11,13,Power Failure,Yes
+643,14,2025-10-31,312,Operator Issue,No
+644,44,2025-09-05,353,Operator Issue,No
+645,6,2025-01-11,307,Operator Issue,Yes
+646,48,2025-01-15,349,Machine Failure,Yes
+647,2,2025-02-06,105,Material Shortage,Yes
+648,33,2025-11-13,241,Maintenance,No
+649,36,2025-01-12,350,Material Shortage,Yes
+650,8,2025-07-11,422,Power Failure,Yes
+651,60,2025-10-17,217,Power Failure,No
+652,6,2025-11-25,239,Material Shortage,No
+653,5,2025-05-23,400,Material Shortage,No
+654,31,2025-04-01,295,Power Failure,Yes
+655,75,2025-12-22,84,Operator Issue,No
+656,28,2025-06-25,287,Maintenance,Yes
+657,40,2025-10-28,338,Maintenance,Yes
+658,27,2025-01-26,196,Operator Issue,Yes
+659,63,2025-02-23,137,Power Failure,Yes
+660,11,2025-01-20,205,Maintenance,No
+661,44,2025-05-31,229,Operator Issue,No
+662,72,2025-01-17,13,Operator Issue,Yes
+663,68,2025-10-22,430,Machine Failure,Yes
+664,12,2025-04-10,39,Maintenance,Yes
+665,56,2025-11-29,385,Maintenance,Yes
+666,2,2025-06-13,240,Maintenance,No
+667,63,2025-11-22,66,Operator Issue,Yes
+668,48,2025-06-05,464,Machine Failure,No
+669,72,2025-04-29,81,Maintenance,Yes
+670,2,2025-02-22,390,Operator Issue,No
+671,61,2025-10-08,356,Material Shortage,Yes
+672,48,2025-04-08,351,Operator Issue,Yes
+673,32,2025-09-14,138,Power Failure,Yes
+674,8,2025-04-28,196,Machine Failure,Yes
+675,62,2025-11-21,293,Operator Issue,No
+676,4,2025-05-08,463,Material Shortage,Yes
+677,52,2025-10-03,341,Material Shortage,Yes
+678,35,2025-12-08,376,Operator Issue,Yes
+679,50,2025-12-08,334,Material Shortage,Yes
+680,71,2025-10-02,216,Machine Failure,No
+681,29,2025-09-13,410,Operator Issue,Yes
+682,54,2025-03-27,359,Operator Issue,No
+683,63,2025-10-01,334,Machine Failure,Yes
+684,24,2025-01-23,266,Material Shortage,No
+685,49,2025-05-14,89,Material Shortage,No
+686,47,2025-05-17,46,Power Failure,Yes
+687,14,2025-12-05,213,Maintenance,No
+688,37,2025-05-16,113,Power Failure,No
+689,63,2025-07-14,447,Power Failure,No
+690,64,2025-05-30,154,Maintenance,Yes
+691,39,2025-04-03,316,Machine Failure,No
+692,70,2025-08-01,367,Operator Issue,Yes
+693,53,2025-10-25,135,Operator Issue,Yes
+694,71,2025-11-07,421,Material Shortage,No
+695,32,2025-02-11,296,Operator Issue,Yes
+696,32,2025-02-25,367,Machine Failure,Yes
+697,70,2025-09-18,342,Power Failure,Yes
+698,51,2025-01-13,167,Maintenance,No
+699,37,2025-02-22,20,Operator Issue,Yes
+700,8,2025-03-11,318,Material Shortage,Yes
+701,56,2025-12-24,263,Material Shortage,Yes
+702,1,2026-01-01,57,Machine Failure,No
+703,23,2025-05-04,215,Machine Failure,No
+704,50,2025-01-26,103,Maintenance,Yes
+705,66,2025-01-05,194,Power Failure,No
+706,25,2025-11-15,415,Material Shortage,Yes
+707,11,2025-06-11,15,Power Failure,Yes
+708,65,2025-11-04,446,Maintenance,Yes
+709,13,2025-12-27,43,Material Shortage,No
+710,70,2025-03-07,259,Machine Failure,No
+711,52,2025-12-16,402,Power Failure,No
+712,62,2025-12-01,181,Operator Issue,No
+713,30,2025-01-25,56,Machine Failure,Yes
+714,57,2025-05-11,83,Maintenance,No
+715,52,2025-09-27,85,Material Shortage,Yes
+716,69,2025-04-22,244,Maintenance,No
+717,36,2025-08-09,361,Maintenance,No
+718,63,2025-05-26,317,Material Shortage,Yes
+719,44,2025-02-24,247,Operator Issue,No
+720,21,2025-11-11,17,Operator Issue,No
+721,38,2025-11-08,247,Maintenance,No
+722,73,2025-03-25,63,Operator Issue,Yes
+723,28,2025-08-16,94,Operator Issue,Yes
+724,58,2025-12-03,217,Material Shortage,Yes
+725,30,2025-03-23,181,Power Failure,Yes
+726,73,2025-11-08,479,Maintenance,Yes
+727,41,2025-04-18,167,Power Failure,Yes
+728,27,2025-09-21,182,Power Failure,No
+729,68,2025-07-06,426,Operator Issue,Yes
+730,64,2025-12-27,176,Operator Issue,Yes
+731,14,2025-06-10,254,Maintenance,No
+732,70,2025-02-20,44,Maintenance,No
+733,8,2025-06-30,408,Maintenance,No
+734,47,2025-08-20,196,Power Failure,Yes
+735,51,2025-06-28,359,Machine Failure,No
+736,75,2025-04-17,69,Maintenance,Yes
+737,66,2025-04-04,69,Operator Issue,No
+738,16,2025-02-13,456,Machine Failure,Yes
+739,56,2025-10-17,97,Material Shortage,No
+740,1,2025-04-06,309,Material Shortage,No
+741,69,2025-06-21,84,Power Failure,Yes
+742,43,2025-09-17,365,Power Failure,No
+743,7,2025-02-16,393,Operator Issue,Yes
+744,41,2025-09-28,462,Operator Issue,Yes
+745,12,2025-04-15,295,Material Shortage,Yes
+746,10,2025-12-02,429,Machine Failure,Yes
+747,49,2025-08-27,35,Operator Issue,No
+748,46,2025-10-25,127,Power Failure,Yes
+749,36,2025-12-26,96,Machine Failure,No
+750,28,2025-03-26,384,Machine Failure,Yes
+751,34,2025-03-06,382,Power Failure,Yes
+752,32,2025-06-01,96,Maintenance,Yes
+753,34,2025-06-29,270,Machine Failure,No
+754,23,2025-08-04,119,Operator Issue,Yes
+755,35,2025-09-26,329,Power Failure,No
+756,25,2025-05-11,381,Maintenance,Yes
+757,65,2025-04-27,429,Maintenance,No
+758,31,2025-10-12,75,Operator Issue,Yes
+759,47,2025-06-24,377,Operator Issue,Yes
+760,73,2025-06-26,241,Machine Failure,No
+761,74,2025-06-29,301,Maintenance,No
+762,2,2025-07-29,299,Material Shortage,No
+763,61,2025-11-18,124,Material Shortage,No
+764,60,2025-07-01,457,Power Failure,No
+765,21,2025-11-13,325,Operator Issue,Yes
+766,52,2025-02-04,420,Material Shortage,No
+767,60,2025-11-13,61,Operator Issue,No
+768,60,2025-11-24,14,Maintenance,Yes
+769,30,2025-04-06,182,Material Shortage,Yes
+770,69,2025-10-20,247,Operator Issue,No
+771,68,2025-04-09,217,Power Failure,Yes
+772,12,2025-02-15,329,Power Failure,No
+773,14,2025-09-11,72,Power Failure,Yes
+774,5,2025-01-21,175,Machine Failure,Yes
+775,17,2025-09-09,416,Machine Failure,Yes
+776,47,2025-06-25,137,Power Failure,Yes
+777,56,2025-11-02,108,Power Failure,Yes
+778,31,2025-10-24,16,Maintenance,Yes
+779,64,2025-03-18,336,Power Failure,Yes
+780,73,2025-09-19,472,Maintenance,Yes
+781,53,2025-12-11,126,Machine Failure,Yes
+782,6,2025-05-10,100,Operator Issue,Yes
+783,46,2025-12-23,438,Material Shortage,Yes
+784,22,2025-07-09,162,Machine Failure,No
+785,31,2025-11-17,89,Material Shortage,No
+786,35,2025-10-06,120,Operator Issue,No
+787,72,2025-04-27,276,Machine Failure,Yes
+788,58,2025-05-26,270,Material Shortage,Yes
+789,26,2025-06-11,410,Machine Failure,Yes
+790,34,2025-05-20,61,Power Failure,Yes
+791,72,2025-07-31,212,Operator Issue,Yes
+792,60,2025-10-20,317,Maintenance,Yes
+793,65,2025-04-27,423,Power Failure,No
+794,70,2025-02-20,380,Power Failure,No
+795,28,2025-05-31,226,Machine Failure,Yes
+796,34,2025-10-21,13,Operator Issue,Yes
+797,34,2025-01-19,47,Power Failure,Yes
+798,57,2025-09-03,389,Maintenance,Yes
+799,26,2025-01-12,69,Operator Issue,No
+800,20,2025-01-20,290,Operator Issue,No
+801,49,2025-01-04,285,Machine Failure,No
+802,52,2025-06-29,174,Machine Failure,Yes
+803,13,2025-01-13,176,Operator Issue,No
+804,13,2025-09-11,210,Maintenance,No
+805,54,2025-03-20,349,Operator Issue,No
+806,58,2025-11-26,272,Power Failure,No
+807,21,2025-07-24,188,Power Failure,Yes
+808,36,2025-01-23,410,Maintenance,Yes
+809,69,2025-08-19,241,Machine Failure,No
+810,6,2025-08-23,347,Power Failure,Yes
+811,40,2025-08-15,189,Machine Failure,Yes
+812,63,2025-06-15,189,Power Failure,Yes
+813,28,2025-12-31,120,Machine Failure,Yes
+814,20,2025-08-08,460,Operator Issue,Yes
+815,26,2025-03-03,57,Maintenance,Yes
+816,55,2025-02-16,443,Operator Issue,Yes
+817,2,2025-01-15,184,Machine Failure,Yes
+818,52,2025-12-15,66,Machine Failure,No
+819,1,2025-07-14,182,Material Shortage,Yes
+820,10,2025-06-30,471,Machine Failure,No
+821,40,2025-08-01,415,Power Failure,Yes
+822,31,2025-01-27,263,Power Failure,Yes
+823,64,2025-05-08,279,Power Failure,No
+824,68,2025-03-10,264,Machine Failure,No
+825,75,2025-04-18,14,Operator Issue,No
+826,22,2025-04-29,352,Power Failure,Yes
+827,72,2025-03-19,324,Material Shortage,Yes
+828,1,2025-05-04,330,Operator Issue,No
+829,24,2025-02-14,21,Machine Failure,Yes
+830,72,2025-11-14,180,Maintenance,Yes
+831,42,2025-08-02,306,Maintenance,Yes
+832,24,2025-03-24,435,Machine Failure,No
+833,22,2025-06-11,161,Operator Issue,No
+834,34,2025-10-02,322,Maintenance,No
+835,66,2025-12-29,291,Power Failure,Yes
+836,74,2025-09-30,446,Machine Failure,Yes
+837,4,2025-08-23,355,Machine Failure,Yes
+838,53,2025-12-12,44,Maintenance,Yes
+839,10,2025-09-06,437,Power Failure,No
+840,39,2025-09-14,170,Material Shortage,Yes
+841,7,2025-12-07,178,Material Shortage,Yes
+842,25,2025-04-07,116,Power Failure,Yes
+843,73,2025-08-21,413,Operator Issue,No
+844,4,2025-06-06,49,Material Shortage,Yes
+845,63,2025-05-06,198,Operator Issue,No
+846,9,2025-03-19,265,Material Shortage,Yes
+847,18,2025-12-17,194,Maintenance,No
+848,55,2025-09-01,19,Material Shortage,No
+849,39,2025-01-10,149,Maintenance,Yes
+850,74,2025-01-10,190,Power Failure,Yes
+851,61,2025-05-02,348,Material Shortage,Yes
+852,56,2025-02-04,402,Operator Issue,Yes
+853,67,2025-07-25,416,Operator Issue,Yes
+854,48,2025-05-12,255,Machine Failure,Yes
+855,37,2025-05-07,356,Operator Issue,Yes
+856,67,2025-01-17,317,Operator Issue,Yes
+857,65,2025-02-14,273,Material Shortage,Yes
+858,10,2025-11-30,456,Maintenance,No
+859,54,2025-11-17,290,Machine Failure,Yes
+860,43,2025-06-24,79,Machine Failure,No
+861,61,2025-06-24,24,Material Shortage,Yes
+862,28,2025-03-25,47,Material Shortage,Yes
+863,53,2025-08-17,393,Machine Failure,Yes
+864,63,2025-06-10,205,Maintenance,Yes
+865,6,2025-11-09,291,Material Shortage,No
+866,63,2025-01-22,109,Machine Failure,No
+867,68,2025-01-19,271,Machine Failure,No
+868,39,2025-02-08,319,Machine Failure,No
+869,12,2025-04-24,41,Maintenance,No
+870,25,2025-11-25,221,Operator Issue,Yes
+871,25,2025-12-20,83,Machine Failure,Yes
+872,33,2025-02-16,86,Power Failure,No
+873,63,2025-12-06,405,Machine Failure,No
+874,15,2025-02-20,63,Power Failure,Yes
+875,7,2025-10-08,136,Machine Failure,Yes
+876,60,2025-08-13,351,Maintenance,Yes
+877,36,2025-04-29,255,Machine Failure,No
+878,1,2025-06-07,55,Maintenance,Yes
+879,71,2025-08-15,61,Operator Issue,Yes
+880,45,2025-02-13,334,Operator Issue,Yes
+881,41,2025-04-18,390,Operator Issue,Yes
+882,48,2025-09-22,75,Operator Issue,Yes
+883,12,2025-02-14,216,Power Failure,Yes
+884,9,2025-02-11,64,Power Failure,Yes
+885,56,2025-02-18,413,Material Shortage,Yes
+886,30,2025-01-30,357,Maintenance,Yes
+887,10,2025-07-27,129,Machine Failure,No
+888,23,2025-07-09,60,Material Shortage,No
+889,68,2025-08-04,162,Maintenance,Yes
+890,58,2025-01-18,99,Material Shortage,Yes
+891,54,2025-09-06,296,Maintenance,No
+892,26,2025-08-12,287,Material Shortage,Yes
+893,58,2025-12-23,233,Material Shortage,No
+894,73,2025-11-14,429,Power Failure,Yes
+895,2,2025-09-19,364,Power Failure,Yes
+896,46,2025-08-31,443,Operator Issue,Yes
+897,26,2025-08-04,299,Maintenance,Yes
+898,35,2025-07-31,96,Machine Failure,No
+899,70,2025-02-26,475,Machine Failure,Yes
+900,64,2025-08-08,275,Machine Failure,Yes
+901,8,2025-01-24,432,Maintenance,Yes
+902,63,2025-10-10,454,Machine Failure,Yes
+903,27,2025-01-10,372,Operator Issue,Yes
+904,29,2025-07-05,297,Maintenance,Yes
+905,54,2025-05-03,391,Operator Issue,Yes
+906,28,2025-01-06,416,Maintenance,No
+907,59,2025-03-26,13,Material Shortage,Yes
+908,56,2025-06-11,293,Operator Issue,Yes
+909,51,2025-10-05,474,Power Failure,No
+910,44,2025-08-14,445,Maintenance,Yes
+911,40,2025-08-07,125,Operator Issue,No
+912,8,2025-12-05,90,Power Failure,No
+913,7,2025-11-12,160,Material Shortage,No
+914,14,2025-07-25,65,Material Shortage,Yes
+915,18,2025-01-06,431,Maintenance,No
+916,56,2025-09-22,27,Material Shortage,Yes
+917,60,2025-11-08,178,Operator Issue,Yes
+918,8,2025-05-29,360,Power Failure,No
+919,10,2025-04-16,307,Machine Failure,Yes
+920,64,2025-08-23,57,Material Shortage,No
+921,8,2025-09-24,261,Maintenance,Yes
+922,32,2025-02-23,41,Maintenance,No
+923,27,2025-09-06,78,Maintenance,No
+924,10,2025-08-18,307,Material Shortage,Yes
+925,13,2025-07-23,34,Maintenance,Yes
+926,48,2025-01-11,226,Maintenance,Yes
+927,46,2025-05-11,73,Power Failure,No
+928,9,2025-04-19,107,Maintenance,No
+929,72,2025-03-12,45,Maintenance,Yes
+930,31,2025-10-27,247,Material Shortage,No
+931,74,2025-03-24,27,Power Failure,No
+932,35,2025-01-28,270,Power Failure,Yes
+933,57,2025-03-16,367,Operator Issue,Yes
+934,38,2025-08-18,274,Operator Issue,No
+935,62,2025-07-25,416,Operator Issue,Yes
+936,29,2025-08-13,455,Material Shortage,Yes
+937,60,2025-03-02,475,Machine Failure,Yes
+938,6,2025-11-08,254,Power Failure,No
+939,10,2025-06-17,307,Operator Issue,No
+940,6,2025-11-24,211,Machine Failure,No
+941,15,2025-06-27,342,Maintenance,No
+942,49,2025-06-02,448,Power Failure,Yes
+943,48,2025-02-09,222,Power Failure,Yes
+944,39,2025-12-14,131,Maintenance,No
+945,75,2025-10-26,344,Maintenance,Yes
+946,69,2025-01-19,115,Operator Issue,No
+947,48,2025-12-11,322,Machine Failure,No
+948,51,2025-04-03,49,Power Failure,Yes
+949,48,2025-03-13,111,Power Failure,Yes
+950,53,2025-10-17,340,Maintenance,No
+951,57,2025-08-09,176,Maintenance,Yes
+952,15,2025-12-11,438,Machine Failure,No
+953,60,2025-12-11,470,Maintenance,Yes
+954,49,2025-10-01,446,Operator Issue,No
+955,11,2025-09-11,207,Machine Failure,Yes
+956,54,2025-01-03,156,Power Failure,Yes
+957,25,2025-11-28,204,Power Failure,Yes
+958,48,2025-03-12,446,Maintenance,Yes
+959,75,2025-05-15,353,Power Failure,Yes
+960,17,2025-08-30,164,Material Shortage,Yes
+961,43,2025-06-09,407,Operator Issue,Yes
+962,75,2025-03-25,249,Maintenance,Yes
+963,12,2025-02-14,164,Operator Issue,Yes
+964,69,2025-06-08,297,Power Failure,Yes
+965,26,2025-11-02,73,Material Shortage,Yes
+966,36,2025-11-17,310,Operator Issue,Yes
+967,14,2025-05-06,396,Machine Failure,No
+968,54,2025-05-06,247,Power Failure,Yes
+969,26,2025-04-10,60,Power Failure,No
+970,54,2025-01-16,42,Power Failure,No
+971,70,2025-05-21,346,Operator Issue,No
+972,61,2025-01-03,434,Maintenance,Yes
+973,20,2025-01-10,197,Operator Issue,Yes
+974,46,2025-03-16,445,Power Failure,Yes
+975,2,2025-03-04,312,Machine Failure,Yes
+976,69,2025-01-30,226,Power Failure,Yes
+977,10,2025-01-01,235,Operator Issue,Yes
+978,18,2025-07-01,233,Operator Issue,Yes
+979,68,2025-01-21,360,Power Failure,Yes
+980,53,2025-09-28,219,Operator Issue,Yes
+981,5,2025-07-26,215,Operator Issue,No
+982,10,2025-10-05,225,Operator Issue,No
+983,1,2025-10-02,34,Operator Issue,No
+984,50,2025-12-24,81,Power Failure,Yes
+985,16,2025-04-12,347,Maintenance,Yes
+986,30,2025-12-12,404,Power Failure,Yes
+987,8,2025-09-04,273,Machine Failure,Yes
+988,36,2025-01-25,371,Material Shortage,No
+989,32,2025-07-04,266,Material Shortage,Yes
+990,74,2025-11-14,163,Machine Failure,No
+991,13,2025-10-09,439,Operator Issue,Yes
+992,34,2025-12-12,352,Operator Issue,Yes
+993,15,2025-04-04,337,Power Failure,No
+994,31,2025-04-01,378,Material Shortage,No
+995,7,2025-04-21,66,Maintenance,Yes
+996,51,2025-04-29,64,Material Shortage,Yes
+997,14,2025-09-27,349,Machine Failure,Yes
+998,39,2025-11-24,347,Maintenance,Yes
+999,69,2025-03-19,31,Power Failure,Yes
+1000,16,2025-06-11,278,Maintenance,Yes
+1001,73,2025-09-08,109,Material Shortage,Yes
+1002,64,2025-01-17,195,Material Shortage,No
+1003,53,2025-01-22,19,Operator Issue,No
+1004,30,2025-10-28,182,Machine Failure,Yes
+1005,71,2025-10-08,314,Operator Issue,No
+1006,19,2025-07-28,45,Operator Issue,Yes
+1007,27,2025-02-25,142,Operator Issue,Yes
+1008,16,2025-10-17,135,Operator Issue,No
+1009,31,2025-12-17,103,Maintenance,Yes
+1010,12,2025-10-14,165,Power Failure,Yes
+1011,62,2025-11-06,237,Material Shortage,Yes
+1012,62,2025-05-07,258,Maintenance,Yes
+1013,30,2025-06-02,383,Power Failure,No
+1014,67,2025-05-08,376,Operator Issue,No
+1015,14,2025-01-12,89,Material Shortage,Yes
+1016,5,2025-07-15,245,Machine Failure,Yes
+1017,27,2025-03-29,238,Operator Issue,Yes
+1018,40,2025-03-29,141,Operator Issue,Yes
+1019,72,2025-01-22,12,Power Failure,No
+1020,67,2025-12-26,192,Machine Failure,Yes
+1021,3,2025-04-07,69,Maintenance,Yes
+1022,29,2025-02-08,470,Material Shortage,No
+1023,63,2025-06-11,205,Power Failure,Yes
+1024,74,2025-04-15,387,Machine Failure,Yes
+1025,16,2025-10-31,278,Machine Failure,Yes
+1026,39,2025-10-20,91,Maintenance,Yes
+1027,53,2025-08-15,39,Operator Issue,Yes
+1028,17,2025-09-04,308,Maintenance,Yes
+1029,50,2025-10-29,418,Operator Issue,No
+1030,25,2025-10-19,448,Maintenance,No
+1031,70,2025-05-28,372,Power Failure,Yes
+1032,62,2025-11-11,189,Power Failure,Yes
+1033,42,2025-09-12,420,Power Failure,Yes
+1034,41,2025-07-15,426,Power Failure,Yes
+1035,50,2025-12-19,190,Operator Issue,No
+1036,70,2025-02-01,383,Operator Issue,No
+1037,21,2025-01-27,61,Machine Failure,No
+1038,57,2025-06-17,63,Machine Failure,Yes
+1039,8,2025-08-28,437,Power Failure,Yes
+1040,75,2025-05-29,390,Maintenance,Yes
+1041,28,2025-03-10,329,Material Shortage,No
+1042,4,2025-02-27,410,Operator Issue,Yes
+1043,10,2025-06-27,189,Material Shortage,Yes
+1044,48,2025-05-11,204,Operator Issue,Yes
+1045,54,2025-10-07,323,Power Failure,No
+1046,11,2025-11-16,434,Maintenance,No
+1047,69,2025-11-29,214,Machine Failure,No
+1048,39,2025-08-29,34,Machine Failure,Yes
+1049,22,2025-02-19,72,Power Failure,Yes
+1050,61,2025-05-11,67,Machine Failure,Yes
+1051,24,2025-12-29,148,Power Failure,Yes
+1052,30,2025-09-06,170,Material Shortage,Yes
+1053,46,2025-07-25,133,Operator Issue,Yes
+1054,17,2025-01-07,444,Maintenance,No
+1055,26,2025-01-24,229,Machine Failure,No
+1056,17,2025-10-03,187,Power Failure,Yes
+1057,38,2025-01-05,46,Maintenance,Yes
+1058,25,2025-02-22,124,Operator Issue,Yes
+1059,60,2025-08-10,19,Power Failure,Yes
+1060,66,2025-04-22,361,Power Failure,Yes
+1061,17,2025-01-11,420,Power Failure,Yes
+1062,5,2025-04-30,174,Machine Failure,Yes
+1063,32,2025-09-10,75,Machine Failure,No
+1064,41,2025-06-06,194,Machine Failure,No
+1065,35,2025-04-22,179,Operator Issue,Yes
+1066,30,2025-07-29,357,Operator Issue,Yes
+1067,75,2025-07-11,112,Power Failure,Yes
+1068,7,2025-07-29,42,Machine Failure,Yes
+1069,18,2025-07-25,172,Material Shortage,Yes
+1070,35,2025-06-14,347,Material Shortage,Yes
+1071,66,2025-07-11,477,Material Shortage,Yes
+1072,45,2025-01-15,294,Maintenance,No
+1073,23,2025-08-24,208,Maintenance,No
+1074,45,2025-09-13,362,Maintenance,Yes
+1075,21,2025-01-14,270,Maintenance,Yes
+1076,3,2025-09-19,16,Material Shortage,No
+1077,56,2025-10-25,202,Machine Failure,Yes
+1078,60,2025-11-22,276,Machine Failure,No
+1079,16,2025-11-05,297,Maintenance,No
+1080,26,2025-12-21,260,Material Shortage,No
+1081,3,2025-05-09,284,Machine Failure,Yes
+1082,69,2025-09-04,209,Material Shortage,Yes
+1083,2,2025-03-22,223,Maintenance,Yes
+1084,8,2025-10-05,30,Power Failure,Yes
+1085,52,2025-04-10,118,Machine Failure,No
+1086,14,2025-12-26,96,Power Failure,No
+1087,29,2025-07-30,79,Power Failure,Yes
+1088,21,2025-03-08,105,Machine Failure,No
+1089,54,2025-10-07,49,Power Failure,No
+1090,39,2025-01-26,397,Operator Issue,Yes
+1091,58,2025-09-16,33,Power Failure,No
+1092,31,2025-06-27,412,Maintenance,Yes
+1093,59,2025-12-28,24,Maintenance,Yes
+1094,11,2025-04-05,235,Maintenance,Yes
+1095,69,2025-12-28,136,Operator Issue,Yes
+1096,2,2025-08-24,212,Maintenance,Yes
+1097,33,2025-11-11,232,Operator Issue,Yes
+1098,74,2025-06-06,348,Machine Failure,Yes
+1099,32,2025-02-26,321,Machine Failure,No
+1100,70,2025-04-29,147,Power Failure,No
+1101,26,2025-01-03,410,Operator Issue,No
+1102,69,2025-06-30,66,Material Shortage,Yes
+1103,38,2025-12-04,103,Machine Failure,Yes
+1104,32,2025-11-11,384,Material Shortage,Yes
+1105,31,2026-01-01,75,Material Shortage,No
+1106,41,2025-01-13,178,Power Failure,Yes
+1107,5,2025-01-22,199,Machine Failure,No
+1108,62,2025-04-30,446,Operator Issue,Yes
+1109,25,2025-09-01,185,Operator Issue,Yes
+1110,54,2025-03-09,134,Maintenance,No
+1111,8,2025-01-15,286,Power Failure,Yes
+1112,59,2025-09-13,135,Power Failure,Yes
+1113,30,2025-04-10,20,Power Failure,Yes
+1114,21,2025-06-17,373,Material Shortage,Yes
+1115,71,2025-05-30,429,Operator Issue,No
+1116,24,2025-02-07,328,Maintenance,Yes
+1117,25,2025-10-16,278,Power Failure,No
+1118,74,2025-11-04,89,Machine Failure,Yes
+1119,67,2025-04-26,466,Material Shortage,Yes
+1120,3,2025-08-27,399,Operator Issue,No
+1121,63,2025-11-25,350,Power Failure,Yes
+1122,54,2025-10-03,323,Machine Failure,Yes
+1123,9,2025-09-06,24,Machine Failure,Yes
+1124,69,2025-03-05,440,Material Shortage,Yes
+1125,39,2025-10-04,355,Maintenance,No
+1126,51,2025-09-05,77,Maintenance,No
+1127,19,2025-02-10,368,Material Shortage,Yes
+1128,12,2025-08-05,158,Machine Failure,Yes
+1129,2,2025-05-20,346,Machine Failure,Yes
+1130,72,2025-09-01,360,Material Shortage,Yes
+1131,68,2025-08-24,27,Power Failure,No
+1132,46,2025-07-09,199,Machine Failure,Yes
+1133,9,2025-07-13,30,Maintenance,Yes
+1134,41,2025-04-26,442,Power Failure,No
+1135,35,2025-10-09,48,Machine Failure,Yes
+1136,7,2025-03-25,52,Machine Failure,Yes
+1137,8,2025-12-31,297,Machine Failure,No
+1138,63,2025-02-05,231,Machine Failure,Yes
+1139,52,2025-07-16,23,Operator Issue,Yes
+1140,50,2025-10-06,381,Power Failure,Yes
+1141,50,2025-03-22,252,Maintenance,No
+1142,65,2025-04-26,331,Power Failure,Yes
+1143,8,2025-09-01,367,Power Failure,No
+1144,44,2025-03-05,140,Power Failure,No
+1145,36,2025-08-19,212,Machine Failure,Yes
+1146,1,2025-10-20,326,Material Shortage,Yes
+1147,61,2025-11-14,26,Maintenance,No
+1148,8,2025-06-05,455,Maintenance,Yes
+1149,44,2025-09-17,244,Operator Issue,Yes
+1150,34,2025-07-17,157,Maintenance,Yes
+1151,68,2025-02-23,391,Power Failure,Yes
+1152,34,2025-03-14,214,Maintenance,No
+1153,21,2025-07-31,246,Machine Failure,Yes
+1154,4,2025-09-08,221,Power Failure,No
+1155,60,2025-11-23,361,Power Failure,Yes
+1156,16,2025-11-28,28,Machine Failure,Yes
+1157,63,2025-03-08,476,Material Shortage,Yes
+1158,27,2025-03-23,403,Machine Failure,Yes
+1159,16,2025-11-13,315,Maintenance,Yes
+1160,6,2025-04-13,303,Machine Failure,Yes
+1161,62,2025-02-18,176,Material Shortage,Yes
+1162,63,2025-10-01,187,Material Shortage,Yes
+1163,9,2025-10-31,38,Machine Failure,Yes
+1164,60,2025-05-13,349,Machine Failure,Yes
+1165,68,2025-12-03,47,Machine Failure,No
+1166,56,2025-03-07,348,Power Failure,No
+1167,53,2025-02-11,137,Machine Failure,Yes
+1168,51,2025-06-13,338,Machine Failure,Yes
+1169,1,2025-02-09,94,Machine Failure,Yes
+1170,59,2025-12-13,302,Maintenance,Yes
+1171,22,2025-02-23,178,Operator Issue,No
+1172,37,2025-03-29,273,Power Failure,No
+1173,31,2025-10-11,306,Operator Issue,Yes
+1174,37,2025-12-13,462,Material Shortage,Yes
+1175,73,2025-07-15,78,Maintenance,Yes
+1176,68,2025-08-24,205,Maintenance,No
+1177,31,2025-01-04,225,Maintenance,Yes
+1178,12,2025-08-12,330,Material Shortage,No
+1179,38,2025-04-09,423,Maintenance,Yes
+1180,66,2025-12-05,451,Machine Failure,Yes
+1181,38,2025-10-11,253,Material Shortage,Yes
+1182,4,2025-07-18,28,Material Shortage,Yes
+1183,48,2025-10-28,39,Material Shortage,No
+1184,38,2025-06-14,358,Power Failure,Yes
+1185,6,2025-12-22,199,Material Shortage,No
+1186,20,2025-06-30,348,Power Failure,Yes
+1187,30,2025-12-09,427,Operator Issue,No
+1188,39,2025-03-04,200,Maintenance,No
+1189,50,2025-04-23,205,Material Shortage,No
+1190,65,2025-01-26,88,Power Failure,No
+1191,5,2025-08-01,114,Machine Failure,No
+1192,5,2025-10-06,274,Maintenance,No
+1193,39,2025-10-17,245,Material Shortage,Yes
+1194,25,2025-02-09,161,Power Failure,Yes
+1195,9,2025-07-22,239,Power Failure,No
+1196,55,2025-02-27,401,Material Shortage,No
+1197,27,2025-05-25,109,Material Shortage,No
+1198,69,2025-07-28,454,Material Shortage,Yes
+1199,32,2025-08-18,169,Machine Failure,Yes
+1200,49,2025-01-29,419,Maintenance,Yes
+1201,10,2025-03-22,292,Machine Failure,No
+1202,30,2025-01-21,462,Maintenance,No
+1203,62,2025-09-15,373,Maintenance,No
+1204,36,2025-12-01,289,Maintenance,No
+1205,49,2025-03-17,244,Operator Issue,Yes
+1206,72,2025-07-21,403,Machine Failure,No
+1207,12,2025-07-10,199,Maintenance,No
+1208,3,2025-08-25,288,Maintenance,No
+1209,48,2025-02-06,344,Machine Failure,Yes
+1210,72,2025-06-02,22,Power Failure,Yes
+1211,41,2025-06-24,116,Power Failure,Yes
+1212,71,2025-10-30,372,Machine Failure,No
+1213,56,2025-08-13,156,Maintenance,Yes
+1214,48,2025-02-24,20,Power Failure,Yes
+1215,13,2025-02-10,316,Machine Failure,Yes
+1216,36,2025-11-19,156,Material Shortage,No
+1217,16,2025-08-21,177,Machine Failure,No
+1218,69,2025-12-14,97,Operator Issue,No
+1219,75,2025-03-19,471,Material Shortage,Yes
+1220,18,2025-11-23,219,Material Shortage,No
+1221,11,2025-06-07,339,Maintenance,No
+1222,69,2025-09-11,362,Power Failure,Yes
+1223,37,2025-02-10,374,Machine Failure,Yes
+1224,32,2025-08-25,445,Power Failure,Yes
+1225,18,2025-04-30,10,Maintenance,Yes
+1226,60,2025-01-17,212,Material Shortage,No
+1227,63,2025-10-13,152,Machine Failure,No
+1228,65,2025-11-05,331,Operator Issue,Yes
+1229,13,2025-03-08,127,Machine Failure,Yes
+1230,33,2025-06-08,42,Power Failure,No
+1231,27,2025-11-28,399,Material Shortage,No
+1232,46,2025-01-13,277,Maintenance,No
+1233,1,2025-04-20,409,Machine Failure,Yes
+1234,7,2025-01-18,261,Maintenance,No
+1235,1,2025-10-11,27,Machine Failure,No
+1236,15,2025-08-15,374,Power Failure,Yes
+1237,73,2025-06-08,115,Maintenance,No
+1238,15,2025-12-22,467,Operator Issue,No
+1239,4,2025-01-14,232,Power Failure,No
+1240,20,2025-03-21,58,Maintenance,No
+1241,23,2025-01-12,422,Material Shortage,No
+1242,35,2025-01-05,49,Power Failure,Yes
+1243,10,2025-04-18,16,Operator Issue,No
+1244,68,2025-12-09,369,Machine Failure,No
+1245,66,2025-07-22,188,Material Shortage,Yes
+1246,10,2025-11-27,357,Machine Failure,No
+1247,58,2025-09-10,245,Material Shortage,Yes
+1248,60,2025-06-07,298,Maintenance,Yes
+1249,55,2025-12-25,50,Operator Issue,No
+1250,38,2025-04-22,244,Maintenance,Yes
+1251,1,2025-08-16,68,Machine Failure,Yes
+1252,37,2025-07-24,246,Power Failure,No
+1253,42,2025-03-10,110,Maintenance,No
+1254,57,2025-11-06,317,Machine Failure,No
+1255,2,2025-03-24,177,Maintenance,No
+1256,27,2025-05-26,106,Operator Issue,Yes
+1257,54,2025-10-06,29,Machine Failure,Yes
+1258,10,2025-07-25,191,Machine Failure,Yes
+1259,65,2025-07-26,437,Machine Failure,Yes
+1260,29,2025-09-22,21,Power Failure,Yes
+1261,68,2025-03-26,296,Material Shortage,No
+1262,12,2025-04-23,292,Operator Issue,Yes
+1263,34,2025-10-18,398,Power Failure,No
+1264,10,2025-04-06,155,Operator Issue,Yes
+1265,20,2025-10-27,216,Maintenance,Yes
+1266,43,2025-02-15,445,Material Shortage,Yes
+1267,19,2025-03-04,469,Operator Issue,Yes
+1268,34,2025-08-23,275,Material Shortage,Yes
+1269,57,2025-11-02,456,Power Failure,No
+1270,52,2026-01-01,127,Material Shortage,No
+1271,25,2025-05-31,63,Power Failure,Yes
+1272,12,2025-07-15,325,Maintenance,No
+1273,22,2025-04-05,62,Power Failure,No
+1274,75,2025-02-02,334,Power Failure,Yes
+1275,37,2025-12-18,52,Machine Failure,Yes
+1276,51,2025-10-17,340,Operator Issue,No
+1277,2,2025-06-25,261,Maintenance,Yes
+1278,51,2025-03-11,276,Operator Issue,No
+1279,39,2025-11-15,442,Operator Issue,Yes
+1280,12,2025-06-10,322,Maintenance,Yes
+1281,72,2025-01-13,79,Maintenance,Yes
+1282,27,2025-02-13,456,Power Failure,No
+1283,36,2025-09-23,280,Power Failure,Yes
+1284,21,2025-04-25,162,Power Failure,No
+1285,24,2025-01-11,160,Machine Failure,No
+1286,53,2025-06-07,439,Power Failure,No
+1287,75,2025-07-07,454,Machine Failure,Yes
+1288,33,2025-01-29,429,Operator Issue,Yes
+1289,52,2025-10-10,464,Operator Issue,No
+1290,36,2025-12-20,320,Maintenance,No
+1291,25,2025-03-31,403,Material Shortage,Yes
+1292,67,2025-10-28,35,Operator Issue,Yes
+1293,44,2025-09-19,55,Maintenance,Yes
+1294,47,2025-03-21,232,Power Failure,Yes
+1295,58,2025-04-12,245,Material Shortage,Yes
+1296,65,2025-07-08,141,Maintenance,Yes
+1297,17,2025-05-07,386,Maintenance,Yes
+1298,64,2025-05-05,282,Machine Failure,Yes
+1299,29,2025-12-25,118,Machine Failure,Yes
+1300,8,2025-05-23,442,Material Shortage,Yes
+1301,5,2025-08-17,50,Power Failure,Yes
+1302,52,2025-10-24,99,Maintenance,Yes
+1303,49,2025-01-05,349,Power Failure,Yes
+1304,45,2025-02-08,78,Power Failure,Yes
+1305,68,2025-11-10,207,Machine Failure,Yes
+1306,63,2025-04-09,319,Operator Issue,Yes
+1307,15,2025-05-09,66,Operator Issue,Yes
+1308,39,2025-01-06,259,Operator Issue,No
+1309,1,2025-12-12,213,Power Failure,Yes
+1310,19,2025-07-06,154,Material Shortage,Yes
+1311,58,2025-09-22,29,Machine Failure,Yes
+1312,61,2025-01-23,162,Power Failure,Yes
+1313,55,2025-05-24,135,Operator Issue,Yes
+1314,12,2025-07-18,274,Power Failure,Yes
+1315,54,2025-09-27,377,Maintenance,No
+1316,46,2025-12-21,225,Maintenance,Yes
+1317,28,2025-11-11,208,Power Failure,No
+1318,63,2025-04-28,16,Material Shortage,Yes
+1319,2,2025-02-27,59,Operator Issue,No
+1320,44,2025-06-16,150,Material Shortage,No
+1321,22,2025-09-04,367,Material Shortage,Yes
+1322,54,2025-05-10,429,Operator Issue,Yes
+1323,40,2025-05-31,254,Maintenance,Yes
+1324,22,2025-02-08,451,Machine Failure,Yes
+1325,12,2025-11-05,311,Operator Issue,Yes
+1326,28,2025-12-06,432,Power Failure,No
+1327,67,2025-11-27,414,Operator Issue,No
+1328,71,2025-11-27,12,Machine Failure,Yes
+1329,30,2025-07-15,48,Operator Issue,Yes
+1330,49,2025-03-18,316,Power Failure,Yes
+1331,56,2025-08-23,63,Material Shortage,Yes
+1332,56,2025-06-11,233,Machine Failure,Yes
+1333,12,2025-07-23,347,Machine Failure,Yes
+1334,73,2025-07-26,157,Material Shortage,Yes
+1335,67,2025-07-12,304,Material Shortage,No
+1336,38,2025-01-05,459,Material Shortage,No
+1337,7,2025-11-09,292,Power Failure,Yes
+1338,37,2025-08-29,172,Machine Failure,Yes
+1339,54,2025-07-26,173,Machine Failure,Yes
+1340,69,2025-09-26,55,Material Shortage,No
+1341,33,2025-10-23,234,Operator Issue,Yes
+1342,50,2025-03-30,261,Power Failure,No
+1343,32,2025-05-25,249,Machine Failure,Yes
+1344,36,2025-08-22,116,Material Shortage,Yes
+1345,9,2025-01-30,19,Operator Issue,No
+1346,32,2025-10-13,227,Power Failure,Yes
+1347,5,2025-10-09,228,Power Failure,No
+1348,47,2025-02-28,419,Material Shortage,Yes
+1349,18,2025-03-08,111,Power Failure,No
+1350,21,2025-02-22,36,Material Shortage,Yes
+1351,2,2025-06-02,21,Maintenance,Yes
+1352,28,2025-03-24,31,Machine Failure,Yes
+1353,69,2025-12-09,308,Machine Failure,Yes
+1354,49,2025-03-31,303,Machine Failure,Yes
+1355,1,2025-06-09,320,Material Shortage,No
+1356,37,2025-09-29,27,Machine Failure,Yes
+1357,58,2025-01-23,185,Power Failure,Yes
+1358,36,2025-12-16,14,Machine Failure,Yes
+1359,35,2025-03-11,433,Operator Issue,No
+1360,58,2025-06-27,235,Power Failure,Yes
+1361,69,2025-02-18,441,Machine Failure,No
+1362,1,2025-10-31,391,Machine Failure,Yes
+1363,8,2025-04-04,156,Operator Issue,Yes
+1364,18,2025-03-28,392,Operator Issue,Yes
+1365,20,2025-11-19,369,Material Shortage,Yes
+1366,11,2025-03-29,133,Material Shortage,Yes
+1367,17,2025-06-22,446,Maintenance,No
+1368,36,2025-04-18,331,Machine Failure,Yes
+1369,10,2025-06-01,371,Power Failure,No
+1370,33,2025-03-12,50,Operator Issue,Yes
+1371,58,2025-06-09,130,Operator Issue,Yes
+1372,22,2025-09-03,360,Maintenance,Yes
+1373,49,2025-06-24,129,Material Shortage,Yes
+1374,73,2025-05-08,119,Power Failure,Yes
+1375,4,2025-07-05,61,Maintenance,Yes
+1376,73,2025-06-22,169,Material Shortage,Yes
+1377,54,2025-02-08,312,Machine Failure,Yes
+1378,64,2025-10-30,78,Operator Issue,No
+1379,12,2025-07-13,248,Power Failure,Yes
+1380,35,2025-11-13,307,Power Failure,Yes
+1381,31,2025-03-10,464,Maintenance,Yes
+1382,53,2025-09-12,413,Maintenance,No
+1383,27,2025-11-05,188,Power Failure,No
+1384,61,2025-11-06,189,Material Shortage,Yes
+1385,21,2025-01-05,398,Maintenance,Yes
+1386,8,2025-08-27,29,Power Failure,Yes
+1387,57,2025-09-18,311,Machine Failure,No
+1388,57,2025-04-29,297,Operator Issue,Yes
+1389,48,2025-01-14,134,Operator Issue,Yes
+1390,59,2025-02-13,69,Power Failure,Yes
+1391,23,2025-10-05,175,Machine Failure,Yes
+1392,63,2025-12-03,50,Operator Issue,Yes
+1393,58,2025-07-30,267,Operator Issue,Yes
+1394,8,2025-04-11,478,Power Failure,No
+1395,29,2025-06-12,447,Power Failure,Yes
+1396,14,2025-06-09,213,Operator Issue,Yes
+1397,49,2025-07-07,195,Power Failure,No
+1398,1,2025-12-16,409,Material Shortage,No
+1399,46,2025-12-06,244,Material Shortage,Yes
+1400,3,2025-06-11,450,Power Failure,No
+1401,4,2025-08-25,407,Operator Issue,Yes
+1402,4,2026-01-01,225,Operator Issue,No
+1403,23,2025-11-18,173,Material Shortage,Yes
+1404,30,2025-09-03,250,Operator Issue,Yes
+1405,73,2025-03-28,213,Machine Failure,Yes
+1406,1,2025-05-26,183,Power Failure,No
+1407,9,2025-11-10,314,Machine Failure,Yes
+1408,55,2025-03-16,175,Maintenance,No
+1409,36,2025-11-28,166,Operator Issue,Yes
+1410,25,2025-02-11,108,Material Shortage,No
+1411,6,2025-09-22,289,Operator Issue,No
+1412,18,2025-12-28,196,Power Failure,No
+1413,63,2025-05-15,317,Power Failure,No
+1414,45,2025-06-18,81,Maintenance,Yes
+1415,24,2025-12-14,165,Maintenance,Yes
+1416,11,2025-09-21,473,Machine Failure,No
+1417,12,2025-10-08,20,Power Failure,Yes
+1418,62,2025-12-28,359,Maintenance,No
+1419,1,2025-09-06,435,Machine Failure,Yes
+1420,12,2025-08-10,171,Material Shortage,Yes
+1421,23,2025-05-18,247,Operator Issue,Yes
+1422,74,2025-02-14,451,Machine Failure,Yes
+1423,5,2025-05-21,125,Material Shortage,No
+1424,3,2025-07-15,395,Machine Failure,Yes
+1425,55,2025-12-10,29,Power Failure,Yes
+1426,60,2025-11-26,104,Machine Failure,No
+1427,43,2025-09-06,91,Machine Failure,Yes
+1428,32,2025-05-19,279,Material Shortage,Yes
+1429,74,2025-09-12,336,Material Shortage,Yes
+1430,52,2025-08-18,153,Maintenance,Yes
+1431,54,2025-11-03,29,Maintenance,Yes
+1432,47,2025-10-30,60,Power Failure,Yes
+1433,15,2025-03-23,386,Power Failure,Yes
+1434,7,2025-08-27,400,Maintenance,No
+1435,42,2025-12-07,198,Operator Issue,Yes
+1436,58,2025-09-15,154,Power Failure,No
+1437,53,2025-03-06,473,Material Shortage,Yes
+1438,35,2025-04-15,291,Machine Failure,No
+1439,73,2025-05-19,353,Maintenance,Yes
+1440,25,2025-02-18,315,Machine Failure,No
+1441,71,2025-03-22,138,Machine Failure,No
+1442,37,2025-03-20,411,Maintenance,No
+1443,57,2025-05-07,184,Maintenance,Yes
+1444,20,2025-05-13,195,Material Shortage,No
+1445,18,2025-05-21,27,Machine Failure,Yes
+1446,43,2025-03-11,162,Maintenance,No
+1447,72,2025-06-05,442,Material Shortage,Yes
+1448,9,2025-12-28,334,Material Shortage,Yes
+1449,10,2025-03-29,103,Power Failure,Yes
+1450,37,2025-11-20,20,Machine Failure,No
+1451,9,2025-04-05,453,Operator Issue,Yes
+1452,30,2025-08-13,47,Maintenance,Yes
+1453,24,2025-02-20,63,Power Failure,Yes
+1454,67,2025-05-09,267,Maintenance,Yes
+1455,66,2025-10-04,404,Power Failure,No
+1456,5,2025-10-28,345,Material Shortage,No
+1457,69,2025-03-06,230,Machine Failure,Yes
+1458,40,2025-08-26,218,Power Failure,Yes
+1459,66,2025-08-14,133,Material Shortage,No
+1460,63,2025-07-06,421,Machine Failure,Yes
+1461,15,2025-01-06,254,Operator Issue,Yes
+1462,21,2025-01-25,137,Power Failure,Yes
+1463,52,2025-07-05,44,Operator Issue,No
+1464,72,2025-03-20,430,Operator Issue,No
+1465,62,2025-03-15,392,Power Failure,No
+1466,6,2025-01-18,273,Operator Issue,Yes
+1467,35,2025-03-15,449,Maintenance,Yes
+1468,4,2025-04-03,401,Maintenance,Yes
+1469,50,2025-01-29,281,Operator Issue,Yes
+1470,22,2025-06-14,152,Power Failure,No
+1471,21,2025-10-21,380,Operator Issue,Yes
+1472,47,2025-09-18,139,Machine Failure,Yes
+1473,15,2025-06-03,264,Maintenance,Yes
+1474,10,2025-02-03,233,Machine Failure,Yes
+1475,24,2025-03-05,35,Operator Issue,Yes
+1476,62,2025-12-24,60,Operator Issue,Yes
+1477,30,2025-05-01,36,Material Shortage,No
+1478,23,2025-11-26,98,Machine Failure,Yes
+1479,27,2025-05-24,14,Power Failure,Yes
+1480,7,2025-09-07,312,Maintenance,Yes
+1481,54,2025-08-01,298,Maintenance,Yes
+1482,37,2025-10-28,66,Operator Issue,Yes
+1483,23,2025-10-02,105,Material Shortage,Yes
+1484,46,2025-12-08,43,Machine Failure,No
+1485,62,2025-06-12,445,Material Shortage,Yes
+1486,64,2025-10-12,165,Power Failure,No
+1487,59,2025-10-03,163,Material Shortage,Yes
+1488,54,2025-08-20,266,Machine Failure,Yes
+1489,22,2025-03-14,334,Power Failure,Yes
+1490,41,2025-06-21,212,Power Failure,No
+1491,68,2025-04-11,442,Operator Issue,Yes
+1492,50,2025-01-06,152,Operator Issue,No
+1493,29,2025-12-17,256,Machine Failure,Yes
+1494,64,2025-06-11,386,Material Shortage,No
+1495,63,2025-10-24,294,Machine Failure,No
+1496,54,2025-08-21,26,Machine Failure,No
+1497,11,2025-03-06,43,Machine Failure,Yes
+1498,28,2025-04-07,442,Power Failure,Yes
+1499,61,2025-04-28,276,Power Failure,No
+1500,34,2025-05-19,324,Maintenance,Yes
+1501,14,2025-05-30,331,Operator Issue,Yes
+1502,9,2025-06-08,343,Maintenance,No
+1503,47,2025-04-18,445,Machine Failure,Yes
+1504,64,2025-11-28,355,Power Failure,No
+1505,74,2025-09-10,214,Maintenance,Yes
+1506,36,2025-03-21,179,Machine Failure,Yes
+1507,66,2025-12-30,330,Power Failure,Yes
+1508,17,2025-05-11,185,Machine Failure,Yes
+1509,21,2025-03-18,292,Machine Failure,Yes
+1510,9,2025-06-05,350,Operator Issue,Yes
+1511,5,2025-07-03,213,Machine Failure,No
+1512,29,2025-11-13,168,Maintenance,Yes
+1513,54,2025-10-15,272,Maintenance,Yes
+1514,59,2025-09-15,459,Power Failure,Yes
+1515,55,2025-03-27,122,Machine Failure,Yes
+1516,3,2025-01-29,143,Maintenance,Yes
+1517,56,2025-10-30,263,Power Failure,No
+1518,51,2025-10-05,195,Maintenance,Yes
+1519,56,2025-06-15,42,Operator Issue,Yes
+1520,11,2025-03-24,437,Power Failure,Yes
+1521,55,2025-09-05,402,Operator Issue,Yes
+1522,20,2025-02-15,256,Power Failure,Yes
+1523,64,2025-01-28,188,Power Failure,Yes
+1524,12,2025-04-28,271,Power Failure,No
+1525,60,2025-11-16,112,Machine Failure,Yes
+1526,53,2025-03-02,375,Maintenance,Yes
+1527,20,2025-10-26,281,Power Failure,Yes
+1528,45,2025-03-21,274,Machine Failure,Yes
+1529,32,2025-11-19,100,Operator Issue,Yes
+1530,40,2025-05-20,248,Operator Issue,No
+1531,42,2025-08-16,135,Maintenance,Yes
+1532,8,2025-10-05,158,Operator Issue,Yes
+1533,11,2025-12-06,326,Operator Issue,Yes
+1534,62,2025-03-22,431,Power Failure,Yes
+1535,29,2025-01-16,141,Operator Issue,Yes
+1536,47,2025-06-17,44,Machine Failure,Yes
+1537,21,2025-11-16,17,Operator Issue,Yes
+1538,4,2025-07-03,300,Operator Issue,No
+1539,44,2025-06-08,201,Material Shortage,Yes
+1540,54,2025-05-12,399,Machine Failure,Yes
+1541,19,2025-06-29,232,Machine Failure,Yes
+1542,1,2025-12-07,266,Material Shortage,Yes
+1543,27,2025-08-21,259,Maintenance,No
+1544,41,2025-11-25,246,Power Failure,Yes
+1545,45,2025-11-03,242,Power Failure,No
+1546,64,2025-03-08,350,Power Failure,Yes
+1547,66,2025-07-08,353,Material Shortage,Yes
+1548,6,2025-01-16,219,Maintenance,Yes
+1549,56,2025-11-12,230,Operator Issue,Yes
+1550,16,2025-11-16,111,Operator Issue,Yes
+1551,65,2025-12-08,370,Operator Issue,Yes
+1552,52,2025-06-22,103,Operator Issue,No
+1553,50,2025-09-20,385,Maintenance,Yes
+1554,53,2025-01-17,107,Power Failure,No
+1555,24,2025-12-12,150,Material Shortage,Yes
+1556,19,2025-10-13,226,Maintenance,Yes
+1557,72,2025-09-12,428,Material Shortage,Yes
+1558,18,2025-11-14,124,Material Shortage,Yes
+1559,61,2025-06-24,85,Material Shortage,Yes
+1560,59,2025-07-04,313,Operator Issue,No
+1561,51,2025-12-30,443,Machine Failure,No
+1562,58,2025-04-14,142,Power Failure,Yes
+1563,13,2025-07-20,471,Power Failure,No
+1564,13,2025-06-07,351,Machine Failure,Yes
+1565,48,2025-02-27,268,Material Shortage,No
+1566,39,2025-05-08,242,Material Shortage,Yes
+1567,73,2025-11-03,10,Machine Failure,Yes
+1568,57,2025-06-19,21,Maintenance,Yes
+1569,53,2025-02-03,108,Machine Failure,Yes
+1570,73,2025-07-11,231,Operator Issue,Yes
+1571,64,2025-12-17,93,Machine Failure,Yes
+1572,9,2025-09-15,127,Machine Failure,Yes
+1573,73,2025-02-07,31,Machine Failure,Yes
+1574,34,2025-02-18,365,Maintenance,Yes
+1575,20,2025-08-17,346,Power Failure,Yes
+1576,23,2025-11-15,455,Power Failure,No
+1577,68,2025-12-31,104,Operator Issue,No
+1578,22,2025-11-24,440,Machine Failure,Yes
+1579,13,2025-04-03,315,Machine Failure,No
+1580,69,2025-03-18,14,Material Shortage,Yes
+1581,22,2025-02-16,287,Operator Issue,Yes
+1582,33,2026-01-01,456,Machine Failure,Yes
+1583,49,2025-03-01,416,Power Failure,Yes
+1584,3,2025-08-16,41,Machine Failure,Yes
+1585,74,2025-04-29,298,Material Shortage,No
+1586,13,2025-06-15,193,Maintenance,No
+1587,60,2025-12-03,388,Machine Failure,Yes
+1588,52,2025-11-20,83,Power Failure,Yes
+1589,25,2025-08-08,387,Machine Failure,No
+1590,30,2025-06-25,43,Maintenance,Yes
+1591,40,2025-04-20,237,Material Shortage,Yes
+1592,35,2025-03-28,265,Machine Failure,No
+1593,45,2025-04-09,227,Power Failure,Yes
+1594,39,2025-01-22,58,Operator Issue,No
+1595,59,2025-03-03,268,Power Failure,Yes
+1596,15,2025-09-01,69,Material Shortage,Yes
+1597,64,2025-05-07,85,Operator Issue,Yes
+1598,6,2025-10-28,318,Material Shortage,Yes
+1599,8,2025-04-05,227,Material Shortage,No
+1600,28,2025-02-05,470,Material Shortage,Yes
+1601,53,2025-05-10,85,Power Failure,Yes
+1602,26,2025-06-30,71,Operator Issue,No
+1603,30,2025-03-09,93,Operator Issue,No
+1604,70,2025-12-20,81,Maintenance,Yes
+1605,36,2025-04-02,84,Material Shortage,Yes
+1606,14,2025-07-11,169,Power Failure,Yes
+1607,17,2025-12-02,108,Maintenance,Yes
+1608,15,2025-12-27,254,Maintenance,No
+1609,24,2025-08-16,287,Maintenance,Yes
+1610,42,2025-07-09,271,Material Shortage,Yes
+1611,59,2025-06-09,144,Power Failure,Yes
+1612,44,2025-10-22,309,Maintenance,Yes
+1613,58,2025-03-01,180,Machine Failure,No
+1614,69,2025-06-03,15,Maintenance,Yes
+1615,10,2025-06-11,24,Power Failure,Yes
+1616,12,2025-07-08,192,Power Failure,No
+1617,30,2025-02-06,86,Maintenance,Yes
+1618,40,2025-11-17,34,Maintenance,Yes
+1619,62,2025-08-10,115,Material Shortage,Yes
+1620,38,2025-03-02,85,Power Failure,Yes
+1621,28,2025-05-19,10,Power Failure,No
+1622,41,2025-04-10,131,Maintenance,Yes
+1623,54,2025-10-04,399,Maintenance,No
+1624,53,2025-04-01,153,Power Failure,Yes
+1625,45,2025-08-02,392,Power Failure,Yes
+1626,28,2025-07-31,199,Material Shortage,Yes
+1627,27,2025-08-26,398,Operator Issue,No
+1628,16,2025-09-24,176,Operator Issue,Yes
+1629,35,2025-10-24,209,Power Failure,No
+1630,71,2025-07-06,436,Machine Failure,Yes
+1631,20,2025-04-30,20,Material Shortage,No
+1632,53,2025-01-16,456,Machine Failure,No
+1633,65,2025-09-07,331,Operator Issue,Yes
+1634,69,2025-11-05,201,Machine Failure,No
+1635,74,2025-11-28,110,Power Failure,Yes
+1636,67,2025-07-30,351,Maintenance,Yes
+1637,8,2025-07-24,413,Machine Failure,No
+1638,61,2025-12-17,428,Operator Issue,No
+1639,37,2025-10-30,476,Maintenance,Yes
+1640,49,2025-07-26,344,Maintenance,Yes
+1641,59,2025-05-24,16,Power Failure,Yes
+1642,70,2025-03-29,386,Power Failure,Yes
+1643,48,2025-09-10,317,Maintenance,Yes
+1644,21,2025-05-26,418,Machine Failure,No
+1645,17,2025-12-31,325,Power Failure,No
+1646,26,2025-08-01,204,Maintenance,Yes
+1647,32,2025-01-01,48,Material Shortage,No
+1648,14,2025-02-23,259,Power Failure,Yes
+1649,12,2025-03-15,157,Operator Issue,No
+1650,55,2025-08-18,186,Power Failure,Yes
+1651,30,2025-01-01,100,Machine Failure,Yes
+1652,3,2025-08-09,218,Material Shortage,No
+1653,46,2025-12-09,359,Power Failure,No
+1654,49,2025-05-28,263,Machine Failure,Yes
+1655,64,2025-02-07,30,Power Failure,Yes
+1656,40,2025-04-30,171,Material Shortage,Yes
+1657,7,2025-02-07,118,Maintenance,No
+1658,40,2025-12-26,288,Power Failure,Yes
+1659,13,2025-05-23,195,Maintenance,No
+1660,21,2025-07-03,349,Operator Issue,Yes
+1661,55,2025-02-25,170,Machine Failure,Yes
+1662,51,2025-11-11,428,Material Shortage,No
+1663,63,2025-03-22,44,Material Shortage,No
+1664,74,2025-11-04,315,Machine Failure,No
+1665,53,2025-08-21,470,Operator Issue,No
+1666,52,2025-04-11,136,Maintenance,Yes
+1667,21,2025-01-24,298,Operator Issue,Yes
+1668,75,2025-11-24,55,Material Shortage,No
+1669,59,2025-04-20,129,Maintenance,Yes
+1670,45,2025-06-24,334,Power Failure,Yes
+1671,8,2025-07-03,343,Machine Failure,Yes
+1672,75,2025-11-27,298,Material Shortage,Yes
+1673,39,2025-05-14,205,Material Shortage,Yes
+1674,60,2025-10-07,61,Power Failure,Yes
+1675,74,2025-07-22,24,Maintenance,No
+1676,70,2025-06-16,146,Operator Issue,No
+1677,49,2025-10-06,165,Operator Issue,Yes
+1678,72,2025-08-06,457,Machine Failure,Yes
+1679,52,2025-08-23,197,Power Failure,No
+1680,28,2025-05-20,392,Machine Failure,No
+1681,3,2025-03-13,448,Machine Failure,No
+1682,18,2025-08-29,324,Maintenance,Yes
+1683,5,2025-09-29,423,Power Failure,No
+1684,70,2025-03-28,190,Power Failure,Yes
+1685,49,2025-05-15,375,Machine Failure,No
+1686,50,2025-09-23,336,Power Failure,Yes
+1687,62,2025-09-10,203,Operator Issue,Yes
+1688,11,2025-09-19,354,Material Shortage,Yes
+1689,46,2025-04-08,81,Power Failure,Yes
+1690,53,2025-05-02,158,Power Failure,Yes
+1691,3,2025-07-25,88,Material Shortage,No
+1692,53,2025-10-07,400,Operator Issue,Yes
+1693,38,2025-11-12,405,Maintenance,No
+1694,24,2025-02-17,480,Machine Failure,Yes
+1695,71,2025-08-02,209,Maintenance,Yes
+1696,40,2025-10-11,440,Power Failure,Yes
+1697,17,2025-02-07,103,Maintenance,Yes
+1698,37,2025-07-19,271,Maintenance,Yes
+1699,10,2025-08-24,236,Material Shortage,Yes
+1700,31,2025-12-29,365,Machine Failure,No
+1701,59,2025-08-04,316,Power Failure,No
+1702,17,2025-04-09,150,Power Failure,Yes
+1703,72,2025-11-28,42,Power Failure,Yes
+1704,11,2025-07-24,346,Power Failure,No
+1705,72,2025-02-15,14,Operator Issue,Yes
+1706,22,2025-11-17,271,Maintenance,No
+1707,63,2025-04-25,267,Maintenance,Yes
+1708,71,2025-08-23,29,Material Shortage,Yes
+1709,57,2025-01-03,133,Machine Failure,Yes
+1710,72,2025-05-28,108,Power Failure,Yes
+1711,21,2025-02-18,93,Machine Failure,Yes
+1712,63,2025-11-21,394,Power Failure,No
+1713,33,2025-02-01,466,Machine Failure,Yes
+1714,36,2025-08-20,431,Operator Issue,No
+1715,73,2025-04-29,108,Machine Failure,Yes
+1716,12,2025-01-09,333,Material Shortage,Yes
+1717,25,2025-09-19,479,Maintenance,Yes
+1718,15,2025-07-30,472,Material Shortage,Yes
+1719,44,2025-03-19,431,Machine Failure,No
+1720,2,2025-02-02,221,Operator Issue,No
+1721,65,2025-11-24,460,Material Shortage,Yes
+1722,8,2025-12-08,281,Operator Issue,Yes
+1723,28,2025-12-27,126,Operator Issue,No
+1724,62,2025-02-28,439,Maintenance,No
+1725,3,2025-07-23,326,Power Failure,Yes
+1726,11,2025-06-18,407,Material Shortage,No
+1727,2,2025-09-04,257,Material Shortage,Yes
+1728,41,2025-07-03,295,Material Shortage,Yes
+1729,71,2025-05-23,318,Power Failure,Yes
+1730,33,2025-05-04,281,Machine Failure,No
+1731,46,2025-01-03,142,Material Shortage,No
+1732,44,2025-07-05,100,Maintenance,Yes
+1733,49,2025-10-24,269,Operator Issue,No
+1734,5,2025-12-12,78,Machine Failure,Yes
+1735,56,2025-10-13,400,Maintenance,No
+1736,13,2025-07-28,315,Power Failure,Yes
+1737,15,2025-11-08,396,Material Shortage,Yes
+1738,64,2025-09-07,368,Operator Issue,Yes
+1739,43,2025-11-15,320,Power Failure,Yes
+1740,35,2025-07-09,164,Power Failure,Yes
+1741,42,2025-01-08,220,Machine Failure,No
+1742,55,2025-12-15,86,Power Failure,No
+1743,16,2025-02-10,378,Maintenance,Yes
+1744,32,2025-12-20,366,Operator Issue,Yes
+1745,55,2025-04-23,63,Operator Issue,No
+1746,43,2025-03-02,161,Operator Issue,No
+1747,16,2025-03-12,308,Power Failure,Yes
+1748,44,2025-09-21,86,Power Failure,No
+1749,18,2025-09-23,316,Operator Issue,No
+1750,74,2025-12-22,387,Power Failure,Yes
+1751,50,2025-03-26,376,Operator Issue,Yes
+1752,74,2025-02-20,285,Operator Issue,Yes
+1753,22,2025-07-04,232,Machine Failure,No
+1754,12,2025-02-05,275,Operator Issue,Yes
+1755,67,2025-09-08,17,Power Failure,No
+1756,31,2025-05-11,117,Operator Issue,Yes
+1757,8,2025-02-17,158,Material Shortage,Yes
+1758,63,2025-06-22,236,Material Shortage,Yes
+1759,2,2025-02-12,105,Machine Failure,Yes
+1760,5,2025-11-04,25,Machine Failure,No
+1761,9,2025-10-10,35,Power Failure,Yes
+1762,26,2025-07-21,198,Power Failure,No
+1763,25,2025-12-23,433,Maintenance,Yes
+1764,44,2025-12-10,94,Material Shortage,No
+1765,63,2025-07-07,86,Power Failure,Yes
+1766,66,2025-02-12,264,Machine Failure,No
+1767,31,2025-12-02,202,Maintenance,Yes
+1768,44,2025-08-22,248,Maintenance,Yes
+1769,43,2025-03-02,161,Machine Failure,Yes
+1770,75,2025-07-30,88,Maintenance,No
+1771,69,2025-06-30,149,Operator Issue,Yes
+1772,60,2025-12-27,158,Machine Failure,No
+1773,23,2025-08-06,356,Power Failure,No
+1774,18,2025-09-09,72,Machine Failure,No
+1775,72,2025-11-28,377,Operator Issue,No
+1776,48,2025-12-16,244,Power Failure,No
+1777,63,2025-11-13,333,Maintenance,No
+1778,65,2025-01-08,202,Power Failure,No
+1779,56,2025-06-23,212,Material Shortage,Yes
+1780,67,2025-10-05,424,Machine Failure,Yes
+1781,60,2025-10-06,54,Machine Failure,Yes
+1782,16,2025-10-29,170,Maintenance,Yes
+1783,45,2025-03-20,29,Power Failure,No
+1784,49,2025-09-19,292,Maintenance,Yes
+1785,55,2025-02-05,462,Operator Issue,Yes
+1786,60,2025-06-22,89,Maintenance,No
+1787,14,2025-09-19,245,Maintenance,No
+1788,55,2025-09-04,244,Maintenance,Yes
+1789,52,2025-08-24,79,Operator Issue,No
+1790,8,2025-05-08,11,Operator Issue,Yes
+1791,37,2025-09-23,478,Machine Failure,Yes
+1792,11,2025-01-16,283,Machine Failure,Yes
+1793,42,2025-11-21,221,Operator Issue,No
+1794,54,2025-07-15,324,Maintenance,Yes
+1795,38,2025-09-16,473,Operator Issue,Yes
+1796,73,2026-01-01,46,Operator Issue,Yes
+1797,61,2025-09-10,234,Machine Failure,No
+1798,44,2025-07-07,308,Material Shortage,Yes
+1799,61,2025-07-26,405,Maintenance,No
+1800,71,2025-06-16,405,Operator Issue,No
+1801,65,2025-07-31,173,Power Failure,No
+1802,73,2025-10-04,287,Power Failure,No
+1803,57,2025-11-22,103,Maintenance,No
+1804,50,2025-09-02,446,Operator Issue,Yes
+1805,20,2025-11-16,30,Power Failure,Yes
+1806,18,2025-11-30,74,Machine Failure,No
+1807,17,2025-10-24,191,Material Shortage,No
+1808,12,2025-06-05,416,Operator Issue,Yes
+1809,52,2025-05-27,68,Operator Issue,Yes
+1810,57,2025-04-27,307,Operator Issue,Yes
+1811,27,2025-10-08,12,Power Failure,No
+1812,38,2025-11-27,148,Operator Issue,No
+1813,16,2025-01-11,50,Operator Issue,No
+1814,15,2025-03-31,245,Operator Issue,Yes
+1815,34,2025-04-05,249,Material Shortage,Yes
+1816,22,2025-05-11,157,Power Failure,Yes
+1817,41,2025-11-19,26,Material Shortage,No
+1818,58,2025-01-27,170,Operator Issue,Yes
+1819,19,2025-09-15,217,Maintenance,Yes
+1820,16,2025-07-08,467,Maintenance,Yes
+1821,53,2025-08-16,196,Maintenance,Yes
+1822,54,2025-08-06,398,Operator Issue,No
+1823,36,2025-03-22,414,Maintenance,No
+1824,40,2025-12-07,282,Operator Issue,Yes
+1825,20,2025-05-02,189,Power Failure,No
+1826,11,2025-03-21,207,Machine Failure,No
+1827,32,2025-03-28,203,Maintenance,Yes
+1828,64,2025-02-06,114,Maintenance,No
+1829,73,2025-08-03,372,Maintenance,No
+1830,41,2025-09-05,465,Maintenance,No
+1831,33,2026-01-01,360,Power Failure,Yes
+1832,44,2025-12-09,429,Material Shortage,Yes
+1833,36,2025-07-13,181,Material Shortage,Yes
+1834,69,2025-01-11,178,Machine Failure,Yes
+1835,26,2025-12-30,428,Maintenance,No
+1836,62,2025-03-09,159,Machine Failure,Yes
+1837,66,2025-08-08,338,Power Failure,Yes
+1838,43,2025-06-22,144,Maintenance,Yes
+1839,39,2025-11-07,179,Material Shortage,Yes
+1840,43,2025-05-30,50,Maintenance,No
+1841,73,2025-04-26,83,Maintenance,Yes
+1842,57,2025-05-28,390,Maintenance,No
+1843,50,2025-02-03,238,Machine Failure,Yes
+1844,46,2025-01-01,429,Power Failure,Yes
+1845,38,2025-05-24,385,Operator Issue,Yes
+1846,31,2025-04-05,412,Machine Failure,Yes
+1847,4,2025-09-10,115,Power Failure,Yes
+1848,31,2025-02-17,107,Material Shortage,No
+1849,5,2025-07-04,414,Machine Failure,Yes
+1850,62,2025-07-27,303,Operator Issue,Yes
+1851,72,2025-03-11,412,Power Failure,Yes
+1852,7,2025-03-25,263,Power Failure,Yes
+1853,71,2025-02-27,49,Machine Failure,Yes
+1854,38,2025-05-05,311,Machine Failure,No
+1855,29,2025-08-10,387,Machine Failure,Yes
+1856,9,2025-02-12,461,Operator Issue,Yes
+1857,56,2025-09-19,398,Machine Failure,Yes
+1858,65,2025-10-20,146,Power Failure,Yes
+1859,10,2025-02-06,366,Maintenance,No
+1860,6,2025-11-22,43,Material Shortage,No
+1861,47,2025-05-18,187,Power Failure,Yes
+1862,3,2025-11-27,222,Maintenance,Yes
+1863,6,2025-11-11,86,Power Failure,No
+1864,25,2025-01-10,403,Material Shortage,No
+1865,66,2025-03-01,364,Material Shortage,Yes
+1866,71,2025-04-19,277,Power Failure,No
+1867,23,2025-07-18,351,Material Shortage,Yes
+1868,70,2025-04-09,464,Maintenance,Yes
+1869,54,2025-09-12,336,Operator Issue,No
+1870,50,2025-06-30,323,Power Failure,Yes
+1871,68,2025-01-10,239,Power Failure,Yes
+1872,45,2025-08-19,415,Power Failure,Yes
+1873,29,2025-11-26,422,Maintenance,Yes
+1874,33,2025-11-12,57,Power Failure,Yes
+1875,73,2025-07-23,185,Maintenance,No
+1876,69,2025-03-05,101,Maintenance,Yes
+1877,48,2025-11-15,429,Power Failure,No
+1878,49,2025-10-01,64,Power Failure,No
+1879,63,2025-09-11,192,Machine Failure,Yes
+1880,46,2025-02-04,60,Material Shortage,No
+1881,50,2025-11-30,68,Machine Failure,Yes
+1882,23,2025-10-26,309,Machine Failure,No
+1883,45,2025-06-17,308,Machine Failure,No
+1884,56,2025-12-07,185,Operator Issue,No
+1885,51,2025-04-30,367,Operator Issue,Yes
+1886,39,2025-01-10,57,Power Failure,Yes
+1887,6,2025-06-12,125,Operator Issue,Yes
+1888,63,2025-01-26,417,Power Failure,Yes
+1889,13,2025-02-23,450,Maintenance,Yes
+1890,30,2025-08-30,414,Power Failure,Yes
+1891,7,2025-10-22,285,Material Shortage,Yes
+1892,70,2025-05-11,129,Material Shortage,Yes
+1893,37,2025-06-22,148,Material Shortage,Yes
+1894,37,2025-09-05,102,Operator Issue,Yes
+1895,41,2025-10-21,110,Machine Failure,Yes
+1896,58,2025-10-30,73,Machine Failure,Yes
+1897,48,2025-09-07,240,Material Shortage,Yes
+1898,36,2025-03-08,130,Power Failure,No
+1899,20,2025-02-03,370,Maintenance,No
+1900,48,2025-01-29,18,Maintenance,No
+1901,30,2025-06-26,413,Machine Failure,Yes
+1902,30,2025-10-01,11,Power Failure,Yes
+1903,46,2025-08-24,101,Power Failure,Yes
+1904,40,2025-12-19,410,Machine Failure,No
+1905,23,2025-04-27,306,Power Failure,Yes
+1906,59,2025-03-20,416,Material Shortage,Yes
+1907,33,2025-10-11,368,Maintenance,No
+1908,33,2025-11-07,82,Machine Failure,Yes
+1909,29,2025-01-25,434,Machine Failure,No
+1910,37,2025-07-26,139,Machine Failure,No
+1911,36,2025-10-24,80,Maintenance,Yes
+1912,8,2025-03-30,357,Machine Failure,No
+1913,59,2025-07-29,182,Operator Issue,No
+1914,63,2025-02-01,68,Operator Issue,Yes
+1915,7,2025-01-10,10,Maintenance,Yes
+1916,34,2025-03-06,442,Operator Issue,Yes
+1917,72,2025-11-07,158,Power Failure,Yes
+1918,27,2025-03-03,149,Maintenance,Yes
+1919,49,2025-11-16,331,Operator Issue,No
+1920,24,2025-12-09,103,Machine Failure,No
+1921,62,2025-01-24,114,Material Shortage,No
+1922,61,2025-07-10,79,Machine Failure,Yes
+1923,39,2025-07-11,323,Material Shortage,Yes
+1924,27,2025-08-21,117,Machine Failure,Yes
+1925,75,2025-07-06,199,Operator Issue,Yes
+1926,56,2025-03-28,321,Machine Failure,Yes
+1927,33,2025-05-20,305,Maintenance,Yes
+1928,75,2025-12-22,337,Maintenance,Yes
+1929,63,2025-09-18,354,Maintenance,No
+1930,54,2025-06-16,10,Machine Failure,Yes
+1931,53,2025-01-19,154,Material Shortage,Yes
+1932,5,2025-12-21,155,Operator Issue,No
+1933,40,2025-01-17,400,Operator Issue,No
+1934,61,2025-06-14,63,Material Shortage,No
+1935,16,2025-04-30,171,Machine Failure,No
+1936,47,2025-11-14,477,Maintenance,No
+1937,32,2025-01-06,478,Operator Issue,No
+1938,27,2025-02-21,241,Maintenance,No
+1939,19,2025-11-06,72,Material Shortage,No
+1940,16,2025-01-29,417,Operator Issue,No
+1941,70,2025-10-23,369,Operator Issue,Yes
+1942,48,2025-12-23,129,Operator Issue,Yes
+1943,30,2025-03-27,183,Power Failure,Yes
+1944,1,2025-01-01,71,Operator Issue,Yes
+1945,49,2025-01-15,296,Material Shortage,Yes
+1946,71,2025-01-17,280,Maintenance,Yes
+1947,67,2025-12-23,58,Power Failure,No
+1948,69,2025-08-09,443,Machine Failure,Yes
+1949,63,2025-11-28,114,Material Shortage,Yes
+1950,10,2025-03-19,172,Machine Failure,No
+1951,36,2025-06-24,389,Material Shortage,Yes
+1952,38,2025-06-03,367,Power Failure,Yes
+1953,18,2025-08-24,423,Power Failure,Yes
+1954,1,2025-04-15,88,Machine Failure,Yes
+1955,13,2025-10-18,257,Maintenance,No
+1956,33,2025-09-17,50,Machine Failure,Yes
+1957,29,2025-08-19,193,Material Shortage,Yes
+1958,24,2025-06-25,470,Maintenance,Yes
+1959,48,2025-04-23,352,Power Failure,No
+1960,63,2025-05-20,348,Material Shortage,No
+1961,65,2025-06-12,345,Power Failure,No
+1962,7,2025-08-03,475,Maintenance,Yes
+1963,23,2025-07-01,466,Power Failure,Yes
+1964,32,2025-06-15,284,Operator Issue,No
+1965,14,2025-04-10,62,Material Shortage,Yes
+1966,22,2025-07-10,321,Power Failure,Yes
+1967,65,2025-02-23,373,Maintenance,Yes
+1968,74,2025-03-12,439,Maintenance,No
+1969,68,2025-08-15,242,Machine Failure,Yes
+1970,71,2025-02-24,424,Material Shortage,Yes
+1971,74,2025-03-12,355,Maintenance,Yes
+1972,47,2025-08-27,188,Machine Failure,No
+1973,19,2025-08-20,394,Machine Failure,No
+1974,7,2025-07-07,47,Maintenance,Yes
+1975,14,2025-04-28,366,Material Shortage,Yes
+1976,23,2025-03-30,438,Operator Issue,Yes
+1977,54,2025-05-04,66,Power Failure,No
+1978,56,2025-02-17,74,Machine Failure,Yes
+1979,49,2025-06-29,179,Maintenance,Yes
+1980,29,2025-05-22,28,Maintenance,Yes
+1981,60,2025-01-25,380,Material Shortage,Yes
+1982,44,2025-05-27,328,Material Shortage,Yes
+1983,31,2025-01-31,29,Power Failure,Yes
+1984,49,2025-10-02,325,Material Shortage,Yes
+1985,36,2025-03-19,27,Operator Issue,Yes
+1986,40,2025-07-18,279,Machine Failure,Yes
+1987,11,2025-11-22,13,Maintenance,Yes
+1988,51,2025-04-15,140,Machine Failure,Yes
+1989,8,2025-09-30,217,Material Shortage,No
+1990,19,2025-01-06,10,Operator Issue,No
+1991,68,2025-12-04,471,Machine Failure,Yes
+1992,56,2025-09-12,448,Machine Failure,No
+1993,39,2025-06-06,46,Maintenance,No
+1994,75,2025-06-13,224,Maintenance,Yes
+1995,71,2025-08-31,347,Power Failure,Yes
+1996,56,2025-07-08,413,Operator Issue,No
+1997,18,2025-11-22,365,Operator Issue,No
+1998,52,2025-02-23,401,Material Shortage,No
+1999,49,2025-02-04,226,Power Failure,No
+2000,31,2025-04-01,274,Operator Issue,Yes
+2001,3,2025-03-14,101,Material Shortage,Yes
+2002,38,2025-06-23,193,Material Shortage,Yes
+2003,38,2025-01-11,215,Operator Issue,Yes
+2004,48,2025-03-30,248,Operator Issue,Yes
+2005,68,2025-09-19,344,Machine Failure,No
+2006,51,2025-11-13,39,Maintenance,Yes
+2007,11,2025-06-11,161,Operator Issue,Yes
+2008,27,2025-04-04,67,Machine Failure,Yes
+2009,56,2025-10-03,246,Power Failure,Yes
+2010,71,2025-08-28,299,Maintenance,Yes
+2011,63,2025-08-28,229,Power Failure,Yes
+2012,6,2025-09-23,299,Power Failure,Yes
+2013,47,2025-10-20,39,Machine Failure,Yes
+2014,32,2025-09-02,287,Power Failure,No
+2015,35,2025-12-20,202,Operator Issue,No
+2016,26,2025-12-22,162,Power Failure,Yes
+2017,8,2025-07-11,43,Maintenance,Yes
+2018,67,2025-09-13,183,Maintenance,Yes
+2019,45,2025-03-17,14,Power Failure,Yes
+2020,49,2025-04-02,441,Material Shortage,Yes
+2021,10,2025-08-13,112,Machine Failure,Yes
+2022,27,2025-09-01,308,Material Shortage,Yes
+2023,57,2025-07-16,271,Machine Failure,Yes
+2024,42,2025-04-13,283,Power Failure,No
+2025,47,2025-01-19,41,Maintenance,No
+2026,16,2025-08-01,260,Operator Issue,Yes
+2027,13,2025-04-28,222,Operator Issue,Yes
+2028,14,2025-09-18,229,Maintenance,No
+2029,30,2025-01-14,217,Machine Failure,No
+2030,60,2025-06-15,240,Power Failure,No
+2031,43,2025-04-28,370,Power Failure,Yes
+2032,43,2025-01-05,41,Power Failure,Yes
+2033,39,2025-07-10,56,Machine Failure,No
+2034,48,2025-12-09,43,Material Shortage,No
+2035,36,2025-04-06,279,Operator Issue,Yes
+2036,10,2025-04-30,138,Material Shortage,Yes
+2037,55,2025-06-28,94,Machine Failure,No
+2038,23,2025-08-02,449,Maintenance,Yes
+2039,33,2025-11-18,134,Operator Issue,Yes
+2040,9,2025-05-01,253,Maintenance,Yes
+2041,43,2025-07-24,472,Material Shortage,Yes
+2042,47,2025-10-06,157,Power Failure,Yes
+2043,2,2025-09-18,250,Operator Issue,Yes
+2044,8,2025-07-30,126,Machine Failure,Yes
+2045,69,2025-01-02,343,Machine Failure,Yes
+2046,34,2025-06-02,196,Material Shortage,Yes
+2047,50,2025-03-14,458,Power Failure,Yes
+2048,72,2025-08-24,22,Operator Issue,Yes
+2049,49,2025-07-27,453,Operator Issue,No
+2050,20,2025-01-21,212,Operator Issue,Yes
+2051,61,2025-02-06,138,Machine Failure,No
+2052,3,2025-02-06,83,Operator Issue,Yes
+2053,1,2025-08-27,92,Operator Issue,Yes
+2054,7,2025-10-09,248,Machine Failure,Yes
+2055,1,2025-02-23,296,Power Failure,Yes
+2056,28,2025-04-30,278,Material Shortage,Yes
+2057,5,2025-12-29,222,Machine Failure,Yes
+2058,21,2025-03-15,403,Maintenance,Yes
+2059,28,2025-10-26,101,Power Failure,Yes
+2060,34,2025-10-05,338,Power Failure,Yes
+2061,46,2025-12-18,17,Maintenance,Yes
+2062,6,2025-04-27,473,Operator Issue,Yes
+2063,5,2025-07-09,392,Maintenance,No
+2064,71,2025-07-26,255,Maintenance,Yes
+2065,64,2025-07-21,157,Operator Issue,Yes
+2066,4,2025-04-08,182,Operator Issue,Yes
+2067,41,2025-08-01,282,Material Shortage,Yes
+2068,55,2025-09-14,188,Operator Issue,No
+2069,28,2025-03-16,295,Power Failure,Yes
+2070,16,2025-12-03,361,Power Failure,Yes
+2071,22,2025-01-20,469,Maintenance,Yes
+2072,3,2025-12-04,188,Operator Issue,Yes
+2073,18,2025-03-30,117,Machine Failure,Yes
+2074,75,2025-08-13,35,Power Failure,Yes
+2075,28,2025-09-18,114,Power Failure,Yes
+2076,18,2025-08-14,403,Machine Failure,Yes
+2077,70,2025-03-20,469,Material Shortage,No
+2078,12,2025-03-10,367,Operator Issue,Yes
+2079,10,2025-10-16,392,Material Shortage,Yes
+2080,39,2025-02-04,406,Material Shortage,Yes
+2081,44,2025-12-13,464,Material Shortage,Yes
+2082,8,2025-06-21,93,Material Shortage,No
+2083,73,2025-07-03,35,Operator Issue,Yes
+2084,25,2025-01-29,178,Machine Failure,Yes
+2085,44,2025-03-14,312,Machine Failure,Yes
+2086,57,2025-06-19,344,Material Shortage,No
+2087,73,2025-05-22,231,Power Failure,No
+2088,32,2025-07-25,51,Power Failure,Yes
+2089,7,2025-04-30,206,Power Failure,No
+2090,17,2025-08-04,371,Machine Failure,Yes
+2091,11,2025-08-27,472,Power Failure,Yes
+2092,8,2025-07-09,413,Material Shortage,Yes
+2093,68,2025-03-29,411,Maintenance,No
+2094,42,2025-07-21,120,Power Failure,Yes
+2095,11,2025-02-07,84,Power Failure,Yes
+2096,48,2025-09-22,326,Power Failure,Yes
+2097,34,2025-08-12,363,Maintenance,Yes
+2098,21,2025-09-18,172,Power Failure,No
+2099,65,2025-09-24,87,Power Failure,No
+2100,71,2025-12-13,39,Power Failure,Yes
+2101,62,2025-09-16,215,Maintenance,No
+2102,64,2025-02-04,368,Power Failure,Yes
+2103,60,2025-01-10,131,Machine Failure,Yes
+2104,6,2025-09-09,258,Power Failure,Yes
+2105,52,2025-01-23,118,Material Shortage,Yes
+2106,22,2025-02-08,369,Operator Issue,Yes
+2107,36,2025-04-13,455,Machine Failure,Yes
+2108,49,2025-03-27,96,Operator Issue,Yes
+2109,11,2025-06-11,478,Power Failure,No
+2110,6,2025-02-26,401,Operator Issue,Yes
+2111,40,2025-08-03,478,Machine Failure,Yes
+2112,37,2025-11-26,333,Maintenance,No
+2113,75,2025-12-11,361,Maintenance,Yes
+2114,69,2025-03-06,443,Power Failure,Yes
+2115,35,2025-02-15,61,Material Shortage,No
+2116,28,2025-02-20,332,Operator Issue,Yes
+2117,3,2025-07-20,345,Material Shortage,Yes
+2118,12,2025-03-05,465,Power Failure,Yes
+2119,52,2025-02-18,31,Power Failure,No
+2120,22,2025-11-04,402,Operator Issue,No
+2121,7,2025-09-20,270,Maintenance,Yes
+2122,10,2025-05-25,442,Maintenance,No
+2123,31,2025-09-13,204,Machine Failure,Yes
+2124,35,2025-12-16,265,Machine Failure,Yes
+2125,58,2025-09-21,436,Machine Failure,Yes
+2126,24,2025-01-15,319,Operator Issue,Yes
+2127,48,2025-11-27,68,Machine Failure,Yes
+2128,51,2025-09-15,469,Material Shortage,Yes
+2129,22,2025-06-07,403,Machine Failure,Yes
+2130,35,2025-07-28,66,Material Shortage,No
+2131,68,2025-02-24,400,Operator Issue,Yes
+2132,28,2025-06-28,190,Operator Issue,Yes
+2133,35,2025-11-25,289,Operator Issue,Yes
+2134,17,2025-09-03,241,Power Failure,No
+2135,73,2025-02-05,328,Machine Failure,No
+2136,35,2025-09-06,213,Maintenance,No
+2137,28,2025-03-09,343,Material Shortage,Yes
+2138,55,2025-02-21,223,Power Failure,Yes
+2139,50,2025-06-13,336,Operator Issue,Yes
+2140,4,2025-11-22,163,Operator Issue,Yes
+2141,52,2025-06-20,343,Maintenance,Yes
+2142,48,2025-06-07,19,Maintenance,No
+2143,46,2025-01-06,58,Machine Failure,Yes
+2144,66,2025-06-01,136,Operator Issue,Yes
+2145,7,2025-07-17,392,Operator Issue,Yes
+2146,24,2025-09-17,431,Machine Failure,Yes
+2147,20,2025-08-12,385,Operator Issue,No
+2148,57,2025-12-08,23,Operator Issue,Yes
+2149,64,2025-09-15,460,Maintenance,Yes
+2150,2,2025-10-26,34,Machine Failure,Yes
+2151,26,2025-10-07,361,Maintenance,No
+2152,64,2025-05-09,118,Maintenance,Yes
+2153,59,2025-10-19,398,Maintenance,Yes
+2154,21,2025-07-28,421,Material Shortage,Yes
+2155,12,2025-08-25,377,Material Shortage,No
+2156,66,2025-02-25,351,Maintenance,Yes
+2157,22,2025-07-31,33,Power Failure,Yes
+2158,21,2025-06-01,406,Material Shortage,Yes
+2159,60,2025-01-17,384,Machine Failure,Yes
+2160,57,2025-09-29,449,Operator Issue,Yes
+2161,60,2025-05-09,251,Material Shortage,Yes
+2162,4,2025-05-17,60,Machine Failure,No
+2163,24,2025-10-13,414,Material Shortage,Yes
+2164,49,2025-05-16,439,Machine Failure,Yes
+2165,64,2025-07-05,156,Power Failure,No
+2166,1,2025-06-18,458,Machine Failure,Yes
+2167,47,2025-06-20,68,Machine Failure,Yes
+2168,16,2025-05-11,417,Power Failure,Yes
+2169,5,2025-08-06,398,Material Shortage,Yes
+2170,19,2025-03-13,460,Machine Failure,Yes
+2171,65,2025-02-25,225,Operator Issue,No
+2172,62,2025-10-30,275,Power Failure,Yes
+2173,3,2025-05-13,375,Machine Failure,Yes
+2174,37,2025-09-20,431,Power Failure,Yes
+2175,11,2025-09-21,408,Machine Failure,Yes
+2176,53,2025-10-20,163,Operator Issue,No
+2177,51,2025-01-13,31,Machine Failure,Yes
+2178,26,2025-03-23,139,Maintenance,Yes
+2179,47,2025-05-30,305,Power Failure,Yes
+2180,72,2025-07-23,384,Power Failure,No
+2181,13,2025-12-03,386,Operator Issue,No
+2182,27,2025-04-18,173,Machine Failure,Yes
+2183,7,2025-03-05,267,Power Failure,Yes
+2184,71,2025-01-10,285,Operator Issue,Yes
+2185,32,2025-03-09,312,Machine Failure,Yes
+2186,27,2025-10-28,383,Maintenance,Yes
+2187,5,2025-04-20,443,Material Shortage,No
+2188,1,2025-01-10,104,Machine Failure,Yes
+2189,19,2025-11-20,43,Operator Issue,No
+2190,35,2025-05-05,60,Power Failure,Yes
+2191,65,2025-06-30,302,Material Shortage,Yes
+2192,30,2025-01-21,33,Maintenance,Yes
+2193,51,2025-05-26,436,Machine Failure,Yes
+2194,11,2025-06-21,261,Operator Issue,No
+2195,60,2025-05-24,119,Operator Issue,Yes
+2196,55,2025-10-16,294,Power Failure,Yes
+2197,40,2025-09-16,361,Machine Failure,Yes
+2198,43,2025-12-28,265,Machine Failure,Yes
+2199,15,2025-09-05,378,Power Failure,Yes
+2200,57,2025-08-06,318,Maintenance,Yes
+2201,4,2025-04-01,13,Machine Failure,Yes
+2202,51,2025-01-07,176,Power Failure,No
+2203,19,2025-10-23,436,Operator Issue,Yes
+2204,75,2025-04-10,39,Operator Issue,Yes
+2205,50,2025-04-14,440,Machine Failure,Yes
+2206,59,2025-10-13,63,Machine Failure,No
+2207,51,2025-07-23,192,Power Failure,Yes
+2208,13,2025-12-12,399,Machine Failure,No
+2209,40,2025-08-18,169,Operator Issue,No
+2210,56,2025-04-28,123,Operator Issue,Yes
+2211,20,2025-02-13,99,Maintenance,No
+2212,64,2025-07-31,356,Machine Failure,Yes
+2213,75,2025-07-30,67,Maintenance,No
+2214,15,2025-02-03,394,Maintenance,Yes
+2215,37,2025-01-06,151,Operator Issue,Yes
+2216,13,2025-12-03,235,Operator Issue,Yes
+2217,71,2025-11-23,292,Material Shortage,Yes
+2218,46,2025-01-07,359,Machine Failure,No
+2219,38,2025-03-23,206,Operator Issue,Yes
+2220,46,2025-09-30,190,Machine Failure,No
+2221,4,2025-01-22,324,Operator Issue,Yes
+2222,11,2025-07-12,431,Power Failure,Yes
+2223,26,2025-06-13,158,Material Shortage,Yes
+2224,10,2025-07-08,155,Material Shortage,No
+2225,69,2025-03-07,165,Material Shortage,No
+2226,37,2025-06-22,92,Maintenance,No
+2227,69,2025-03-11,248,Maintenance,No
+2228,36,2025-07-20,246,Machine Failure,Yes
+2229,59,2025-09-13,458,Material Shortage,Yes
+2230,54,2025-11-23,403,Maintenance,No
+2231,51,2025-06-28,420,Machine Failure,Yes
+2232,44,2025-02-08,45,Machine Failure,Yes
+2233,21,2025-05-07,142,Operator Issue,Yes
+2234,22,2025-12-01,465,Maintenance,No
+2235,32,2025-06-30,317,Power Failure,Yes
+2236,46,2025-09-20,247,Material Shortage,Yes
+2237,36,2025-05-25,22,Power Failure,Yes
+2238,11,2025-02-27,29,Power Failure,No
+2239,22,2025-08-04,302,Machine Failure,Yes
+2240,2,2025-01-25,343,Operator Issue,Yes
+2241,39,2025-03-09,307,Operator Issue,Yes
+2242,36,2025-03-17,144,Power Failure,Yes
+2243,62,2025-08-09,391,Operator Issue,Yes
+2244,15,2025-03-23,231,Operator Issue,Yes
+2245,22,2025-06-20,63,Operator Issue,No
+2246,36,2025-09-30,391,Power Failure,Yes
+2247,26,2025-05-20,417,Power Failure,Yes
+2248,16,2025-09-02,449,Material Shortage,Yes
+2249,48,2025-10-31,212,Power Failure,No
+2250,31,2025-10-27,309,Material Shortage,Yes
+2251,21,2025-04-12,276,Maintenance,Yes
+2252,60,2025-12-08,225,Maintenance,No
+2253,59,2025-01-19,133,Material Shortage,Yes
+2254,5,2025-01-27,307,Maintenance,Yes
+2255,3,2025-03-02,332,Machine Failure,No
+2256,30,2025-02-06,478,Operator Issue,Yes
+2257,60,2025-04-13,133,Power Failure,No
+2258,62,2025-10-20,334,Machine Failure,No
+2259,10,2025-07-21,433,Power Failure,No
+2260,37,2025-10-20,351,Maintenance,Yes
+2261,51,2025-08-02,414,Material Shortage,Yes
+2262,4,2025-02-21,349,Power Failure,Yes
+2263,56,2025-04-27,123,Maintenance,Yes
+2264,59,2025-09-13,343,Machine Failure,Yes
+2265,67,2025-01-22,353,Maintenance,Yes
+2266,33,2025-09-24,430,Power Failure,Yes
+2267,34,2025-10-25,347,Operator Issue,Yes
+2268,43,2025-06-04,226,Machine Failure,Yes
+2269,39,2025-12-14,258,Machine Failure,Yes
+2270,9,2025-01-12,193,Maintenance,Yes
+2271,73,2025-06-14,269,Power Failure,Yes
+2272,58,2025-06-29,312,Machine Failure,Yes
+2273,42,2025-07-11,417,Material Shortage,Yes
+2274,72,2025-07-15,294,Machine Failure,Yes
+2275,70,2025-05-21,343,Material Shortage,No
+2276,39,2025-04-21,42,Maintenance,No
+2277,74,2025-07-15,109,Material Shortage,Yes
+2278,40,2025-09-27,167,Power Failure,Yes
+2279,65,2025-03-25,339,Operator Issue,Yes
+2280,68,2025-04-09,126,Material Shortage,Yes
+2281,67,2025-11-20,193,Machine Failure,No
+2282,28,2025-08-31,166,Material Shortage,No
+2283,44,2025-07-01,148,Operator Issue,No
+2284,21,2025-04-23,385,Maintenance,Yes
+2285,17,2025-10-23,37,Operator Issue,Yes
+2286,4,2025-08-01,385,Material Shortage,Yes
+2287,62,2025-10-18,70,Power Failure,Yes
+2288,48,2025-02-26,304,Material Shortage,Yes
+2289,59,2025-04-17,446,Operator Issue,Yes
+2290,1,2026-01-01,469,Power Failure,Yes
+2291,10,2025-03-30,354,Machine Failure,No
+2292,73,2025-05-11,105,Power Failure,Yes
+2293,49,2025-10-26,322,Material Shortage,No
+2294,19,2025-04-15,390,Maintenance,No
+2295,16,2025-09-10,280,Machine Failure,No
+2296,46,2025-03-03,229,Power Failure,Yes
+2297,15,2025-07-02,37,Material Shortage,Yes
+2298,59,2025-03-30,158,Operator Issue,No
+2299,75,2025-05-27,375,Material Shortage,Yes
+2300,50,2025-04-09,259,Power Failure,Yes
+2301,37,2025-07-23,307,Maintenance,No
+2302,38,2025-02-09,217,Machine Failure,No
+2303,56,2025-08-24,353,Material Shortage,No
+2304,13,2025-09-09,478,Power Failure,No
+2305,2,2025-11-18,327,Material Shortage,Yes
+2306,69,2025-08-27,72,Operator Issue,No
+2307,11,2025-12-22,138,Maintenance,Yes
+2308,50,2025-03-18,132,Operator Issue,Yes
+2309,38,2025-02-11,397,Material Shortage,Yes
+2310,63,2025-12-14,144,Maintenance,Yes
+2311,35,2025-09-13,87,Material Shortage,Yes
+2312,46,2025-06-28,234,Power Failure,Yes
+2313,20,2025-06-04,170,Power Failure,No
+2314,29,2025-12-21,371,Machine Failure,Yes
+2315,54,2025-04-08,300,Power Failure,Yes
+2316,2,2025-05-19,454,Maintenance,Yes
+2317,10,2025-02-07,146,Material Shortage,No
+2318,21,2025-12-15,475,Maintenance,No
+2319,31,2025-11-20,173,Material Shortage,Yes
+2320,23,2025-02-07,143,Material Shortage,Yes
+2321,9,2025-11-19,443,Material Shortage,Yes
+2322,56,2025-05-23,12,Operator Issue,Yes
+2323,16,2025-09-20,216,Material Shortage,Yes
+2324,38,2025-12-14,393,Power Failure,No
+2325,41,2025-05-14,12,Maintenance,No
+2326,30,2025-01-17,410,Power Failure,No
+2327,4,2026-01-01,52,Machine Failure,No
+2328,48,2025-11-23,259,Maintenance,Yes
+2329,46,2025-02-19,445,Maintenance,No
+2330,65,2025-09-07,125,Operator Issue,Yes
+2331,74,2025-03-31,123,Material Shortage,No
+2332,42,2025-05-10,179,Machine Failure,Yes
+2333,28,2025-08-21,77,Material Shortage,Yes
+2334,60,2025-04-07,76,Operator Issue,Yes
+2335,18,2025-03-01,426,Maintenance,Yes
+2336,33,2025-09-27,258,Maintenance,Yes
+2337,24,2025-06-14,417,Machine Failure,Yes
+2338,18,2025-10-26,261,Operator Issue,Yes
+2339,64,2025-12-21,431,Machine Failure,No
+2340,37,2025-05-26,444,Material Shortage,Yes
+2341,65,2025-02-28,244,Machine Failure,No
+2342,21,2025-10-18,136,Machine Failure,Yes
+2343,38,2025-12-07,428,Machine Failure,Yes
+2344,50,2025-05-30,205,Power Failure,Yes
+2345,23,2025-01-08,61,Machine Failure,Yes
+2346,28,2025-08-10,147,Maintenance,No
+2347,29,2025-12-05,346,Maintenance,Yes
+2348,39,2025-05-15,200,Machine Failure,No
+2349,53,2025-12-24,370,Material Shortage,Yes
+2350,47,2025-02-25,361,Maintenance,Yes
+2351,39,2025-06-13,292,Power Failure,Yes
+2352,23,2025-02-19,205,Material Shortage,No
+2353,29,2025-05-02,140,Material Shortage,Yes
+2354,8,2025-05-05,78,Machine Failure,Yes
+2355,48,2025-04-16,124,Machine Failure,Yes
+2356,15,2025-10-02,397,Maintenance,No
+2357,51,2025-05-22,221,Material Shortage,Yes
+2358,51,2025-12-21,239,Machine Failure,No
+2359,21,2025-09-30,258,Maintenance,No
+2360,8,2025-08-03,101,Material Shortage,Yes
+2361,55,2025-08-16,164,Material Shortage,Yes
+2362,27,2025-03-27,302,Power Failure,Yes
+2363,31,2025-04-15,446,Operator Issue,Yes
+2364,12,2025-01-22,317,Operator Issue,No
+2365,19,2025-01-07,344,Material Shortage,No
+2366,7,2025-03-02,421,Machine Failure,No
+2367,19,2025-03-15,11,Power Failure,No
+2368,23,2025-04-20,305,Power Failure,Yes
+2369,36,2025-07-04,419,Maintenance,Yes
+2370,25,2025-02-04,296,Operator Issue,No
+2371,56,2025-12-31,125,Power Failure,No
+2372,54,2025-07-07,277,Machine Failure,Yes
+2373,7,2025-02-20,18,Power Failure,No
+2374,20,2025-09-03,264,Maintenance,Yes
+2375,19,2025-02-11,185,Operator Issue,No
+2376,38,2025-05-18,469,Material Shortage,Yes
+2377,24,2025-10-07,437,Machine Failure,Yes
+2378,62,2025-10-26,352,Operator Issue,No
+2379,3,2025-08-30,397,Operator Issue,No
+2380,75,2025-06-25,54,Material Shortage,Yes
+2381,31,2025-05-06,216,Power Failure,Yes
+2382,42,2025-05-13,244,Operator Issue,No
+2383,14,2025-07-02,213,Operator Issue,Yes
+2384,59,2025-03-31,127,Power Failure,Yes
+2385,46,2025-01-12,175,Material Shortage,No
+2386,55,2025-04-05,427,Maintenance,Yes
+2387,56,2025-02-23,162,Maintenance,Yes
+2388,58,2025-05-09,61,Maintenance,Yes
+2389,10,2025-04-05,102,Operator Issue,No
+2390,33,2025-09-29,274,Maintenance,Yes
+2391,65,2025-12-03,127,Maintenance,Yes
+2392,31,2025-12-12,34,Power Failure,Yes
+2393,16,2025-07-27,102,Maintenance,No
+2394,59,2025-08-14,412,Power Failure,Yes
+2395,69,2025-12-04,260,Machine Failure,Yes
+2396,30,2025-04-23,337,Operator Issue,No
+2397,43,2025-01-21,271,Machine Failure,Yes
+2398,31,2025-02-19,233,Maintenance,Yes
+2399,19,2025-02-09,31,Material Shortage,Yes
+2400,14,2025-01-10,199,Material Shortage,Yes
+2401,69,2025-11-22,77,Power Failure,Yes
+2402,67,2025-09-08,444,Maintenance,No
+2403,63,2025-06-08,121,Power Failure,Yes
+2404,24,2025-12-20,358,Machine Failure,No
+2405,69,2025-05-23,187,Power Failure,Yes
+2406,33,2025-06-15,218,Machine Failure,No
+2407,26,2025-10-12,87,Machine Failure,Yes
+2408,22,2025-06-19,28,Operator Issue,Yes
+2409,72,2025-08-31,220,Material Shortage,No
+2410,64,2025-02-01,13,Operator Issue,Yes
+2411,53,2025-12-30,230,Operator Issue,No
+2412,33,2025-06-28,335,Operator Issue,No
+2413,57,2025-05-02,348,Operator Issue,Yes
+2414,65,2025-05-31,238,Machine Failure,Yes
+2415,69,2025-02-14,287,Machine Failure,Yes
+2416,4,2025-06-09,96,Maintenance,Yes
+2417,69,2025-02-28,238,Material Shortage,No
+2418,56,2025-03-28,400,Maintenance,Yes
+2419,58,2025-01-16,443,Material Shortage,No
+2420,26,2025-01-31,89,Power Failure,Yes
+2421,62,2025-07-28,85,Machine Failure,Yes
+2422,45,2025-07-08,282,Material Shortage,Yes
+2423,61,2025-07-10,93,Maintenance,No
+2424,73,2025-01-05,431,Material Shortage,Yes
+2425,55,2025-06-20,270,Machine Failure,Yes
+2426,28,2025-11-02,364,Machine Failure,Yes
+2427,4,2025-06-30,370,Power Failure,Yes
+2428,36,2025-06-12,10,Material Shortage,Yes
+2429,2,2025-09-19,127,Material Shortage,Yes
+2430,65,2025-02-08,413,Operator Issue,Yes
+2431,42,2025-09-30,280,Power Failure,Yes
+2432,9,2025-03-19,319,Operator Issue,No
+2433,36,2025-07-26,94,Operator Issue,No
+2434,74,2025-10-09,243,Maintenance,Yes
+2435,58,2025-03-03,267,Operator Issue,No
+2436,39,2025-02-21,421,Machine Failure,Yes
+2437,30,2025-10-18,104,Machine Failure,Yes
+2438,2,2025-02-24,109,Machine Failure,Yes
+2439,27,2025-04-08,51,Operator Issue,Yes
+2440,72,2025-01-18,142,Operator Issue,Yes
+2441,40,2025-03-18,70,Power Failure,No
+2442,73,2025-07-12,340,Machine Failure,No
+2443,71,2025-10-27,204,Operator Issue,Yes
+2444,20,2025-06-30,433,Operator Issue,Yes
+2445,60,2025-03-23,264,Material Shortage,No
+2446,27,2025-11-29,429,Maintenance,No
+2447,52,2025-01-16,123,Machine Failure,Yes
+2448,35,2025-11-23,420,Power Failure,No
+2449,65,2025-11-23,233,Machine Failure,No
+2450,48,2025-07-22,300,Power Failure,Yes
+2451,43,2025-12-16,58,Power Failure,Yes
+2452,18,2025-12-18,212,Operator Issue,No
+2453,11,2025-06-15,117,Machine Failure,No
+2454,42,2025-01-31,249,Power Failure,No
+2455,64,2025-01-19,294,Maintenance,No
+2456,32,2025-06-11,130,Power Failure,Yes
+2457,48,2025-08-25,409,Maintenance,Yes
+2458,9,2025-02-07,97,Maintenance,Yes
+2459,26,2025-09-17,163,Machine Failure,Yes
+2460,41,2025-09-25,374,Machine Failure,Yes
+2461,15,2025-07-23,82,Machine Failure,No
+2462,39,2026-01-01,164,Maintenance,Yes
+2463,54,2025-01-12,125,Maintenance,Yes
+2464,14,2025-02-19,327,Operator Issue,Yes
+2465,67,2025-01-14,84,Operator Issue,Yes
+2466,15,2025-08-18,468,Material Shortage,No
+2467,26,2025-03-06,375,Maintenance,No
+2468,49,2025-02-05,159,Operator Issue,No
+2469,23,2025-12-28,310,Maintenance,Yes
+2470,13,2025-10-14,298,Operator Issue,Yes
+2471,8,2025-11-12,89,Power Failure,Yes
+2472,19,2025-07-03,19,Material Shortage,Yes
+2473,35,2025-03-05,216,Machine Failure,No
+2474,58,2025-08-06,447,Power Failure,Yes
+2475,3,2025-08-18,302,Power Failure,Yes
+2476,22,2025-03-17,146,Operator Issue,Yes
+2477,1,2025-12-08,474,Maintenance,Yes
+2478,19,2025-01-26,372,Material Shortage,Yes
+2479,45,2025-05-21,351,Material Shortage,Yes
+2480,55,2025-06-20,138,Operator Issue,Yes
+2481,70,2025-02-10,306,Power Failure,Yes
+2482,18,2025-07-31,375,Machine Failure,Yes
+2483,34,2025-02-22,78,Power Failure,Yes
+2484,21,2025-08-10,39,Material Shortage,No
+2485,74,2025-08-13,37,Machine Failure,No
+2486,66,2025-03-15,474,Power Failure,Yes
+2487,71,2025-01-04,41,Material Shortage,Yes
+2488,18,2025-04-23,330,Power Failure,No
+2489,62,2025-02-07,194,Power Failure,Yes
+2490,18,2025-07-29,243,Operator Issue,Yes
+2491,17,2025-04-24,408,Operator Issue,Yes
+2492,62,2025-03-31,406,Material Shortage,Yes
+2493,18,2025-08-18,170,Machine Failure,Yes
+2494,63,2025-07-09,221,Maintenance,No
+2495,73,2025-07-23,325,Material Shortage,Yes
+2496,35,2025-08-13,350,Machine Failure,No
+2497,70,2025-05-18,288,Machine Failure,Yes
+2498,64,2025-11-07,344,Maintenance,No
+2499,73,2025-08-03,50,Material Shortage,Yes
+2500,43,2025-01-24,221,Power Failure,Yes
+2501,72,2025-11-27,59,Material Shortage,No
+2502,42,2025-06-06,63,Power Failure,No
+2503,67,2025-01-13,254,Material Shortage,No
+2504,64,2025-08-16,22,Power Failure,Yes
+2505,56,2025-07-10,110,Power Failure,Yes
+2506,35,2025-07-23,16,Material Shortage,Yes
+2507,46,2025-01-22,143,Operator Issue,Yes
+2508,47,2025-11-25,105,Material Shortage,No
+2509,13,2025-01-27,399,Machine Failure,Yes
+2510,60,2025-11-03,447,Power Failure,No
+2511,73,2025-03-21,396,Operator Issue,No
+2512,54,2025-12-08,457,Machine Failure,No
+2513,41,2025-03-08,329,Power Failure,Yes
+2514,54,2025-11-06,126,Maintenance,Yes
+2515,27,2025-11-21,267,Operator Issue,No
+2516,45,2025-10-29,66,Power Failure,Yes
+2517,57,2025-01-11,177,Machine Failure,Yes
+2518,67,2025-10-14,345,Operator Issue,Yes
+2519,30,2025-10-26,122,Machine Failure,No
+2520,2,2025-03-14,426,Machine Failure,No
+2521,44,2025-11-24,68,Material Shortage,No
+2522,60,2025-03-23,39,Power Failure,No
+2523,35,2025-01-30,21,Power Failure,No
+2524,71,2025-01-04,310,Operator Issue,Yes
+2525,17,2025-05-01,408,Material Shortage,Yes
+2526,56,2025-11-24,259,Power Failure,Yes
+2527,45,2025-06-21,54,Machine Failure,No
+2528,46,2025-10-24,374,Material Shortage,No
+2529,48,2025-04-16,418,Machine Failure,No
+2530,63,2025-07-09,342,Maintenance,Yes
+2531,46,2025-07-21,88,Power Failure,Yes
+2532,73,2025-12-23,397,Material Shortage,Yes
+2533,47,2025-07-19,412,Material Shortage,Yes
+2534,46,2025-10-10,96,Maintenance,Yes
+2535,61,2025-10-28,45,Machine Failure,Yes
+2536,65,2025-01-14,363,Machine Failure,Yes
+2537,75,2025-06-25,314,Maintenance,Yes
+2538,2,2025-04-11,124,Operator Issue,Yes
+2539,67,2025-11-13,216,Power Failure,Yes
+2540,28,2025-03-21,168,Power Failure,Yes
+2541,18,2025-09-24,436,Machine Failure,Yes
+2542,37,2025-12-17,288,Machine Failure,No
+2543,18,2025-07-13,144,Power Failure,Yes
+2544,25,2025-05-21,154,Material Shortage,No
+2545,16,2025-09-24,231,Material Shortage,No
+2546,34,2025-04-06,205,Maintenance,No
+2547,56,2025-03-26,196,Material Shortage,No
+2548,36,2025-09-03,319,Machine Failure,Yes
+2549,73,2025-05-06,396,Maintenance,No
+2550,8,2025-05-27,162,Machine Failure,No
+2551,28,2025-03-09,212,Operator Issue,No
+2552,6,2025-07-01,335,Power Failure,Yes
+2553,27,2025-08-22,202,Power Failure,No
+2554,66,2025-09-23,161,Operator Issue,Yes
+2555,62,2025-09-05,62,Power Failure,No
+2556,33,2025-02-16,437,Machine Failure,Yes
+2557,45,2025-08-25,367,Machine Failure,Yes
+2558,3,2025-02-21,33,Material Shortage,Yes
+2559,8,2025-03-31,480,Maintenance,No
+2560,46,2025-03-05,286,Maintenance,Yes
+2561,10,2025-01-24,197,Power Failure,No
+2562,29,2025-09-17,189,Operator Issue,Yes
+2563,51,2025-01-02,396,Material Shortage,Yes
+2564,66,2025-10-24,441,Power Failure,Yes
+2565,44,2025-02-11,68,Maintenance,Yes
+2566,65,2025-10-18,133,Material Shortage,No
+2567,74,2025-02-28,105,Operator Issue,Yes
+2568,39,2025-10-01,303,Material Shortage,No
+2569,8,2025-01-01,371,Power Failure,Yes
+2570,56,2025-10-28,396,Machine Failure,Yes
+2571,10,2025-07-31,18,Maintenance,Yes
+2572,65,2025-02-27,142,Material Shortage,Yes
+2573,35,2025-01-30,419,Machine Failure,Yes
+2574,18,2025-07-25,266,Machine Failure,Yes
+2575,26,2025-06-29,379,Power Failure,Yes
+2576,68,2025-01-19,78,Power Failure,Yes
+2577,14,2025-12-09,216,Operator Issue,Yes
+2578,66,2025-10-17,194,Machine Failure,Yes
+2579,42,2025-04-14,96,Material Shortage,Yes
+2580,67,2025-09-09,457,Material Shortage,Yes
+2581,61,2025-11-07,369,Operator Issue,No
+2582,53,2025-05-20,111,Machine Failure,No
+2583,64,2025-11-22,356,Power Failure,No
+2584,16,2025-05-07,348,Machine Failure,Yes
+2585,24,2025-11-26,378,Material Shortage,Yes
+2586,75,2025-12-20,205,Material Shortage,No
+2587,17,2025-11-14,331,Operator Issue,Yes
+2588,59,2025-03-10,478,Operator Issue,Yes
+2589,29,2025-07-07,322,Power Failure,No
+2590,47,2025-11-10,312,Operator Issue,Yes
+2591,8,2025-01-01,111,Operator Issue,Yes
+2592,38,2025-03-03,186,Material Shortage,Yes
+2593,64,2025-01-25,186,Maintenance,No
+2594,45,2025-06-16,165,Machine Failure,No
+2595,68,2025-05-17,367,Operator Issue,Yes
+2596,57,2025-02-08,256,Machine Failure,Yes
+2597,63,2025-01-03,27,Material Shortage,Yes
+2598,27,2025-05-22,71,Machine Failure,Yes
+2599,46,2025-01-11,129,Maintenance,Yes
+2600,38,2025-12-23,154,Maintenance,Yes
+2601,33,2025-12-23,12,Material Shortage,No
+2602,65,2025-07-14,214,Power Failure,Yes
+2603,12,2025-02-18,271,Material Shortage,Yes
+2604,41,2025-03-12,42,Machine Failure,No
+2605,28,2025-05-13,263,Machine Failure,Yes
+2606,51,2025-08-03,308,Material Shortage,Yes
+2607,26,2025-04-02,310,Maintenance,No
+2608,62,2025-03-05,377,Maintenance,Yes
+2609,74,2025-12-14,196,Operator Issue,No
+2610,5,2025-05-03,81,Maintenance,Yes
+2611,74,2025-01-19,377,Material Shortage,Yes
+2612,14,2025-05-27,69,Power Failure,No
+2613,39,2025-10-17,301,Operator Issue,Yes
+2614,48,2025-03-06,335,Power Failure,No
+2615,13,2025-12-27,38,Machine Failure,Yes
+2616,15,2025-09-23,80,Machine Failure,Yes
+2617,64,2025-11-04,376,Maintenance,No
+2618,50,2025-07-29,237,Power Failure,No
+2619,60,2025-03-15,359,Machine Failure,Yes
+2620,39,2025-05-14,258,Operator Issue,Yes
+2621,52,2025-03-19,191,Power Failure,Yes
+2622,16,2025-03-05,43,Machine Failure,No
+2623,51,2025-12-28,43,Machine Failure,Yes
+2624,32,2025-01-27,363,Power Failure,No
+2625,42,2025-02-19,83,Maintenance,Yes
+2626,34,2025-10-27,480,Operator Issue,No
+2627,57,2025-11-19,128,Material Shortage,Yes
+2628,1,2025-07-12,307,Material Shortage,No
+2629,1,2025-05-19,402,Operator Issue,Yes
+2630,73,2025-08-28,336,Maintenance,No
+2631,50,2025-08-17,106,Power Failure,Yes
+2632,54,2025-06-05,101,Power Failure,Yes
+2633,59,2025-11-26,269,Power Failure,Yes
+2634,57,2025-02-08,357,Maintenance,Yes
+2635,38,2025-03-30,441,Maintenance,Yes
+2636,21,2025-06-04,461,Material Shortage,Yes
+2637,31,2025-10-22,59,Material Shortage,Yes
+2638,33,2025-03-16,65,Material Shortage,No
+2639,21,2025-10-24,239,Material Shortage,Yes
+2640,74,2025-01-15,295,Maintenance,Yes
+2641,58,2025-03-01,119,Operator Issue,Yes
+2642,61,2025-12-26,58,Maintenance,Yes
+2643,30,2025-03-25,146,Material Shortage,Yes
+2644,74,2025-10-03,333,Maintenance,No
+2645,26,2025-10-25,416,Material Shortage,Yes
+2646,10,2025-10-13,223,Machine Failure,Yes
+2647,67,2025-08-26,374,Maintenance,Yes
+2648,69,2025-01-25,27,Operator Issue,Yes
+2649,51,2025-06-10,12,Material Shortage,Yes
+2650,9,2025-11-18,209,Operator Issue,Yes
+2651,22,2025-09-17,263,Machine Failure,Yes
+2652,19,2025-04-29,294,Maintenance,Yes
+2653,33,2025-09-12,395,Machine Failure,Yes
+2654,34,2025-03-31,133,Material Shortage,No
+2655,45,2025-02-27,108,Machine Failure,Yes
+2656,61,2025-10-05,259,Machine Failure,Yes
+2657,36,2025-03-24,333,Operator Issue,Yes
+2658,12,2025-03-21,64,Maintenance,No
+2659,26,2025-11-28,165,Material Shortage,Yes
+2660,22,2025-11-23,437,Material Shortage,No
+2661,55,2025-06-28,222,Material Shortage,No
+2662,68,2025-07-13,466,Machine Failure,Yes
+2663,65,2025-04-23,322,Material Shortage,Yes
+2664,68,2025-12-26,430,Material Shortage,No
+2665,35,2025-05-20,402,Power Failure,Yes
+2666,64,2025-04-13,231,Material Shortage,Yes
+2667,5,2025-02-25,272,Operator Issue,Yes
+2668,72,2025-07-06,205,Maintenance,Yes
+2669,4,2025-01-19,92,Maintenance,Yes
+2670,27,2025-08-30,460,Machine Failure,No
+2671,36,2025-02-22,272,Maintenance,No
+2672,66,2025-10-02,145,Power Failure,Yes
+2673,19,2025-08-01,145,Maintenance,No
+2674,52,2025-10-01,306,Machine Failure,No
+2675,29,2025-03-29,438,Operator Issue,No
+2676,64,2025-04-06,149,Material Shortage,Yes
+2677,41,2025-10-15,268,Maintenance,Yes
+2678,23,2025-07-29,337,Machine Failure,Yes
+2679,75,2025-12-10,96,Machine Failure,Yes
+2680,56,2025-10-15,409,Machine Failure,Yes
+2681,38,2025-02-23,153,Machine Failure,Yes
+2682,13,2025-09-20,70,Material Shortage,No
+2683,58,2025-01-19,325,Power Failure,Yes
+2684,17,2025-03-04,224,Operator Issue,No
+2685,56,2025-11-29,440,Maintenance,Yes
+2686,28,2025-12-09,456,Operator Issue,No
+2687,72,2025-05-24,388,Power Failure,Yes
+2688,42,2025-03-07,343,Material Shortage,No
+2689,48,2025-05-20,341,Operator Issue,No
+2690,35,2025-09-21,191,Operator Issue,Yes
+2691,30,2025-06-26,186,Machine Failure,No
+2692,22,2025-06-29,444,Maintenance,Yes
+2693,15,2025-06-28,225,Maintenance,Yes
+2694,29,2025-12-15,285,Power Failure,Yes
+2695,61,2025-05-09,417,Operator Issue,No
+2696,11,2025-04-23,393,Machine Failure,Yes
+2697,40,2025-11-11,31,Machine Failure,No
+2698,14,2025-05-08,168,Maintenance,Yes
+2699,35,2025-06-06,323,Power Failure,Yes
+2700,9,2025-10-13,374,Maintenance,Yes
+2701,31,2025-01-27,415,Operator Issue,No
+2702,32,2025-05-07,66,Operator Issue,Yes
+2703,72,2025-04-02,210,Maintenance,Yes
+2704,30,2025-11-06,444,Operator Issue,No
+2705,69,2025-05-09,224,Operator Issue,Yes
+2706,44,2025-11-12,354,Operator Issue,Yes
+2707,54,2025-03-30,201,Operator Issue,Yes
+2708,12,2025-07-14,135,Power Failure,Yes
+2709,62,2025-09-04,477,Power Failure,Yes
+2710,28,2025-11-15,425,Maintenance,Yes
+2711,3,2025-02-18,72,Maintenance,Yes
+2712,28,2025-03-27,129,Machine Failure,Yes
+2713,55,2025-07-25,368,Power Failure,Yes
+2714,34,2025-05-01,343,Maintenance,Yes
+2715,40,2025-08-14,371,Machine Failure,No
+2716,11,2025-06-20,294,Operator Issue,No
+2717,71,2025-01-02,220,Machine Failure,Yes
+2718,54,2025-10-29,150,Operator Issue,Yes
+2719,54,2025-08-16,152,Operator Issue,No
+2720,57,2025-02-19,375,Machine Failure,Yes
+2721,61,2025-01-26,166,Machine Failure,No
+2722,8,2025-09-08,328,Power Failure,No
+2723,41,2025-02-05,95,Maintenance,Yes
+2724,12,2025-12-19,249,Maintenance,Yes
+2725,42,2025-05-18,230,Power Failure,No
+2726,14,2025-07-08,241,Power Failure,No
+2727,59,2025-10-01,439,Machine Failure,No
+2728,72,2025-03-07,313,Machine Failure,No
+2729,56,2025-01-04,109,Material Shortage,No
+2730,33,2025-07-24,71,Maintenance,No
+2731,30,2025-11-19,445,Material Shortage,Yes
+2732,61,2025-02-04,184,Machine Failure,Yes
+2733,1,2025-08-24,263,Material Shortage,Yes
+2734,30,2025-10-03,31,Material Shortage,No
+2735,24,2025-03-07,411,Power Failure,No
+2736,47,2025-04-18,102,Material Shortage,No
+2737,33,2025-05-16,27,Machine Failure,Yes
+2738,67,2025-04-12,262,Operator Issue,Yes
+2739,43,2025-01-20,254,Operator Issue,Yes
+2740,75,2025-12-14,160,Machine Failure,Yes
+2741,2,2025-11-08,361,Maintenance,Yes
+2742,9,2025-01-08,99,Maintenance,Yes
+2743,47,2025-03-20,416,Maintenance,Yes
+2744,69,2025-01-29,54,Power Failure,Yes
+2745,15,2025-01-03,175,Maintenance,Yes
+2746,74,2025-01-14,248,Power Failure,Yes
+2747,2,2025-04-03,266,Power Failure,Yes
+2748,32,2025-07-03,76,Power Failure,Yes
+2749,40,2025-05-18,286,Maintenance,No
+2750,49,2025-05-31,316,Operator Issue,No
+2751,12,2025-09-08,297,Operator Issue,Yes
+2752,38,2025-01-28,293,Machine Failure,No
+2753,35,2025-02-10,135,Maintenance,Yes
+2754,46,2025-01-16,442,Machine Failure,Yes
+2755,12,2025-02-03,414,Maintenance,Yes
+2756,57,2025-09-17,232,Power Failure,Yes
+2757,14,2025-11-04,447,Operator Issue,Yes
+2758,18,2025-03-28,187,Maintenance,Yes
+2759,46,2025-10-09,159,Maintenance,No
+2760,47,2025-01-19,215,Material Shortage,Yes
+2761,37,2025-07-06,156,Material Shortage,Yes
+2762,25,2025-02-25,398,Operator Issue,No
+2763,7,2025-02-06,284,Material Shortage,Yes
+2764,29,2025-11-18,121,Material Shortage,Yes
+2765,18,2025-11-10,343,Power Failure,No
+2766,61,2025-10-02,119,Operator Issue,Yes
+2767,35,2025-11-28,92,Material Shortage,Yes
+2768,10,2025-02-15,92,Material Shortage,Yes
+2769,41,2025-04-11,220,Machine Failure,Yes
+2770,6,2025-04-18,268,Power Failure,Yes
+2771,58,2025-09-20,287,Machine Failure,No
+2772,17,2025-11-14,480,Operator Issue,No
+2773,52,2025-10-06,62,Maintenance,No
+2774,3,2025-09-02,462,Operator Issue,Yes
+2775,58,2025-06-04,417,Operator Issue,No
+2776,29,2025-04-02,141,Power Failure,Yes
+2777,23,2025-01-02,400,Operator Issue,Yes
+2778,15,2025-01-04,10,Material Shortage,Yes
+2779,50,2025-06-21,290,Machine Failure,Yes
+2780,21,2025-09-09,198,Power Failure,Yes
+2781,21,2025-10-14,424,Operator Issue,Yes
+2782,6,2025-04-04,63,Material Shortage,Yes
+2783,73,2025-09-10,359,Power Failure,Yes
+2784,64,2025-03-23,367,Maintenance,No
+2785,72,2025-07-21,60,Maintenance,Yes
+2786,59,2025-05-03,452,Material Shortage,Yes
+2787,6,2025-11-24,417,Material Shortage,Yes
+2788,18,2025-08-01,450,Maintenance,Yes
+2789,50,2025-08-31,301,Material Shortage,Yes
+2790,41,2025-07-21,110,Maintenance,Yes
+2791,32,2025-01-05,23,Maintenance,No
+2792,36,2025-05-13,86,Operator Issue,No
+2793,69,2025-03-21,172,Maintenance,No
+2794,71,2025-06-08,383,Machine Failure,Yes
+2795,32,2025-10-06,53,Operator Issue,Yes
+2796,34,2025-02-13,139,Power Failure,Yes
+2797,45,2025-02-18,272,Power Failure,Yes
+2798,60,2025-10-26,253,Power Failure,Yes
+2799,55,2025-07-03,145,Operator Issue,No
+2800,46,2025-01-18,342,Operator Issue,Yes
+2801,23,2025-12-27,264,Maintenance,Yes
+2802,4,2025-03-03,415,Machine Failure,No
+2803,46,2025-02-12,305,Power Failure,Yes
+2804,46,2025-04-16,270,Material Shortage,No
+2805,2,2025-11-10,95,Operator Issue,Yes
+2806,28,2025-12-29,162,Power Failure,Yes
+2807,19,2025-05-29,249,Maintenance,Yes
+2808,47,2025-02-06,359,Maintenance,Yes
+2809,42,2025-04-05,295,Material Shortage,No
+2810,73,2025-12-05,138,Power Failure,Yes
+2811,14,2025-01-23,96,Machine Failure,Yes
+2812,34,2025-12-14,310,Power Failure,Yes
+2813,35,2025-05-10,12,Machine Failure,Yes
+2814,44,2025-09-09,351,Material Shortage,No
+2815,63,2025-12-16,257,Power Failure,Yes
+2816,75,2025-01-09,149,Power Failure,Yes
+2817,46,2025-03-02,325,Maintenance,Yes
+2818,62,2025-01-08,479,Maintenance,Yes
+2819,50,2025-02-24,188,Maintenance,No
+2820,42,2025-09-29,104,Operator Issue,Yes
+2821,8,2025-09-07,221,Material Shortage,Yes
+2822,8,2025-10-03,137,Power Failure,Yes
+2823,23,2025-12-03,369,Maintenance,Yes
+2824,71,2025-06-14,366,Maintenance,Yes
+2825,58,2025-10-03,213,Maintenance,No
+2826,10,2025-05-05,337,Maintenance,Yes
+2827,51,2025-11-09,438,Power Failure,Yes
+2828,70,2025-06-08,168,Operator Issue,Yes
+2829,45,2025-04-03,67,Operator Issue,Yes
+2830,9,2025-09-22,461,Operator Issue,Yes
+2831,73,2025-02-01,31,Machine Failure,Yes
+2832,72,2025-06-11,166,Power Failure,Yes
+2833,33,2025-02-01,292,Power Failure,Yes
+2834,40,2025-06-10,271,Material Shortage,Yes
+2835,31,2025-10-17,433,Machine Failure,Yes
+2836,52,2025-03-01,30,Material Shortage,Yes
+2837,39,2025-05-30,39,Machine Failure,No
+2838,8,2025-05-04,36,Maintenance,Yes
+2839,47,2025-03-19,367,Material Shortage,Yes
+2840,9,2025-09-02,34,Maintenance,No
+2841,59,2025-10-21,388,Operator Issue,Yes
+2842,56,2025-11-06,195,Machine Failure,No
+2843,42,2025-12-23,395,Machine Failure,Yes
+2844,11,2025-11-22,446,Maintenance,Yes
+2845,49,2025-05-03,346,Operator Issue,No
+2846,41,2025-05-24,101,Material Shortage,No
+2847,62,2025-06-27,225,Material Shortage,Yes
+2848,53,2025-05-20,49,Power Failure,No
+2849,36,2025-07-16,329,Material Shortage,Yes
+2850,42,2025-12-07,353,Power Failure,Yes
+2851,18,2025-11-16,415,Material Shortage,Yes
+2852,68,2025-07-24,64,Maintenance,Yes
+2853,60,2025-03-31,201,Material Shortage,No
+2854,69,2025-10-14,350,Maintenance,No
+2855,50,2025-08-16,237,Maintenance,Yes
+2856,64,2025-04-16,21,Machine Failure,Yes
+2857,5,2025-01-12,299,Machine Failure,Yes
+2858,37,2025-05-26,356,Maintenance,Yes
+2859,32,2025-03-19,192,Machine Failure,Yes
+2860,68,2025-06-30,245,Maintenance,Yes
+2861,75,2025-01-17,286,Material Shortage,Yes
+2862,37,2025-02-15,407,Machine Failure,Yes
+2863,69,2025-02-25,332,Maintenance,Yes
+2864,75,2025-11-01,347,Operator Issue,Yes
+2865,28,2025-08-29,378,Material Shortage,Yes
+2866,53,2025-07-14,203,Maintenance,No
+2867,21,2025-03-04,152,Maintenance,Yes
+2868,59,2025-07-29,20,Material Shortage,No
+2869,40,2025-08-10,354,Machine Failure,Yes
+2870,69,2025-03-03,251,Power Failure,Yes
+2871,33,2025-11-25,40,Operator Issue,Yes
+2872,61,2025-09-30,261,Maintenance,No
+2873,57,2025-08-10,45,Operator Issue,No
+2874,14,2025-10-03,378,Power Failure,Yes
+2875,5,2025-01-10,478,Power Failure,No
+2876,8,2025-10-14,420,Material Shortage,Yes
+2877,36,2025-03-04,25,Operator Issue,Yes
+2878,11,2025-09-18,401,Operator Issue,No
+2879,1,2025-03-16,364,Machine Failure,No
+2880,10,2025-06-06,309,Machine Failure,Yes
+2881,2,2025-01-20,260,Power Failure,No
+2882,53,2025-10-23,73,Material Shortage,Yes
+2883,5,2025-03-15,336,Material Shortage,Yes
+2884,38,2025-04-18,292,Power Failure,Yes
+2885,27,2025-03-21,203,Maintenance,Yes
+2886,27,2025-01-19,203,Machine Failure,No
+2887,75,2025-07-21,351,Material Shortage,Yes
+2888,30,2025-06-20,251,Material Shortage,Yes
+2889,50,2025-07-04,303,Maintenance,Yes
+2890,55,2025-07-04,405,Machine Failure,Yes
+2891,41,2025-12-11,44,Operator Issue,Yes
+2892,55,2025-03-20,224,Power Failure,No
+2893,34,2025-02-04,470,Material Shortage,No
+2894,31,2025-06-07,344,Operator Issue,No
+2895,41,2025-06-14,241,Machine Failure,No
+2896,37,2025-11-28,105,Operator Issue,Yes
+2897,39,2025-07-12,128,Power Failure,No
+2898,26,2025-01-12,403,Maintenance,No
+2899,6,2025-04-04,375,Operator Issue,Yes
+2900,42,2025-11-10,452,Maintenance,Yes
+2901,25,2025-02-19,317,Material Shortage,Yes
+2902,57,2025-11-04,279,Operator Issue,Yes
+2903,49,2025-09-22,133,Machine Failure,Yes
+2904,28,2025-11-21,156,Operator Issue,Yes
+2905,19,2025-07-29,459,Maintenance,Yes
+2906,1,2025-08-17,202,Machine Failure,Yes
+2907,16,2025-11-25,342,Maintenance,Yes
+2908,70,2025-01-13,130,Material Shortage,Yes
+2909,25,2025-11-30,30,Operator Issue,Yes
+2910,54,2025-09-12,343,Power Failure,Yes
+2911,51,2025-09-19,279,Power Failure,No
+2912,51,2025-04-15,157,Operator Issue,Yes
+2913,33,2025-02-06,470,Maintenance,Yes
+2914,30,2025-11-29,305,Maintenance,Yes
+2915,46,2025-10-25,155,Maintenance,Yes
+2916,39,2025-10-19,136,Maintenance,Yes
+2917,17,2025-12-22,429,Power Failure,Yes
+2918,21,2025-06-27,216,Power Failure,Yes
+2919,66,2025-04-22,432,Machine Failure,No
+2920,12,2025-10-22,366,Power Failure,Yes
+2921,65,2025-11-03,178,Machine Failure,Yes
+2922,21,2025-01-26,221,Operator Issue,No
+2923,54,2025-09-22,145,Operator Issue,Yes
+2924,32,2025-01-25,423,Operator Issue,Yes
+2925,5,2025-03-23,389,Power Failure,Yes
+2926,60,2025-05-18,173,Maintenance,No
+2927,24,2025-08-18,166,Operator Issue,No
+2928,26,2025-08-08,340,Operator Issue,Yes
+2929,57,2025-01-29,222,Operator Issue,Yes
+2930,30,2025-03-24,278,Material Shortage,No
+2931,15,2025-03-31,250,Material Shortage,Yes
+2932,39,2025-06-18,357,Material Shortage,Yes
+2933,34,2025-02-04,93,Operator Issue,No
+2934,66,2025-12-29,131,Power Failure,Yes
+2935,46,2025-03-29,462,Maintenance,Yes
+2936,12,2025-06-04,86,Machine Failure,Yes
+2937,44,2025-08-22,223,Machine Failure,No
+2938,23,2025-02-28,398,Power Failure,Yes
+2939,58,2025-03-30,11,Material Shortage,Yes
+2940,61,2025-09-14,459,Power Failure,Yes
+2941,7,2025-12-11,300,Power Failure,Yes
+2942,12,2025-10-02,470,Machine Failure,Yes
+2943,39,2025-11-05,175,Maintenance,Yes
+2944,21,2025-03-14,63,Material Shortage,No
+2945,55,2025-04-21,59,Machine Failure,Yes
+2946,15,2025-10-25,134,Material Shortage,Yes
+2947,39,2025-11-30,233,Operator Issue,Yes
+2948,52,2025-09-26,408,Maintenance,Yes
+2949,36,2025-06-14,409,Operator Issue,No
+2950,63,2025-12-02,465,Material Shortage,No
+2951,71,2025-02-08,46,Operator Issue,Yes
+2952,22,2025-11-07,98,Power Failure,Yes
+2953,20,2025-04-13,159,Operator Issue,No
+2954,12,2025-03-11,339,Machine Failure,Yes
+2955,57,2025-11-25,350,Power Failure,No
+2956,67,2025-08-01,427,Power Failure,No
+2957,72,2025-12-08,424,Machine Failure,Yes
+2958,73,2025-09-14,377,Power Failure,No
+2959,7,2025-06-16,243,Operator Issue,Yes
+2960,52,2025-02-01,325,Machine Failure,Yes
+2961,11,2025-10-23,38,Maintenance,Yes
+2962,51,2025-10-01,273,Machine Failure,Yes
+2963,15,2025-09-30,126,Maintenance,No
+2964,27,2025-01-21,267,Maintenance,Yes
+2965,3,2025-02-24,14,Operator Issue,Yes
+2966,67,2025-02-23,134,Material Shortage,Yes
+2967,42,2025-09-26,192,Machine Failure,Yes
+2968,17,2025-07-02,362,Machine Failure,Yes
+2969,49,2025-08-13,104,Machine Failure,No
+2970,9,2025-09-08,46,Operator Issue,Yes
+2971,72,2025-10-22,171,Power Failure,Yes
+2972,53,2025-06-08,273,Machine Failure,Yes
+2973,13,2025-12-14,479,Power Failure,Yes
+2974,34,2025-04-19,267,Operator Issue,Yes
+2975,34,2025-11-13,410,Maintenance,Yes
+2976,14,2025-07-20,227,Material Shortage,Yes
+2977,43,2025-05-30,256,Power Failure,No
+2978,27,2025-03-19,393,Material Shortage,No
+2979,48,2025-08-14,154,Maintenance,Yes
+2980,74,2025-09-28,12,Maintenance,Yes
+2981,9,2025-03-13,145,Operator Issue,No
+2982,37,2025-06-22,132,Material Shortage,Yes
+2983,56,2025-03-18,118,Machine Failure,No
+2984,28,2025-05-05,183,Machine Failure,Yes
+2985,29,2025-03-11,393,Operator Issue,Yes
+2986,20,2025-08-21,102,Material Shortage,Yes
+2987,10,2025-10-14,92,Operator Issue,Yes
+2988,60,2025-09-06,67,Operator Issue,Yes
+2989,50,2025-08-23,177,Machine Failure,Yes
+2990,24,2025-04-23,314,Operator Issue,Yes
+2991,68,2025-08-02,133,Machine Failure,Yes
+2992,32,2025-02-04,369,Material Shortage,Yes
+2993,72,2025-07-22,159,Machine Failure,No
+2994,2,2025-01-16,358,Power Failure,Yes
+2995,3,2025-05-10,243,Material Shortage,Yes
+2996,69,2025-10-22,152,Maintenance,Yes
+2997,70,2025-07-17,353,Material Shortage,Yes
+2998,71,2025-09-28,463,Power Failure,Yes
+2999,75,2025-12-01,90,Operator Issue,No
+3000,18,2025-03-13,271,Operator Issue,Yes
+3001,69,2025-11-17,145,Power Failure,No
+3002,2,2025-10-26,68,Operator Issue,No
+3003,50,2025-01-13,327,Maintenance,Yes
+3004,36,2025-05-20,224,Power Failure,Yes
+3005,34,2025-04-01,360,Maintenance,Yes
+3006,57,2025-02-08,53,Maintenance,Yes
+3007,65,2025-09-01,264,Machine Failure,Yes
+3008,53,2025-03-16,354,Machine Failure,Yes
+3009,68,2025-03-17,329,Machine Failure,Yes
+3010,33,2025-08-08,226,Operator Issue,Yes
+3011,35,2025-10-22,428,Material Shortage,No
+3012,29,2025-01-23,27,Maintenance,Yes
+3013,29,2025-08-25,18,Power Failure,Yes
+3014,49,2025-02-08,185,Power Failure,No
+3015,12,2025-08-31,313,Machine Failure,Yes
+3016,14,2025-10-01,122,Machine Failure,No
+3017,11,2025-12-17,18,Power Failure,Yes
+3018,9,2025-09-03,350,Power Failure,Yes
+3019,15,2025-10-22,363,Maintenance,No
+3020,9,2025-06-06,15,Maintenance,Yes
+3021,33,2025-04-07,33,Material Shortage,Yes
+3022,28,2025-07-10,411,Power Failure,Yes
+3023,8,2025-11-27,379,Material Shortage,No
+3024,54,2025-08-07,33,Maintenance,No
+3025,19,2025-05-13,99,Maintenance,Yes
+3026,18,2025-08-24,168,Operator Issue,No
+3027,35,2025-04-11,344,Maintenance,Yes
+3028,14,2025-04-22,303,Maintenance,Yes
+3029,47,2025-08-05,39,Power Failure,Yes
+3030,71,2025-06-16,186,Power Failure,No
+3031,53,2025-02-26,173,Power Failure,Yes
+3032,51,2025-01-01,238,Maintenance,No
+3033,73,2025-05-10,137,Maintenance,No
+3034,5,2025-08-12,359,Maintenance,Yes
+3035,72,2025-02-04,285,Maintenance,Yes
+3036,67,2025-08-13,18,Material Shortage,Yes
+3037,36,2025-06-11,407,Maintenance,Yes
+3038,70,2025-01-12,405,Maintenance,No
+3039,33,2025-07-18,261,Operator Issue,Yes
+3040,59,2025-09-04,439,Machine Failure,Yes
+3041,1,2025-03-28,184,Material Shortage,Yes
+3042,53,2025-05-26,42,Maintenance,Yes
+3043,70,2025-07-10,378,Machine Failure,Yes
+3044,39,2025-10-26,468,Power Failure,No
+3045,16,2025-05-04,432,Material Shortage,No
+3046,16,2025-05-30,239,Maintenance,No
+3047,19,2025-06-08,416,Power Failure,No
+3048,50,2025-07-01,70,Machine Failure,No
+3049,40,2025-11-16,416,Power Failure,Yes
+3050,41,2025-06-05,473,Operator Issue,Yes
+3051,35,2025-01-23,90,Maintenance,Yes
+3052,6,2025-08-08,457,Power Failure,Yes
+3053,63,2025-12-26,85,Machine Failure,No
+3054,47,2025-12-28,381,Maintenance,Yes
+3055,55,2025-06-04,134,Maintenance,No
+3056,45,2025-06-29,311,Maintenance,Yes
+3057,69,2025-02-09,147,Maintenance,Yes
+3058,2,2025-01-06,391,Material Shortage,Yes
+3059,32,2025-07-20,163,Operator Issue,Yes
+3060,56,2025-01-05,478,Operator Issue,Yes
+3061,15,2025-06-09,378,Maintenance,No
+3062,9,2025-07-27,129,Material Shortage,Yes
+3063,24,2025-11-02,462,Maintenance,Yes
+3064,75,2025-10-23,453,Power Failure,No
+3065,74,2025-12-06,144,Maintenance,Yes
+3066,32,2025-06-14,16,Power Failure,No
+3067,46,2025-01-06,54,Power Failure,Yes
+3068,58,2025-12-11,205,Maintenance,Yes
+3069,39,2025-01-23,460,Machine Failure,Yes
+3070,34,2025-09-04,383,Machine Failure,Yes
+3071,68,2025-07-15,343,Material Shortage,Yes
+3072,61,2025-12-05,408,Machine Failure,Yes
+3073,58,2025-09-11,55,Material Shortage,Yes
+3074,38,2025-02-13,158,Operator Issue,Yes
+3075,28,2025-08-23,277,Material Shortage,Yes
+3076,62,2025-06-18,455,Operator Issue,Yes
+3077,42,2025-08-28,32,Machine Failure,No
+3078,55,2025-04-18,229,Machine Failure,No
+3079,26,2025-02-19,317,Machine Failure,Yes
+3080,51,2025-06-23,68,Machine Failure,Yes
+3081,64,2025-04-07,257,Power Failure,Yes
+3082,5,2025-03-22,411,Maintenance,No
+3083,45,2025-05-09,252,Power Failure,Yes
+3084,53,2025-01-15,239,Power Failure,Yes
+3085,47,2025-11-21,313,Operator Issue,No
+3086,6,2025-08-24,429,Power Failure,Yes
+3087,13,2025-03-08,36,Maintenance,Yes
+3088,35,2025-05-20,211,Operator Issue,Yes
+3089,27,2025-12-07,172,Power Failure,Yes
+3090,47,2025-09-09,454,Power Failure,No
+3091,55,2025-10-25,148,Power Failure,No
+3092,28,2025-06-17,419,Power Failure,Yes
+3093,49,2025-01-11,406,Power Failure,No
+3094,67,2025-03-25,293,Power Failure,No
+3095,67,2025-01-27,29,Maintenance,Yes
+3096,9,2025-06-03,53,Machine Failure,Yes
+3097,34,2025-03-11,215,Maintenance,Yes
+3098,50,2025-02-23,201,Operator Issue,Yes
+3099,11,2025-11-01,254,Operator Issue,No
+3100,28,2025-04-07,234,Maintenance,Yes
+3101,2,2025-12-31,75,Power Failure,No
+3102,26,2025-09-24,286,Operator Issue,No
+3103,3,2025-02-18,467,Machine Failure,Yes
+3104,55,2025-06-24,371,Power Failure,No
+3105,9,2025-08-08,69,Machine Failure,No
+3106,58,2025-01-13,113,Operator Issue,Yes
+3107,13,2025-07-16,286,Material Shortage,Yes
+3108,24,2025-12-09,135,Operator Issue,Yes
+3109,18,2025-02-07,207,Maintenance,Yes
+3110,25,2025-10-06,402,Machine Failure,No
+3111,30,2025-04-01,62,Machine Failure,Yes
+3112,30,2025-05-01,161,Power Failure,Yes
+3113,57,2025-09-27,10,Operator Issue,No
+3114,5,2025-01-29,391,Machine Failure,Yes
+3115,46,2025-11-15,127,Power Failure,No
+3116,68,2025-09-12,154,Maintenance,No
+3117,6,2025-06-07,220,Material Shortage,No
+3118,74,2025-10-05,109,Maintenance,Yes
+3119,24,2025-09-11,303,Maintenance,No
+3120,30,2025-05-12,436,Power Failure,Yes
+3121,58,2025-08-27,395,Maintenance,Yes
+3122,73,2025-12-06,190,Power Failure,Yes
+3123,4,2025-09-12,35,Machine Failure,Yes
+3124,67,2025-02-26,161,Power Failure,No
+3125,73,2025-10-28,111,Power Failure,No
+3126,17,2025-11-22,345,Power Failure,Yes
+3127,11,2025-09-04,382,Power Failure,Yes
+3128,66,2025-12-03,412,Machine Failure,Yes
+3129,37,2025-02-19,152,Maintenance,Yes
+3130,64,2025-11-25,411,Machine Failure,Yes
+3131,67,2025-12-28,271,Maintenance,Yes
+3132,18,2025-12-02,273,Power Failure,No
+3133,9,2025-02-22,241,Power Failure,Yes
+3134,32,2025-10-24,173,Material Shortage,Yes
+3135,67,2025-09-23,317,Machine Failure,Yes
+3136,5,2025-02-04,219,Material Shortage,No
+3137,2,2025-01-12,425,Maintenance,Yes
+3138,51,2025-06-13,362,Maintenance,Yes
+3139,50,2025-07-20,436,Machine Failure,Yes
+3140,29,2025-04-10,308,Maintenance,Yes
+3141,21,2025-08-04,355,Maintenance,No
+3142,33,2025-01-03,314,Power Failure,Yes
+3143,62,2025-03-22,110,Operator Issue,Yes
+3144,3,2025-09-15,45,Material Shortage,Yes
+3145,55,2025-09-07,45,Operator Issue,Yes
+3146,2,2025-05-02,350,Material Shortage,No
+3147,71,2025-07-28,284,Machine Failure,Yes
+3148,52,2025-10-27,133,Machine Failure,No
+3149,10,2025-10-10,377,Machine Failure,Yes
+3150,17,2025-09-14,287,Maintenance,Yes
+3151,38,2025-04-01,397,Operator Issue,Yes
+3152,46,2025-03-20,112,Operator Issue,No
+3153,40,2025-04-27,206,Machine Failure,Yes
+3154,38,2025-08-17,67,Machine Failure,Yes
+3155,22,2025-01-21,342,Power Failure,Yes
+3156,35,2025-05-31,139,Operator Issue,Yes
+3157,63,2025-02-06,38,Operator Issue,No
+3158,33,2025-02-28,307,Machine Failure,Yes
+3159,64,2025-05-11,65,Machine Failure,Yes
+3160,27,2025-04-15,101,Material Shortage,No
+3161,6,2025-05-17,479,Maintenance,No
+3162,13,2025-03-08,193,Maintenance,Yes
+3163,28,2025-02-27,112,Operator Issue,Yes
+3164,29,2025-01-09,384,Operator Issue,Yes
+3165,64,2025-08-07,76,Power Failure,Yes
+3166,61,2025-02-18,209,Machine Failure,Yes
+3167,34,2025-09-29,113,Operator Issue,Yes
+3168,8,2025-03-13,185,Maintenance,No
+3169,64,2025-01-27,81,Material Shortage,No
+3170,40,2025-05-29,212,Material Shortage,No
+3171,28,2025-08-28,471,Maintenance,Yes
+3172,38,2025-09-27,158,Power Failure,Yes
+3173,17,2025-11-30,82,Material Shortage,Yes
+3174,57,2025-08-24,70,Machine Failure,No
+3175,41,2025-02-05,136,Material Shortage,Yes
+3176,49,2025-04-20,53,Material Shortage,Yes
+3177,48,2025-02-09,99,Power Failure,Yes
+3178,28,2025-11-14,409,Operator Issue,Yes
+3179,27,2025-11-17,249,Maintenance,Yes
+3180,62,2025-02-28,245,Material Shortage,Yes
+3181,39,2025-02-13,253,Power Failure,Yes
+3182,23,2025-05-04,369,Power Failure,Yes
+3183,75,2025-01-22,181,Power Failure,Yes
+3184,13,2025-03-10,414,Operator Issue,Yes
+3185,37,2025-09-22,450,Machine Failure,No
+3186,31,2025-08-20,412,Power Failure,Yes
+3187,47,2025-11-02,274,Power Failure,Yes
+3188,13,2025-06-05,271,Machine Failure,Yes
+3189,61,2025-09-29,54,Maintenance,No
+3190,16,2025-07-04,191,Machine Failure,Yes
+3191,71,2025-01-18,279,Maintenance,No
+3192,45,2025-07-04,202,Maintenance,Yes
+3193,1,2025-08-31,160,Operator Issue,Yes
+3194,30,2025-03-24,300,Power Failure,Yes
+3195,10,2025-12-05,295,Maintenance,Yes
+3196,61,2025-06-12,330,Maintenance,Yes
+3197,46,2025-12-27,392,Machine Failure,Yes
+3198,38,2025-09-06,358,Maintenance,No
+3199,17,2025-01-21,350,Machine Failure,No
+3200,24,2025-06-23,275,Material Shortage,Yes
+3201,20,2025-05-05,264,Maintenance,Yes
+3202,38,2025-07-23,469,Material Shortage,Yes
+3203,15,2025-05-14,75,Material Shortage,No
+3204,48,2025-04-17,315,Machine Failure,Yes
+3205,72,2025-02-13,60,Operator Issue,Yes
+3206,2,2025-11-16,26,Maintenance,Yes
+3207,68,2025-11-24,36,Machine Failure,Yes
+3208,18,2025-01-25,148,Power Failure,No
+3209,8,2025-02-19,431,Material Shortage,Yes
+3210,4,2025-08-01,186,Power Failure,Yes
+3211,30,2025-09-06,156,Machine Failure,Yes
+3212,46,2025-08-09,436,Material Shortage,Yes
+3213,44,2025-06-19,101,Operator Issue,Yes
+3214,32,2025-12-16,81,Material Shortage,Yes
+3215,56,2025-12-20,74,Operator Issue,Yes
+3216,75,2025-12-07,204,Material Shortage,No
+3217,2,2025-09-07,389,Maintenance,No
+3218,5,2025-03-05,214,Operator Issue,Yes
+3219,37,2025-10-31,161,Operator Issue,Yes
+3220,24,2025-12-21,360,Maintenance,Yes
+3221,40,2025-10-28,102,Maintenance,No
+3222,26,2025-12-07,148,Machine Failure,Yes
+3223,75,2025-10-16,434,Maintenance,No
+3224,60,2025-08-05,176,Power Failure,No
+3225,4,2025-07-14,411,Power Failure,No
+3226,2,2025-12-04,66,Machine Failure,Yes
+3227,52,2025-04-14,137,Material Shortage,No
+3228,24,2025-10-15,182,Power Failure,Yes
+3229,27,2025-10-26,152,Operator Issue,Yes
+3230,59,2025-08-06,76,Machine Failure,No
+3231,37,2025-10-26,335,Machine Failure,Yes
+3232,57,2025-10-13,391,Maintenance,Yes
+3233,35,2025-07-21,201,Machine Failure,Yes
+3234,57,2025-05-05,224,Operator Issue,Yes
+3235,23,2025-08-26,458,Material Shortage,No
+3236,27,2025-04-07,333,Maintenance,No
+3237,40,2025-09-03,439,Power Failure,No
+3238,57,2025-11-17,207,Material Shortage,Yes
+3239,62,2025-04-06,256,Maintenance,No
+3240,24,2025-12-03,192,Operator Issue,Yes
+3241,25,2025-10-01,334,Machine Failure,No
+3242,72,2025-01-13,392,Power Failure,No
+3243,35,2025-06-22,163,Power Failure,No
+3244,68,2025-12-18,401,Power Failure,No
+3245,11,2025-03-31,48,Power Failure,Yes
+3246,68,2025-02-07,386,Maintenance,Yes
+3247,72,2025-08-05,17,Maintenance,Yes
+3248,55,2025-06-15,423,Maintenance,Yes
+3249,34,2025-03-09,241,Maintenance,No
+3250,36,2025-05-28,241,Operator Issue,Yes
+3251,16,2025-09-23,203,Power Failure,No
+3252,26,2025-08-21,267,Machine Failure,Yes
+3253,7,2025-03-24,64,Material Shortage,No
+3254,60,2025-08-11,471,Operator Issue,No
+3255,30,2025-11-08,325,Maintenance,No
+3256,73,2025-06-05,12,Power Failure,Yes
+3257,24,2025-04-26,444,Operator Issue,No
+3258,64,2025-11-07,316,Operator Issue,Yes
+3259,40,2025-02-02,434,Power Failure,Yes
+3260,50,2025-05-06,347,Machine Failure,No
+3261,61,2025-09-29,136,Operator Issue,Yes
+3262,28,2025-09-25,374,Material Shortage,No
+3263,31,2025-12-11,162,Material Shortage,Yes
+3264,71,2025-11-05,364,Maintenance,Yes
+3265,71,2025-06-28,227,Machine Failure,Yes
+3266,38,2025-05-02,98,Power Failure,Yes
+3267,43,2025-02-09,27,Machine Failure,No
+3268,38,2025-07-05,11,Machine Failure,Yes
+3269,12,2025-10-27,314,Operator Issue,Yes
+3270,37,2025-11-12,430,Material Shortage,Yes
+3271,49,2025-07-11,150,Maintenance,Yes
+3272,32,2025-09-15,199,Power Failure,Yes
+3273,4,2025-05-13,124,Power Failure,Yes
+3274,32,2025-12-19,407,Machine Failure,Yes
+3275,71,2025-08-27,156,Machine Failure,Yes
+3276,34,2025-02-09,290,Material Shortage,Yes
+3277,11,2025-06-30,82,Machine Failure,Yes
+3278,26,2025-09-26,321,Maintenance,Yes
+3279,1,2025-06-20,441,Operator Issue,Yes
+3280,55,2025-08-22,27,Power Failure,Yes
+3281,70,2025-09-30,357,Maintenance,Yes
+3282,27,2025-04-29,110,Operator Issue,No
+3283,42,2025-03-15,100,Maintenance,Yes
+3284,19,2025-10-06,401,Machine Failure,Yes
+3285,43,2025-08-12,235,Maintenance,Yes
+3286,25,2025-09-06,203,Power Failure,Yes
+3287,33,2025-03-11,475,Material Shortage,No
+3288,32,2025-11-11,170,Machine Failure,No
+3289,11,2025-10-11,142,Power Failure,Yes
+3290,14,2025-12-09,265,Maintenance,Yes
+3291,45,2025-01-14,235,Machine Failure,Yes
+3292,13,2025-11-13,92,Power Failure,No
+3293,70,2025-08-31,222,Machine Failure,Yes
+3294,10,2025-08-24,49,Maintenance,Yes
+3295,20,2025-01-13,407,Maintenance,Yes
+3296,36,2025-10-25,65,Machine Failure,No
+3297,49,2025-10-12,179,Machine Failure,Yes
+3298,10,2025-05-07,474,Material Shortage,Yes
+3299,2,2025-02-20,378,Operator Issue,Yes
+3300,26,2025-04-13,397,Maintenance,Yes
+3301,17,2025-11-03,17,Material Shortage,Yes
+3302,37,2025-01-16,356,Material Shortage,Yes
+3303,11,2025-12-09,157,Operator Issue,Yes
+3304,39,2025-11-06,189,Maintenance,No
+3305,74,2025-12-26,54,Maintenance,Yes
+3306,45,2025-12-27,347,Maintenance,Yes
+3307,16,2025-08-21,260,Operator Issue,Yes
+3308,34,2025-02-13,78,Material Shortage,Yes
+3309,18,2025-03-05,180,Maintenance,Yes
+3310,72,2025-07-04,23,Material Shortage,Yes
+3311,72,2025-11-11,379,Machine Failure,Yes
+3312,32,2025-01-28,274,Machine Failure,Yes
+3313,73,2025-04-16,381,Power Failure,Yes
+3314,74,2026-01-01,380,Operator Issue,No
+3315,68,2025-08-18,214,Operator Issue,Yes
+3316,49,2025-10-22,440,Machine Failure,Yes
+3317,45,2025-04-06,51,Material Shortage,Yes
+3318,66,2025-01-31,285,Operator Issue,Yes
+3319,47,2025-02-10,127,Material Shortage,No
+3320,74,2025-04-09,208,Material Shortage,Yes
+3321,15,2025-10-17,39,Power Failure,Yes
+3322,23,2025-02-11,267,Power Failure,Yes
+3323,68,2025-04-08,299,Material Shortage,No
+3324,67,2025-08-17,85,Operator Issue,No
+3325,69,2025-01-29,240,Material Shortage,No
+3326,51,2025-07-21,445,Material Shortage,Yes
+3327,70,2025-08-20,216,Maintenance,No
+3328,30,2025-11-16,90,Power Failure,Yes
+3329,56,2025-12-30,439,Power Failure,No
+3330,2,2025-12-21,57,Power Failure,Yes
+3331,36,2025-01-04,461,Maintenance,Yes
+3332,41,2025-10-12,140,Operator Issue,Yes
+3333,15,2025-01-29,465,Operator Issue,No
+3334,61,2025-12-12,186,Machine Failure,Yes
+3335,56,2025-10-07,122,Machine Failure,Yes
+3336,38,2025-06-13,370,Maintenance,No
+3337,64,2025-02-14,99,Machine Failure,Yes
+3338,64,2025-05-29,121,Power Failure,Yes
+3339,27,2025-03-15,431,Operator Issue,No
+3340,1,2025-10-05,142,Machine Failure,Yes
+3341,74,2025-11-04,394,Machine Failure,Yes
+3342,67,2025-10-27,354,Material Shortage,Yes
+3343,18,2025-03-25,31,Maintenance,No
+3344,64,2025-09-04,114,Machine Failure,No
+3345,2,2025-05-25,353,Material Shortage,Yes
+3346,51,2025-12-29,439,Power Failure,No
+3347,62,2025-12-24,475,Material Shortage,Yes
+3348,14,2025-10-25,119,Power Failure,Yes
+3349,22,2025-08-19,234,Power Failure,No
+3350,69,2025-04-13,358,Material Shortage,Yes
+3351,73,2025-09-04,280,Maintenance,Yes
+3352,40,2025-05-16,84,Maintenance,Yes
+3353,36,2025-11-09,15,Material Shortage,No
+3354,59,2025-01-26,393,Material Shortage,No
+3355,42,2025-12-02,248,Operator Issue,No
+3356,69,2025-02-04,205,Power Failure,Yes
+3357,52,2025-10-17,245,Power Failure,Yes
+3358,3,2025-10-20,336,Maintenance,Yes
+3359,27,2025-10-03,395,Machine Failure,No
+3360,22,2025-04-08,445,Power Failure,Yes
+3361,18,2025-01-08,53,Material Shortage,Yes
+3362,33,2025-11-13,359,Machine Failure,Yes
+3363,53,2025-10-02,220,Power Failure,No
+3364,44,2025-07-14,212,Machine Failure,Yes
+3365,60,2025-10-01,374,Operator Issue,Yes
+3366,26,2025-08-06,409,Power Failure,Yes
+3367,47,2025-10-13,173,Maintenance,Yes
+3368,18,2025-11-26,315,Operator Issue,Yes
+3369,33,2025-07-19,69,Maintenance,No
+3370,59,2025-05-04,369,Power Failure,Yes
+3371,16,2025-12-16,103,Power Failure,Yes
+3372,25,2025-05-25,369,Operator Issue,No
+3373,32,2025-04-08,382,Maintenance,No
+3374,1,2025-11-19,325,Machine Failure,No
+3375,35,2025-12-31,72,Machine Failure,No
+3376,52,2025-08-13,63,Machine Failure,Yes
+3377,15,2025-12-25,440,Material Shortage,No
+3378,16,2025-07-14,28,Power Failure,Yes
+3379,55,2025-11-22,116,Machine Failure,Yes
+3380,29,2025-04-13,173,Material Shortage,Yes
+3381,17,2025-04-05,68,Material Shortage,Yes
+3382,48,2025-01-23,203,Maintenance,No
+3383,30,2025-08-02,70,Machine Failure,Yes
+3384,75,2025-10-22,249,Operator Issue,No
+3385,35,2025-09-30,393,Machine Failure,Yes
+3386,60,2025-07-14,250,Power Failure,No
+3387,35,2025-06-02,264,Material Shortage,No
+3388,41,2025-03-09,294,Power Failure,Yes
+3389,53,2025-08-03,156,Power Failure,Yes
+3390,10,2025-03-29,152,Power Failure,Yes
+3391,67,2025-11-15,98,Power Failure,Yes
+3392,31,2025-12-30,168,Operator Issue,Yes
+3393,64,2025-04-12,292,Operator Issue,Yes
+3394,26,2025-03-29,25,Machine Failure,Yes
+3395,33,2025-12-31,318,Material Shortage,No
+3396,72,2025-10-03,331,Maintenance,Yes
+3397,66,2025-11-04,448,Machine Failure,Yes
+3398,14,2025-04-16,167,Power Failure,Yes
+3399,67,2025-08-16,124,Operator Issue,Yes
+3400,16,2025-01-17,252,Maintenance,No
+3401,65,2025-01-21,17,Machine Failure,No
+3402,60,2025-10-03,230,Power Failure,Yes
+3403,74,2025-12-08,116,Operator Issue,Yes
+3404,71,2025-10-02,334,Maintenance,No
+3405,26,2025-03-31,129,Maintenance,Yes
+3406,54,2025-01-05,259,Maintenance,Yes
+3407,44,2025-09-28,82,Machine Failure,Yes
+3408,26,2025-09-03,66,Operator Issue,Yes
+3409,25,2025-11-25,295,Machine Failure,No
+3410,58,2025-02-07,479,Operator Issue,Yes
+3411,29,2025-06-25,66,Material Shortage,Yes
+3412,70,2025-12-28,205,Material Shortage,No
+3413,45,2025-11-28,138,Material Shortage,Yes
+3414,29,2025-01-01,181,Machine Failure,No
+3415,45,2025-08-30,403,Machine Failure,No
+3416,63,2025-10-16,470,Material Shortage,No
+3417,62,2025-06-01,159,Operator Issue,Yes
+3418,23,2025-12-28,239,Operator Issue,Yes
+3419,47,2025-03-12,393,Material Shortage,Yes
+3420,65,2025-06-18,28,Maintenance,Yes
+3421,14,2025-09-19,138,Material Shortage,No
+3422,39,2025-07-23,307,Power Failure,Yes
+3423,34,2025-05-05,39,Maintenance,Yes
+3424,42,2025-03-31,161,Operator Issue,Yes
+3425,59,2025-07-09,92,Maintenance,Yes
+3426,33,2025-03-10,368,Operator Issue,No
+3427,56,2025-04-05,172,Operator Issue,No
+3428,3,2025-12-11,281,Operator Issue,Yes
+3429,55,2025-11-29,345,Operator Issue,No
+3430,45,2025-08-07,190,Machine Failure,Yes
+3431,14,2025-12-30,393,Power Failure,Yes
+3432,71,2025-02-11,289,Power Failure,No
+3433,75,2025-12-26,203,Operator Issue,No
+3434,31,2025-08-02,271,Machine Failure,No
+3435,10,2026-01-01,469,Power Failure,No
+3436,8,2025-02-22,468,Power Failure,Yes
+3437,31,2025-02-14,131,Maintenance,Yes
+3438,22,2025-05-10,362,Machine Failure,Yes
+3439,71,2025-01-11,93,Machine Failure,No
+3440,44,2025-06-15,288,Maintenance,No
+3441,37,2025-06-13,169,Machine Failure,No
+3442,71,2025-10-20,51,Material Shortage,Yes
+3443,55,2025-10-06,454,Power Failure,Yes
+3444,53,2025-05-10,221,Maintenance,Yes
+3445,34,2025-04-08,332,Operator Issue,Yes
+3446,62,2025-04-18,38,Material Shortage,Yes
+3447,30,2025-01-02,136,Operator Issue,Yes
+3448,24,2025-12-06,466,Power Failure,No
+3449,2,2025-11-19,428,Power Failure,No
+3450,4,2025-06-15,463,Maintenance,Yes
+3451,72,2025-06-26,309,Machine Failure,No
+3452,21,2025-10-27,385,Power Failure,No
+3453,48,2025-02-14,100,Machine Failure,Yes
+3454,30,2025-08-16,270,Maintenance,Yes
+3455,36,2025-08-31,329,Operator Issue,Yes
+3456,35,2025-11-30,86,Power Failure,Yes
+3457,32,2025-09-07,151,Material Shortage,Yes
+3458,35,2025-05-09,392,Machine Failure,Yes
+3459,53,2025-01-03,34,Power Failure,Yes
+3460,30,2025-03-23,185,Operator Issue,No
+3461,5,2025-01-16,330,Operator Issue,Yes
+3462,73,2025-10-12,236,Operator Issue,Yes
+3463,74,2025-01-04,214,Material Shortage,No
+3464,6,2025-03-12,170,Material Shortage,No
+3465,70,2025-08-07,274,Machine Failure,Yes
+3466,37,2025-09-16,158,Machine Failure,Yes
+3467,6,2025-04-17,219,Operator Issue,No
+3468,18,2025-09-24,196,Operator Issue,No
+3469,34,2025-06-02,370,Operator Issue,No
+3470,74,2025-03-06,187,Operator Issue,No
+3471,14,2025-10-21,111,Material Shortage,No
+3472,22,2025-01-02,223,Operator Issue,No
+3473,50,2025-05-19,389,Maintenance,Yes
+3474,33,2025-05-08,380,Material Shortage,No
+3475,20,2025-06-27,450,Maintenance,Yes
+3476,50,2025-05-16,382,Machine Failure,No
+3477,5,2025-08-17,230,Material Shortage,Yes
+3478,45,2025-04-03,116,Operator Issue,Yes
+3479,63,2025-11-07,424,Power Failure,Yes
+3480,41,2025-10-09,125,Material Shortage,Yes
+3481,35,2025-08-05,38,Operator Issue,No
+3482,37,2025-05-07,29,Machine Failure,Yes
+3483,26,2025-10-19,50,Maintenance,Yes
+3484,38,2025-12-04,428,Material Shortage,Yes
+3485,59,2025-08-12,462,Maintenance,Yes
+3486,24,2025-06-04,72,Operator Issue,Yes
+3487,14,2025-04-06,88,Maintenance,No
+3488,20,2025-04-26,75,Machine Failure,Yes
+3489,1,2025-05-29,36,Maintenance,Yes
+3490,2,2025-07-24,16,Maintenance,No
+3491,39,2025-06-19,321,Operator Issue,Yes
+3492,19,2025-06-11,26,Machine Failure,No
+3493,28,2025-12-13,354,Power Failure,No
+3494,74,2025-11-12,160,Material Shortage,No
+3495,58,2025-09-16,385,Material Shortage,No
+3496,65,2025-03-24,307,Machine Failure,Yes
+3497,41,2025-03-17,15,Machine Failure,Yes
+3498,45,2025-12-26,291,Operator Issue,Yes
+3499,56,2025-08-27,211,Maintenance,No
+3500,36,2025-12-22,391,Operator Issue,No
+3501,30,2025-08-26,69,Machine Failure,Yes
+3502,19,2025-07-07,73,Machine Failure,Yes
+3503,59,2025-09-05,368,Material Shortage,No
+3504,41,2025-02-19,211,Operator Issue,Yes
+3505,68,2025-11-10,175,Machine Failure,Yes
+3506,15,2025-01-06,269,Operator Issue,No
+3507,39,2025-06-12,99,Machine Failure,No
+3508,43,2025-01-27,134,Power Failure,Yes
+3509,38,2025-11-27,150,Material Shortage,No
+3510,47,2025-04-01,315,Operator Issue,No
+3511,75,2025-05-08,87,Material Shortage,Yes
+3512,33,2025-04-17,242,Machine Failure,Yes
+3513,42,2025-08-15,213,Operator Issue,Yes
+3514,41,2025-11-16,460,Machine Failure,Yes
+3515,57,2025-11-14,270,Material Shortage,No
+3516,64,2025-09-01,441,Material Shortage,No
+3517,36,2025-10-08,231,Machine Failure,Yes
+3518,5,2025-12-22,149,Maintenance,No
+3519,13,2025-01-26,106,Power Failure,No
+3520,33,2025-06-13,138,Machine Failure,No
+3521,52,2025-07-31,243,Operator Issue,Yes
+3522,45,2025-05-11,308,Operator Issue,Yes
+3523,73,2025-04-11,295,Material Shortage,Yes
+3524,12,2025-07-19,480,Operator Issue,Yes
+3525,33,2025-02-02,436,Machine Failure,Yes
+3526,29,2025-02-19,31,Power Failure,Yes
+3527,69,2025-02-15,100,Material Shortage,Yes
+3528,14,2025-07-02,439,Power Failure,No
+3529,41,2025-04-24,409,Maintenance,Yes
+3530,34,2025-08-31,243,Maintenance,Yes
+3531,66,2025-08-09,69,Maintenance,Yes
+3532,44,2025-02-15,448,Material Shortage,Yes
+3533,53,2025-03-02,20,Operator Issue,Yes
+3534,37,2025-02-05,440,Power Failure,Yes
+3535,14,2025-08-21,288,Maintenance,Yes
+3536,58,2026-01-01,101,Material Shortage,Yes
+3537,26,2025-07-19,154,Operator Issue,Yes
+3538,55,2025-08-05,401,Power Failure,Yes
+3539,2,2025-01-17,364,Power Failure,No
+3540,6,2025-02-01,173,Material Shortage,Yes
+3541,23,2025-04-18,279,Material Shortage,Yes
+3542,35,2025-06-18,370,Maintenance,Yes
+3543,15,2025-04-05,357,Machine Failure,Yes
+3544,32,2025-03-26,114,Operator Issue,Yes
+3545,71,2025-11-17,184,Maintenance,Yes
+3546,7,2025-12-11,228,Material Shortage,Yes
+3547,7,2025-09-13,63,Power Failure,No
+3548,16,2025-06-28,112,Material Shortage,No
+3549,72,2025-09-15,421,Machine Failure,No
+3550,37,2025-04-21,342,Maintenance,Yes
+3551,27,2025-02-13,277,Machine Failure,No
+3552,23,2025-12-31,430,Operator Issue,Yes
+3553,60,2025-11-09,318,Power Failure,Yes
+3554,23,2025-12-16,438,Machine Failure,Yes
+3555,55,2025-06-19,229,Machine Failure,Yes
+3556,62,2025-07-16,325,Machine Failure,Yes
+3557,74,2025-12-13,222,Machine Failure,Yes
+3558,42,2025-01-06,419,Material Shortage,No
+3559,50,2025-01-12,81,Maintenance,Yes
+3560,36,2025-06-03,289,Material Shortage,Yes
+3561,51,2025-03-01,442,Material Shortage,Yes
+3562,13,2025-06-22,463,Material Shortage,No
+3563,40,2025-02-06,461,Power Failure,No
+3564,54,2025-08-17,366,Maintenance,No
+3565,16,2025-05-27,13,Power Failure,No
+3566,13,2025-12-02,284,Material Shortage,No
+3567,20,2025-11-04,180,Machine Failure,Yes
+3568,48,2025-02-21,303,Maintenance,Yes
+3569,71,2025-02-07,334,Operator Issue,No
+3570,9,2025-03-12,293,Operator Issue,No
+3571,19,2025-03-31,159,Maintenance,No
+3572,59,2025-09-05,152,Machine Failure,Yes
+3573,23,2025-09-30,272,Maintenance,Yes
+3574,7,2025-10-02,215,Operator Issue,No
+3575,19,2025-02-16,480,Material Shortage,Yes
+3576,51,2025-02-02,274,Power Failure,Yes
+3577,58,2025-03-01,225,Maintenance,Yes
+3578,13,2025-10-19,134,Material Shortage,Yes
+3579,60,2025-01-27,143,Material Shortage,No
+3580,59,2025-07-24,152,Operator Issue,Yes
+3581,58,2025-06-04,11,Operator Issue,Yes
+3582,34,2025-02-10,276,Power Failure,Yes
+3583,3,2025-06-19,422,Operator Issue,No
+3584,5,2025-08-17,21,Material Shortage,Yes
+3585,17,2025-07-30,119,Material Shortage,Yes
+3586,72,2025-06-01,324,Power Failure,Yes
+3587,24,2025-07-04,54,Power Failure,No
+3588,23,2025-02-05,161,Machine Failure,Yes
+3589,1,2025-07-21,184,Machine Failure,No
+3590,45,2025-07-09,16,Operator Issue,Yes
+3591,58,2025-06-07,65,Power Failure,No
+3592,27,2025-07-08,21,Material Shortage,Yes
+3593,23,2025-02-08,206,Power Failure,Yes
+3594,26,2025-06-18,262,Material Shortage,Yes
+3595,30,2025-03-23,467,Maintenance,No
+3596,32,2025-10-10,286,Operator Issue,No
+3597,69,2025-01-17,360,Machine Failure,Yes
+3598,26,2025-10-10,428,Machine Failure,Yes
+3599,62,2025-06-24,146,Material Shortage,Yes
+3600,69,2025-06-21,90,Material Shortage,Yes
+3601,69,2025-03-28,279,Machine Failure,Yes
+3602,41,2025-06-27,12,Power Failure,Yes
+3603,26,2025-09-26,310,Power Failure,Yes
+3604,35,2025-04-23,410,Operator Issue,Yes
+3605,9,2025-11-18,241,Material Shortage,Yes
+3606,41,2025-07-18,420,Machine Failure,Yes
+3607,66,2025-03-04,402,Material Shortage,Yes
+3608,18,2025-09-28,426,Material Shortage,Yes
+3609,62,2025-04-11,55,Machine Failure,No
+3610,74,2025-05-12,360,Power Failure,Yes
+3611,65,2025-05-29,264,Material Shortage,Yes
+3612,32,2025-07-31,66,Machine Failure,Yes
+3613,55,2025-08-03,346,Operator Issue,Yes
+3614,59,2025-02-07,450,Power Failure,No
+3615,17,2025-07-13,448,Power Failure,Yes
+3616,71,2025-05-07,331,Power Failure,No
+3617,53,2025-02-05,445,Machine Failure,Yes
+3618,52,2025-02-06,39,Material Shortage,Yes
+3619,21,2025-07-28,21,Material Shortage,Yes
+3620,66,2025-02-13,342,Operator Issue,Yes
+3621,23,2025-04-12,136,Maintenance,Yes
+3622,40,2025-04-03,38,Machine Failure,Yes
+3623,40,2025-02-10,320,Material Shortage,Yes
+3624,8,2025-08-30,340,Operator Issue,Yes
+3625,26,2025-09-25,461,Material Shortage,Yes
+3626,29,2025-09-07,333,Maintenance,Yes
+3627,72,2025-03-14,445,Material Shortage,Yes
+3628,51,2025-06-13,209,Material Shortage,Yes
+3629,46,2025-11-24,35,Operator Issue,Yes
+3630,48,2025-07-02,119,Material Shortage,Yes
+3631,66,2025-10-05,46,Maintenance,Yes
+3632,71,2025-12-18,435,Material Shortage,Yes
+3633,7,2025-07-19,234,Power Failure,No
+3634,38,2025-03-17,453,Maintenance,No
+3635,23,2025-01-07,220,Power Failure,Yes
+3636,69,2025-12-01,82,Material Shortage,No
+3637,60,2025-01-23,319,Machine Failure,Yes
+3638,42,2025-06-28,295,Material Shortage,Yes
+3639,17,2025-11-30,142,Power Failure,Yes
+3640,64,2025-12-18,231,Power Failure,Yes
+3641,38,2025-11-04,105,Operator Issue,Yes
+3642,43,2025-12-17,239,Power Failure,No
+3643,63,2025-04-22,37,Machine Failure,Yes
+3644,69,2025-12-04,125,Operator Issue,No
+3645,28,2025-01-01,342,Operator Issue,Yes
+3646,63,2025-09-20,324,Power Failure,Yes
+3647,25,2025-07-24,288,Operator Issue,Yes
+3648,30,2025-05-12,95,Machine Failure,No
+3649,46,2025-02-21,127,Power Failure,No
+3650,68,2025-05-21,115,Machine Failure,Yes
+3651,50,2025-05-20,181,Power Failure,No
+3652,30,2025-06-03,23,Maintenance,No
+3653,7,2025-02-23,380,Operator Issue,No
+3654,13,2025-12-26,250,Operator Issue,Yes
+3655,60,2025-01-29,72,Power Failure,Yes
+3656,18,2025-07-29,390,Maintenance,Yes
+3657,65,2025-12-08,11,Machine Failure,Yes
+3658,40,2025-05-27,200,Power Failure,Yes
+3659,34,2025-11-03,100,Operator Issue,No
+3660,18,2025-05-02,146,Maintenance,Yes
+3661,37,2025-06-26,400,Material Shortage,No
+3662,55,2025-10-18,407,Machine Failure,No
+3663,30,2025-10-08,56,Operator Issue,No
+3664,2,2025-05-08,214,Material Shortage,Yes
+3665,73,2025-10-29,67,Machine Failure,No
+3666,4,2025-01-03,472,Material Shortage,Yes
+3667,10,2025-12-16,368,Material Shortage,Yes
+3668,73,2025-04-02,140,Power Failure,No
+3669,14,2025-09-05,103,Power Failure,Yes
+3670,31,2025-01-11,261,Maintenance,Yes
+3671,61,2025-06-12,422,Maintenance,No
+3672,43,2025-04-23,365,Material Shortage,No
+3673,40,2025-04-20,242,Material Shortage,Yes
+3674,37,2025-05-28,416,Power Failure,Yes
+3675,36,2025-04-04,448,Material Shortage,Yes
+3676,59,2025-06-20,133,Machine Failure,Yes
+3677,39,2025-10-07,286,Material Shortage,Yes
+3678,28,2025-02-15,389,Material Shortage,Yes
+3679,35,2025-10-26,155,Maintenance,No
+3680,49,2025-06-26,329,Machine Failure,Yes
+3681,14,2025-07-30,319,Machine Failure,No
+3682,62,2025-08-24,265,Operator Issue,Yes
+3683,25,2025-09-13,29,Material Shortage,No
+3684,9,2025-07-25,67,Operator Issue,Yes
+3685,30,2025-06-16,377,Machine Failure,Yes
+3686,55,2025-06-07,47,Machine Failure,Yes
+3687,18,2025-01-01,446,Power Failure,Yes
+3688,31,2025-06-06,249,Power Failure,No
+3689,49,2025-09-21,344,Material Shortage,Yes
+3690,27,2025-02-03,391,Power Failure,Yes
+3691,74,2025-02-25,465,Maintenance,Yes
+3692,25,2025-04-15,160,Maintenance,Yes
+3693,74,2025-11-19,375,Maintenance,Yes
+3694,22,2025-08-13,45,Material Shortage,Yes
+3695,54,2025-10-09,230,Operator Issue,No
+3696,34,2025-06-20,437,Material Shortage,Yes
+3697,31,2025-02-22,196,Power Failure,No
+3698,55,2025-03-30,177,Operator Issue,Yes
+3699,28,2025-07-14,419,Power Failure,Yes
+3700,30,2025-11-10,154,Operator Issue,Yes
+3701,4,2025-11-21,397,Operator Issue,Yes
+3702,50,2025-02-26,33,Material Shortage,Yes
+3703,46,2025-11-28,188,Power Failure,Yes
+3704,48,2025-03-07,351,Maintenance,Yes
+3705,40,2025-03-27,366,Material Shortage,Yes
+3706,57,2025-12-09,73,Machine Failure,No
+3707,4,2025-07-27,16,Maintenance,No
+3708,73,2025-11-26,374,Maintenance,Yes
+3709,71,2025-07-18,433,Operator Issue,Yes
+3710,32,2025-10-22,11,Machine Failure,No
+3711,58,2025-08-11,340,Machine Failure,Yes
+3712,42,2025-10-11,123,Power Failure,Yes
+3713,66,2025-11-16,79,Maintenance,No
+3714,20,2025-05-11,199,Maintenance,Yes
+3715,16,2025-05-14,430,Material Shortage,No
+3716,59,2025-03-01,70,Maintenance,Yes
+3717,42,2025-02-05,443,Power Failure,No
+3718,34,2025-09-05,321,Maintenance,Yes
+3719,70,2025-09-12,252,Operator Issue,Yes
+3720,13,2025-03-17,83,Power Failure,Yes
+3721,35,2025-06-30,437,Maintenance,No
+3722,19,2025-03-21,140,Maintenance,No
+3723,4,2025-12-10,196,Maintenance,Yes
+3724,16,2025-02-15,140,Power Failure,Yes
+3725,65,2025-08-21,357,Power Failure,Yes
+3726,26,2025-01-19,186,Material Shortage,No
+3727,2,2025-05-16,473,Material Shortage,Yes
+3728,71,2025-02-14,457,Operator Issue,Yes
+3729,64,2025-07-26,349,Machine Failure,Yes
+3730,6,2025-07-04,434,Material Shortage,Yes
+3731,25,2025-09-16,63,Operator Issue,Yes
+3732,64,2025-01-10,385,Power Failure,No
+3733,37,2025-06-27,240,Material Shortage,Yes
+3734,54,2025-06-12,183,Operator Issue,No
+3735,31,2025-04-26,105,Machine Failure,No
+3736,64,2025-11-04,215,Power Failure,Yes
+3737,39,2025-06-25,97,Material Shortage,No
+3738,74,2025-12-06,120,Material Shortage,No
+3739,48,2025-10-10,357,Maintenance,Yes
+3740,75,2025-01-24,386,Operator Issue,No
+3741,27,2025-10-10,230,Operator Issue,Yes
+3742,74,2025-07-29,411,Maintenance,No
+3743,54,2025-07-20,468,Machine Failure,Yes
+3744,70,2025-11-23,408,Operator Issue,Yes
+3745,13,2025-05-05,217,Operator Issue,Yes
+3746,33,2025-01-10,401,Maintenance,No
+3747,30,2025-12-15,245,Machine Failure,Yes
+3748,52,2025-04-17,326,Power Failure,Yes
+3749,72,2025-10-26,36,Power Failure,No
+3750,15,2025-06-05,36,Maintenance,Yes
+3751,33,2025-03-15,13,Material Shortage,No
+3752,26,2025-03-19,350,Power Failure,Yes
+3753,9,2025-09-09,459,Machine Failure,No
+3754,9,2025-04-15,294,Power Failure,No
+3755,16,2025-10-04,324,Material Shortage,Yes
+3756,70,2025-11-30,142,Operator Issue,No
+3757,60,2025-11-16,253,Operator Issue,Yes
+3758,56,2025-10-05,109,Operator Issue,No
+3759,20,2025-07-27,101,Machine Failure,Yes
+3760,51,2025-03-26,258,Power Failure,Yes
+3761,27,2025-07-19,472,Material Shortage,No
+3762,12,2025-02-09,208,Material Shortage,Yes
+3763,24,2025-02-12,240,Material Shortage,Yes
+3764,8,2025-04-27,371,Power Failure,No
+3765,50,2025-02-01,187,Material Shortage,No
+3766,16,2025-03-01,159,Material Shortage,Yes
+3767,50,2025-03-28,198,Machine Failure,Yes
+3768,74,2025-12-10,448,Operator Issue,No
+3769,54,2025-06-30,385,Operator Issue,Yes
+3770,37,2025-09-02,24,Power Failure,Yes
+3771,66,2025-01-06,256,Operator Issue,No
+3772,14,2025-01-07,394,Power Failure,Yes
+3773,28,2025-05-23,29,Machine Failure,Yes
+3774,36,2025-02-28,129,Machine Failure,Yes
+3775,74,2025-12-02,233,Operator Issue,No
+3776,29,2025-03-04,159,Power Failure,Yes
+3777,43,2025-08-17,239,Maintenance,Yes
+3778,25,2025-05-06,285,Operator Issue,Yes
+3779,42,2025-05-18,122,Power Failure,Yes
+3780,57,2025-07-05,107,Power Failure,Yes
+3781,5,2025-04-17,62,Power Failure,Yes
+3782,74,2025-12-06,264,Power Failure,Yes
+3783,32,2025-05-05,205,Power Failure,Yes
+3784,50,2025-05-01,411,Power Failure,No
+3785,21,2025-05-26,65,Material Shortage,Yes
+3786,10,2025-02-24,195,Operator Issue,No
+3787,5,2025-04-25,86,Power Failure,Yes
+3788,57,2025-10-04,64,Operator Issue,Yes
+3789,50,2025-08-31,242,Material Shortage,Yes
+3790,63,2025-08-05,380,Maintenance,Yes
+3791,74,2025-03-08,391,Material Shortage,No
+3792,61,2025-06-19,38,Material Shortage,No
+3793,27,2025-04-30,138,Maintenance,Yes
+3794,46,2025-01-03,267,Power Failure,No
+3795,65,2025-08-16,229,Maintenance,No
+3796,20,2025-08-26,155,Machine Failure,No
+3797,49,2025-11-04,281,Operator Issue,No
+3798,57,2025-01-17,41,Power Failure,Yes
+3799,61,2025-08-05,246,Machine Failure,Yes
+3800,7,2025-02-10,424,Machine Failure,Yes
+3801,22,2025-01-22,220,Operator Issue,Yes
+3802,64,2025-01-06,418,Material Shortage,Yes
+3803,11,2025-05-13,324,Material Shortage,No
+3804,10,2025-03-24,329,Operator Issue,No
+3805,72,2025-11-17,302,Power Failure,Yes
+3806,11,2025-03-15,435,Machine Failure,Yes
+3807,4,2025-05-25,176,Maintenance,Yes
+3808,53,2025-04-18,25,Power Failure,No
+3809,63,2025-09-25,39,Material Shortage,Yes
+3810,35,2025-05-07,70,Maintenance,Yes
+3811,24,2025-03-12,278,Maintenance,Yes
+3812,39,2025-10-29,358,Power Failure,Yes
+3813,25,2025-01-04,138,Operator Issue,Yes
+3814,55,2025-04-15,224,Power Failure,Yes
+3815,68,2025-11-18,15,Operator Issue,No
+3816,55,2025-01-31,202,Operator Issue,Yes
+3817,6,2025-05-31,136,Material Shortage,Yes
+3818,22,2025-05-22,98,Machine Failure,Yes
+3819,19,2025-01-17,255,Material Shortage,Yes
+3820,59,2025-05-22,206,Maintenance,Yes
+3821,32,2025-02-06,274,Operator Issue,Yes
+3822,30,2025-12-30,66,Material Shortage,No
+3823,23,2025-11-04,435,Machine Failure,No
+3824,22,2025-06-04,301,Maintenance,Yes
+3825,26,2025-02-03,384,Machine Failure,No
+3826,14,2025-04-15,28,Material Shortage,Yes
+3827,42,2025-08-18,108,Power Failure,Yes
+3828,22,2025-05-01,210,Machine Failure,Yes
+3829,72,2025-04-02,67,Material Shortage,Yes
+3830,46,2025-07-02,359,Power Failure,Yes
+3831,17,2025-09-07,316,Operator Issue,No
+3832,4,2025-12-27,17,Material Shortage,Yes
+3833,69,2025-07-06,330,Material Shortage,Yes
+3834,42,2025-08-11,348,Power Failure,No
+3835,8,2025-09-28,281,Operator Issue,Yes
+3836,70,2025-09-25,396,Material Shortage,Yes
+3837,43,2025-03-31,287,Material Shortage,No
+3838,7,2025-12-30,219,Operator Issue,No
+3839,24,2025-12-21,375,Material Shortage,Yes
+3840,35,2025-02-25,477,Power Failure,Yes
+3841,62,2025-07-25,448,Power Failure,No
+3842,45,2025-03-22,246,Maintenance,No
+3843,22,2025-01-16,380,Power Failure,Yes
+3844,6,2025-01-15,332,Power Failure,No
+3845,7,2025-03-24,66,Power Failure,Yes
+3846,36,2025-07-26,34,Machine Failure,Yes
+3847,70,2025-11-20,478,Operator Issue,No
+3848,42,2025-01-30,129,Power Failure,No
+3849,54,2025-06-21,409,Maintenance,No
+3850,38,2025-09-29,138,Power Failure,Yes
+3851,31,2026-01-01,228,Material Shortage,No
+3852,72,2025-08-12,36,Power Failure,Yes
+3853,27,2025-03-03,139,Power Failure,Yes
+3854,61,2025-09-05,398,Power Failure,Yes
+3855,64,2025-06-02,316,Power Failure,Yes
+3856,73,2025-11-27,50,Operator Issue,Yes
+3857,55,2025-10-31,19,Maintenance,Yes
+3858,40,2025-02-28,37,Machine Failure,No
+3859,34,2025-01-17,318,Maintenance,Yes
+3860,13,2025-07-18,414,Maintenance,Yes
+3861,44,2025-02-06,441,Machine Failure,No
+3862,29,2025-07-10,217,Maintenance,No
+3863,3,2025-01-23,51,Maintenance,Yes
+3864,73,2025-09-13,75,Operator Issue,No
+3865,11,2025-11-12,428,Maintenance,Yes
+3866,47,2025-05-31,52,Power Failure,Yes
+3867,60,2025-11-14,192,Machine Failure,Yes
+3868,46,2025-04-18,273,Power Failure,Yes
+3869,38,2025-03-11,398,Material Shortage,Yes
+3870,74,2025-10-23,457,Material Shortage,Yes
+3871,44,2025-02-24,205,Machine Failure,Yes
+3872,42,2025-05-30,292,Machine Failure,Yes
+3873,52,2025-04-16,440,Maintenance,Yes
+3874,64,2025-03-07,49,Power Failure,Yes
+3875,35,2025-03-05,470,Machine Failure,Yes
+3876,9,2025-10-28,43,Operator Issue,Yes
+3877,68,2025-04-10,312,Machine Failure,Yes
+3878,1,2025-04-20,364,Power Failure,Yes
+3879,8,2025-09-17,55,Material Shortage,No
+3880,8,2025-01-30,452,Power Failure,Yes
+3881,61,2025-10-17,257,Machine Failure,Yes
+3882,65,2025-10-06,283,Power Failure,Yes
+3883,68,2025-03-19,476,Operator Issue,Yes
+3884,41,2025-09-06,34,Maintenance,Yes
+3885,74,2025-06-26,438,Material Shortage,Yes
+3886,2,2025-09-30,335,Machine Failure,Yes
+3887,1,2025-07-29,310,Maintenance,Yes
+3888,61,2025-08-13,151,Power Failure,Yes
+3889,46,2025-05-20,212,Power Failure,No
+3890,61,2025-08-10,210,Operator Issue,Yes
+3891,41,2025-03-12,173,Operator Issue,No
+3892,55,2025-05-16,135,Machine Failure,No
+3893,64,2025-08-13,380,Machine Failure,No
+3894,30,2025-01-12,207,Machine Failure,Yes
+3895,61,2025-04-30,52,Machine Failure,Yes
+3896,19,2025-09-07,39,Operator Issue,Yes
+3897,72,2025-11-07,326,Power Failure,Yes
+3898,30,2025-08-07,303,Operator Issue,Yes
+3899,18,2025-06-11,331,Maintenance,No
+3900,68,2025-06-14,69,Maintenance,Yes
+3901,6,2025-03-30,78,Machine Failure,Yes
+3902,52,2025-02-10,199,Material Shortage,Yes
+3903,36,2025-01-27,205,Maintenance,No
+3904,42,2025-03-05,52,Operator Issue,Yes
+3905,6,2025-06-16,364,Maintenance,No
+3906,8,2025-04-04,253,Maintenance,Yes
+3907,15,2025-07-17,207,Maintenance,Yes
+3908,50,2025-03-02,94,Machine Failure,Yes
+3909,13,2025-01-27,333,Material Shortage,Yes
+3910,51,2025-09-30,432,Machine Failure,Yes
+3911,18,2025-04-11,49,Operator Issue,Yes
+3912,36,2025-07-13,343,Maintenance,No
+3913,40,2025-02-24,58,Operator Issue,No
+3914,52,2025-11-17,129,Operator Issue,Yes
+3915,56,2025-03-20,169,Material Shortage,Yes
+3916,23,2025-07-04,260,Operator Issue,Yes
+3917,74,2025-07-28,367,Material Shortage,Yes
+3918,16,2025-07-31,143,Material Shortage,Yes
+3919,61,2025-08-11,126,Machine Failure,Yes
+3920,22,2025-05-05,249,Power Failure,No
+3921,45,2025-08-05,142,Power Failure,Yes
+3922,69,2025-06-12,352,Power Failure,Yes
+3923,60,2025-10-02,39,Power Failure,No
+3924,6,2025-06-03,26,Operator Issue,Yes
+3925,49,2025-05-31,327,Maintenance,No
+3926,40,2025-05-12,385,Material Shortage,Yes
+3927,45,2025-06-19,322,Material Shortage,Yes
+3928,31,2025-09-17,31,Operator Issue,Yes
+3929,1,2025-07-10,317,Material Shortage,Yes
+3930,27,2025-01-18,209,Material Shortage,No
+3931,17,2025-07-23,400,Maintenance,No
+3932,15,2025-03-04,400,Machine Failure,Yes
+3933,67,2025-12-01,143,Maintenance,Yes
+3934,3,2025-05-15,163,Power Failure,Yes
+3935,20,2025-06-15,28,Maintenance,Yes
+3936,7,2025-03-20,16,Material Shortage,No
+3937,22,2025-11-10,228,Machine Failure,Yes
+3938,67,2025-06-08,355,Material Shortage,Yes
+3939,40,2025-02-06,214,Machine Failure,Yes
+3940,47,2025-08-19,358,Power Failure,Yes
+3941,8,2025-01-11,248,Operator Issue,Yes
+3942,42,2025-10-29,217,Maintenance,Yes
+3943,65,2025-09-26,470,Power Failure,No
+3944,15,2025-01-22,467,Machine Failure,No
+3945,68,2025-02-12,211,Machine Failure,Yes
+3946,63,2025-06-17,218,Operator Issue,Yes
+3947,75,2025-07-24,382,Maintenance,Yes
+3948,43,2025-12-06,244,Machine Failure,Yes
+3949,31,2025-12-24,324,Maintenance,No
+3950,9,2025-06-21,220,Operator Issue,No
+3951,72,2025-10-23,279,Material Shortage,Yes
+3952,32,2025-10-02,308,Power Failure,Yes
+3953,56,2025-05-31,85,Power Failure,No
+3954,65,2025-08-26,362,Machine Failure,Yes
+3955,66,2025-08-19,365,Maintenance,No
+3956,47,2025-09-27,227,Material Shortage,No
+3957,36,2025-11-15,304,Power Failure,Yes
+3958,58,2025-06-09,325,Machine Failure,Yes
+3959,71,2025-07-21,44,Operator Issue,Yes
+3960,18,2025-10-05,318,Material Shortage,Yes
+3961,51,2025-07-20,246,Power Failure,Yes
+3962,21,2025-05-07,457,Material Shortage,Yes
+3963,15,2025-07-12,17,Operator Issue,Yes
+3964,19,2025-12-03,106,Maintenance,Yes
+3965,58,2025-11-24,406,Operator Issue,Yes
+3966,25,2025-02-22,34,Material Shortage,No
+3967,60,2025-09-21,217,Power Failure,No
+3968,18,2025-12-06,216,Maintenance,Yes
+3969,47,2025-07-22,319,Machine Failure,Yes
+3970,31,2025-10-09,357,Maintenance,Yes
+3971,56,2025-08-20,377,Power Failure,Yes
+3972,19,2025-07-20,84,Power Failure,Yes
+3973,52,2025-06-01,154,Operator Issue,Yes
+3974,18,2025-11-24,259,Operator Issue,No
+3975,66,2025-07-02,433,Material Shortage,No
+3976,55,2025-06-12,478,Operator Issue,Yes
+3977,68,2025-04-15,438,Power Failure,Yes
+3978,66,2025-01-31,451,Material Shortage,Yes
+3979,13,2025-12-15,470,Operator Issue,Yes
+3980,73,2025-02-08,143,Material Shortage,No
+3981,75,2025-02-14,313,Machine Failure,Yes
+3982,21,2025-03-10,197,Operator Issue,Yes
+3983,5,2025-10-06,92,Machine Failure,Yes
+3984,71,2025-08-20,18,Operator Issue,No
+3985,62,2025-09-26,93,Maintenance,No
+3986,41,2025-12-01,467,Operator Issue,Yes
+3987,31,2025-10-03,173,Machine Failure,No
+3988,44,2025-03-05,66,Maintenance,Yes
+3989,38,2025-06-19,129,Operator Issue,Yes
+3990,34,2025-06-11,340,Material Shortage,Yes
+3991,54,2025-11-06,87,Machine Failure,Yes
+3992,22,2025-06-20,394,Maintenance,Yes
+3993,48,2025-08-17,124,Operator Issue,No
+3994,6,2025-05-06,476,Operator Issue,Yes
+3995,59,2025-12-15,102,Maintenance,Yes
+3996,75,2025-04-11,314,Maintenance,Yes
+3997,55,2025-11-29,216,Power Failure,Yes
+3998,45,2025-08-26,19,Operator Issue,No
+3999,41,2025-01-20,432,Operator Issue,Yes
+4000,55,2025-03-13,209,Maintenance,Yes

@@ -1,0 +1,19 @@
+department_id,plant_id,department_name,department_head
+1,1,Production,Arun Kumar
+2,1,Quality Control,Priya Sharma
+3,1,Maintenance,Rahul Verma
+4,2,Production,Karthik Raj
+5,2,Assembly,Meena Devi
+6,2,Inventory,Sanjay Kumar
+7,3,Electronics,Vijay Anand
+8,3,Quality Control,Divya Rao
+9,3,Research,Nithin Kumar
+10,4,Assembly,Ramesh Patel
+11,4,Maintenance,Amit Shah
+12,4,Packaging,Neha Singh
+13,5,Quality Testing,Sneha Iyer
+14,5,Inspection,Naveen Rao
+15,5,Analysis,Kavya Menon
+16,1,Logistics,Suresh Kumar
+17,2,Warehouse,Manoj Das
+18,4,Planning,Deepak Joshi

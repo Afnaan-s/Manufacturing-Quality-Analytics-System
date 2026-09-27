@@ -1,0 +1,76 @@
+supplier_id,supplier_name,contact_person,phone,email,material_category,location,status
+1,"Edwards, Gutierrez and Pearson",Ronald Lawson,(668)898-0342,nathan70@example.org,Electronic Components,Burkeview,Active
+2,"Johnson, Mitchell and Alvarez",Kaitlyn Walters,(353)294-7055x34549,vargasshawn@example.org,Aluminium,West Timothy,Active
+3,"Romero, Andrews and Valdez",Mary Frey,705.433.4608x82071,cturner@example.org,Electronic Components,Lake Hannahton,Inactive
+4,"Mcmillan, Perez and Stephens",Stephanie Carr,955-362-0331x6515,fbutler@example.net,Plastic,New Amandafort,Active
+5,"Stephens, Cruz and Sullivan",Robert Herrera,(407)678-1534,chelsea38@example.org,Rubber,South Monicamouth,Inactive
+6,"Wood, Manning and Benton",Wendy Bowman,+1-350-759-7868,ywarner@example.com,Plastic,New Markhaven,Inactive
+7,Martin PLC,Corey Cook,867.973.5733,adam28@example.org,Aluminium,East Annettefort,Active
+8,Murray PLC,John Lutz,618-639-2389x071,emosley@example.net,Electronic Components,North David,Active
+9,Moore Group,Dr. Martin Dorsey DVM,+1-773-945-3642x4196,fbrown@example.net,Steel,Garrettland,Inactive
+10,Simpson LLC,Robert Santana,(570)391-4686x626,sjohnston@example.com,Electronic Components,Port Alantown,Inactive
+11,Webster-Gallagher,Edwin Schroeder,001-729-909-8493x181,ksteele@example.com,Glass,Hensleychester,Active
+12,Elliott-Mcintosh,Thomas Green,001-380-524-2247x537,cgray@example.net,Steel,Mccartyfurt,Active
+13,Ryan Group,Christopher Brown,582.953.7888,melissa07@example.net,Plastic,Crystalport,Active
+14,King Group,Thomas Houston,(752)306-2507x3339,bryanchelsea@example.net,Plastic,Lake Richardstad,Inactive
+15,Carr Inc,Mark Moore,805-820-3240x10327,sara88@example.net,Plastic,Port Craigmouth,Inactive
+16,Kidd and Sons,James Pugh,001-495-590-3365,jmora@example.com,Rubber,New Danielborough,Active
+17,"Brown, Alvarado and Sharp",Barry Hernandez,763-580-1346x394,anna64@example.org,Steel,Austinville,Active
+18,"Curtis, Hernandez and Taylor",Christie Best,4525810428,humphreytina@example.net,Aluminium,New Jenniferside,Active
+19,"Harris, Hogan and Riley",Carrie Montoya,+1-204-293-7550x2124,zimmermandavid@example.net,Glass,Christopherview,Inactive
+20,Shaffer and Sons,Brad Frank,(785)866-6872x094,derekcarroll@example.com,Electronic Components,Christopherside,Active
+21,Walker-Warner,Amy Harper,001-603-594-7711x25913,berrymark@example.org,Copper,North Paulaland,Inactive
+22,Sanford-Peterson,David Turner,276-307-0597x14396,louis61@example.org,Electronic Components,Sandersfurt,Active
+23,Christian-Munoz,Scott Hogan,277.422.7102x45696,alexanderdiaz@example.org,Aluminium,Port Robertside,Active
+24,Martin-Macias,Elaine Clark,4457266651,timothy25@example.org,Copper,Meadowschester,Active
+25,Carroll and Sons,Ross Powers,(425)532-2726x182,zlowe@example.com,Electronic Components,South Christinaside,Inactive
+26,Tate Ltd,Andrea Huerta,843.570.3534,whitecatherine@example.org,Copper,Rossbury,Active
+27,"Harrison, Strong and Craig",James Kelly,861-679-6570x52344,franklinkatie@example.net,Aluminium,Lake Robert,Inactive
+28,Perez and Sons,Bobby Durham,815-708-5466x9112,qmurillo@example.com,Aluminium,Andrefurt,Active
+29,"Moore, Crawford and Malone",Amanda Wagner,+1-363-520-3229x2115,kzavala@example.net,Plastic,Port Gary,Active
+30,Johnson Group,Walter Wilkins,2234470567,anthony08@example.net,Rubber,Susanport,Active
+31,"Greene, Koch and Morris",Emily Conrad,001-540-314-0551x330,amandaholt@example.org,Copper,New Amanda,Active
+32,"Williams, Lin and Phillips",Julie Gordon,001-883-219-4799x87965,vanessamcdaniel@example.net,Glass,Morabury,Active
+33,"Stevens, Butler and May",Chad Smith,(812)892-0471,smithclinton@example.net,Aluminium,Beltranmouth,Inactive
+34,Robertson and Sons,David Sanchez,001-591-735-0788x63539,andrewsrobert@example.com,Electronic Components,New Michelle,Active
+35,"Ryan, Gray and Berg",Virginia Grimes,001-399-381-0236,houstonjulie@example.com,Plastic,Jasonside,Active
+36,Miles Inc,Thomas Pena,(203)331-3628,katiehiggins@example.org,Aluminium,Jessicahaven,Inactive
+37,Winters Ltd,Mr. George Lee PhD,663.991.7185,natalie09@example.com,Copper,West Kevin,Active
+38,"Long, Elliott and Lopez",Amber Ortiz MD,001-492-588-3178x85789,cameron61@example.com,Copper,Middletonchester,Inactive
+39,Rush-Cook,Jeffrey Rice,(347)424-1178x8234,ksavage@example.com,Plastic,West Nancy,Inactive
+40,"Cook, Beard and Smith",Jade Martinez,(482)813-8786x497,paige14@example.com,Glass,Danielmouth,Active
+41,Joseph-Thomas,Heather Gomez,730-726-7548x42498,pcollins@example.net,Plastic,Lake Bobby,Inactive
+42,Waller-Mckenzie,Barbara Brown,+1-379-618-8041x2231,jennifer34@example.org,Glass,East Gregory,Active
+43,"Grant, Mccoy and Archer",Mrs. Caroline Brown MD,(420)403-0211,jacqueline43@example.net,Rubber,South Tiffanyville,Active
+44,Griffith-Schwartz,Anne Ferrell,510-356-5970x155,staffordpatrick@example.net,Steel,South Randy,Inactive
+45,Smith and Sons,Scott Stephenson,+1-762-307-7574,mccallrachel@example.net,Rubber,Reyesland,Active
+46,Stewart-Ortiz,Jacob Knox,6967935712,grahamsarah@example.net,Glass,West Robert,Inactive
+47,Marshall Group,Peggy Lewis,001-881-243-6178,pennylivingston@example.org,Copper,Port Bryanshire,Inactive
+48,"Pierce, Mitchell and Barrett",Pamela Woodward,+1-433-785-7155x155,berrydan@example.com,Steel,South Natalie,Active
+49,Robinson and Sons,Gregory Nelson,(661)527-8891x53927,barbara87@example.org,Plastic,South Alyssaburgh,Active
+50,Case-Gross,Peter Parks,001-838-641-2541x238,millerrichard@example.com,Plastic,South Dustinshire,Inactive
+51,"Stark, Hughes and Brown",Robert Peterson,5462830805,ugraves@example.org,Rubber,Smithfort,Active
+52,Coleman Ltd,Mrs. Sharon Williams,(494)656-8931x734,victoriachavez@example.net,Rubber,East Michelle,Inactive
+53,Fisher-Sanchez,Larry Austin,001-717-246-2364x67460,nelsonjoshua@example.net,Rubber,South Peggy,Active
+54,Cabrera Group,Heather Alvarez,916.708.8164x1865,nicholas86@example.net,Plastic,Sloanport,Inactive
+55,Campbell-Taylor,Patricia Wolfe,+1-591-843-7889x1160,manuel54@example.net,Glass,Clintontown,Active
+56,"Arnold, Mcgrath and Peterson",Craig Acosta,001-249-334-6084x66345,brian86@example.org,Copper,Port Michael,Inactive
+57,"Morrison, Ruiz and Franco",Rachel Warren,641-719-3525,samuelgreen@example.org,Rubber,New Brandonborough,Active
+58,Villegas-Bowers,Joyce Hanna,001-608-416-0178x1809,rachael21@example.com,Steel,Melaniestad,Inactive
+59,Weber Inc,John Cameron,310-272-2243x72861,craigturner@example.org,Copper,Henryfurt,Active
+60,Murphy-Lee,Catherine Mitchell,646-571-5292x0090,kjackson@example.com,Plastic,Stewartmouth,Inactive
+61,Mathis and Sons,Michael Hanson,001-245-742-0489x5005,jessicapowers@example.com,Glass,Blanchardborough,Inactive
+62,Carroll PLC,Tiffany Cain,5958470146,carolynle@example.net,Steel,Coxmouth,Inactive
+63,Black Ltd,Elizabeth Price,629-960-1042x7881,pwaters@example.net,Plastic,North Kathryn,Active
+64,Mccall Group,Nancy Davidson,001-738-540-6898x21385,benjamin64@example.com,Steel,Lake Kara,Active
+65,Nguyen-Baker,Danielle Payne DDS,881-806-3571,vnguyen@example.org,Electronic Components,Danielsbury,Inactive
+66,Jordan PLC,Laura Arnold,001-668-329-3619,jessicamoore@example.org,Steel,East Loganbury,Inactive
+67,Chavez Inc,Anthony Vega,4484228961,kristinrobbins@example.com,Rubber,East Danielhaven,Active
+68,Turner-Solis,Tracy Gray,(392)357-5429,dominiqueshaw@example.com,Rubber,North Kimberlyfort,Active
+69,Mclean-Johnson,Ms. Hannah Collins,476-416-4892x51895,huntdavid@example.org,Glass,Paulview,Active
+70,Martin-Smith,John Mathis,+1-890-649-5601x4250,wfitzpatrick@example.org,Steel,West Tammymouth,Inactive
+71,Guerra LLC,Eric Zimmerman,374.389.9443x1119,gardnerlori@example.net,Glass,Gallegosburgh,Active
+72,"Perkins, Mccormick and Mccarthy",Katelyn Perez,(459)497-9538,krista24@example.net,Plastic,Edwinburgh,Active
+73,Sanchez-Hawkins,Yolanda Harris,666-515-6502,georgegates@example.net,Steel,Lake Angelaton,Inactive
+74,"Graves, Blake and Garcia",Mary Medina,(431)507-6683x7067,garciakimberly@example.com,Glass,New Kyle,Active
+75,"Giles, Simon and Gomez",Monica Ashley,(213)935-7558x974,mcculloughanthony@example.org,Rubber,Port Daniel,Active

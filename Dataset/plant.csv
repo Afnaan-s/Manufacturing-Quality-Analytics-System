@@ -1,0 +1,6 @@
+plant_id,plant_name,location,established_date,status
+1,NovaTech Chennai Plant,"Chennai, Tamil Nadu",2015-06-15,Active
+2,NovaTech Coimbatore Plant,"Coimbatore, Tamil Nadu",2017-03-20,Active
+3,NovaTech Bengaluru Electronics Plant,"Bengaluru, Karnataka",2018-09-10,Active
+4,NovaTech Pune Assembly Plant,"Pune, Maharashtra",2016-11-05,Active
+5,NovaTech Hyderabad Quality Plant,"Hyderabad, Telangana",2020-01-18,Active
