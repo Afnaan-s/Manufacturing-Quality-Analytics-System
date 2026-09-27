@@ -527,7 +527,7 @@ Power BI/manufacturing_quality_analytics.pbix
 
 **Data Analyst | Power BI Developer | SQL Enthusiast**
 
-GitHub: [Afnaan-s](/https://github.com/Afnaan-s)
+GitHub: https://github.com/Afnaan-s
 
 ---
 
